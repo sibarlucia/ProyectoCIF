@@ -144,7 +144,7 @@ const buscador = ({placeholder}) => {
   
 
   console.log(Busqueda);
-
+  
 
 
   return (
