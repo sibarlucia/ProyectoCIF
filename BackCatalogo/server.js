@@ -11,7 +11,7 @@ const app = express()
 const mongoose = require('mongoose')
 
 app.use(cors({
-  origin: "http://catalogofront.s3-website-us-east-1.amazonaws.com"
+  origin: "*"
 }))
 app.use((req, res, next) => {
     res.setHeader('Access-Control-Allow-Origin', '*');
