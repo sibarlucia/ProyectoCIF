@@ -11,10 +11,12 @@ const app = express()
 const mongoose = require('mongoose')
 
 app.use(cors({
-  origin: "http://catalogofront.s3-website-us-east-1.amazonaws.com"
+  origin: "http://catalogofront.s3-website-us-east-1.amazonaws.com",
+  origin: "http://ec2-15-229-116-103.sa-east-1.compute.amazonaws.com"
 }))
 app.use((req, res, next) => {
-    res.setHeader('Access-Control-Allow-Origin', '*');
+    res.setHeader('Access-Control-Allow-Origin', 'http://catalogofront.s3-website-us-east-1.amazonaws.com');
+    res.setHeader('Access-Control-Allow-Origin', 'http://ec2-15-229-116-103.sa-east-1.compute.amazonaws.com');
     res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
     res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization');
     next();
