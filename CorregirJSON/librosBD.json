@@ -30,22 +30,22 @@
     },
     {
         "autor": "Oller Carlos",
-        "tituloAlt": "Tablas Sem�nticas y Demostración Natural",
-        "subtitulo": "Escritos de Lógica y Sem�ntica",
+        "tituloAlt": "Tablas Semánticas y Demostración Natural",
+        "subtitulo": "Escritos de Lógica y Semántica",
         "idioma": "es",
         "fechaPublicacion": "1996"
     },
     {
         "autor": "Tarski Alfredo",
         "tituloAlt": "Verdad y Demostración",
-        "subtitulo": "Escritos de Lógica y Sem�ntica",
+        "subtitulo": "Escritos de Lógica y Semántica",
         "idioma": "es",
         "fechaPublicacion": "1996"
     },
     {
         "autor": "Moretti Alberto",
         "tituloAlt": "Concepciones Tarskianas de la Verdad",
-        "subtitulo": "Escritos de Lógica y Sem�ntica",
+        "subtitulo": "Escritos de Lógica y Semántica",
         "idioma": "es",
         "fechaPublicacion": "1996"
     },
@@ -349,7 +349,7 @@
     {
         "autor": "Heidegger Martin",
         "tituloAlt": "Schelling y la libertad humana",
-        "subtitulo": "Col. Pensamiento Filos�fico",
+        "subtitulo": "Col. Pensamiento Filosófico",
         "idioma": "es",
         "signaturaTopografica": "4205B",
         "fechaPublicacion": "1996",
@@ -451,7 +451,7 @@
     {
         "autor": "Hume David",
         "tituloAlt": "Investigación sobre el Entendimiento Humano",
-        "subtitulo": "Col. Biblioteca Filos�fica",
+        "subtitulo": "Col. Biblioteca Filosófica",
         "idioma": "es",
         "signaturaTopografica": "4218LM",
         "fechaPublicacion": "1939",
@@ -510,7 +510,7 @@
     },
     {
         "autor": "Berkeley George",
-        "tituloAlt": "Comentarios Filos�ficos; Introducción Manuscrita a los Principios del Conocimiento Humano; Correspondencia con Johnson",
+        "tituloAlt": "Comentarios Filosóficos; Introducción Manuscrita a los Principios del Conocimiento Humano; Correspondencia con Johnson",
         "idioma": "es",
         "signaturaTopografica": "4223LM",
         "fechaPublicacion": "1989",
@@ -762,7 +762,7 @@
         "palabrasClave": "SPINOZAPOLITICAPASIONESESTADOSOCIEDAD"
     },
     {
-        "autor": "Pe�a García Vidal",
+        "autor": "Peña García Vidal",
         "tituloAlt": "El Materialismo de Spinoza.",
         "subtitulo": "Biblioteca de Filosofía",
         "idioma": "es",
@@ -958,7 +958,7 @@
         "palabrasClave": "SPINOZAMETAFISICAMONISMOSUBSTANCIADIOSDESCARTES"
     },
     {
-        "autor": "Femenías Mar�a Luisa",
+        "autor": "Femenías María Luisa",
         "tituloAlt": "Inferioridad y Exclusión",
         "subtitulo": "Col. Temas",
         "idioma": "es",
@@ -976,7 +976,7 @@
         "palabrasClave": "SPINOZAMETAFISICAMONISMOLIBRE ALBEDRIODIOSPASIONESETICAETICARELIGION"
     },
     {
-        "autor": "S�nchez Estop Juan Domingo",
+        "autor": "Sánchez Estop Juan Domingo",
         "tituloAlt": "Correspondencia Completa",
         "subtitulo": "libros Hiperión",
         "idioma": "es",
@@ -1042,7 +1042,7 @@
         "palabrasClave": "SPINOZAMETAFISICAFISICA CARTESIANA"
     },
     {
-        "titulo": "Spinoza � travers les journaux en langue francaise � la fin du XVIIe si�cle",
+        "titulo": "SpinozaÀtravers les journaux en langue francaiseÀla fin du XVIIe siécle",
         "tituloAlt": "Cahiers Spinoza.",
         "idioma": "fr",
         "signaturaTopografica": "1769B",
@@ -1071,7 +1071,7 @@
         "signaturaTopografica": "1770B"
     },
     {
-        "titulo": "Amsterdam, m�tropole occidentale des Sefarades au XVII si�cle.",
+        "titulo": "Amsterdam, m�tropole occidentale des Sefarades au XVII siécle.",
         "tituloAlt": "Cahiers Spinoza.",
         "idioma": "fr",
         "signaturaTopografica": "1770B",
@@ -1079,7 +1079,7 @@
         "palabrasClave": "SPINOZAMETAFISICAJUDAISMO"
     },
     {
-        "titulo": "Un regard sur la pensée juive � Amsterdam au temps de Spinoza",
+        "titulo": "Un regard sur la pensée juiveÀAmsterdam au temps de Spinoza",
         "tituloAlt": "Cahiers Spinoza.",
         "idioma": "fr",
         "signaturaTopografica": "1770B",
@@ -1111,7 +1111,7 @@
         "palabrasClave": "SPINOZAMETAFISICAINMORTALIDAD"
     },
     {
-        "titulo": "Le herem � Amsterdam et l\"excommunication\" de Spinoza.",
+        "titulo": "Le heremÀAmsterdam et l\"excommunication\" de Spinoza.",
         "tituloAlt": "Cahiers Spinoza.",
         "idioma": "fr",
         "signaturaTopografica": "1770B",
@@ -1143,7 +1143,7 @@
         "palabrasClave": "SPINOZAMETAFISICAJUDAISMO"
     },
     {
-        "titulo": "R�ponse a Mlle. Dreyfus � propos du Spinoza de M. Gueroult",
+        "titulo": "R�ponse a Mlle. DreyfusÀpropos du Spinoza de M. Gueroult",
         "tituloAlt": "Cahiers Spinoza.",
         "idioma": "fr",
         "signaturaTopografica": "1770B",
@@ -1151,7 +1151,7 @@
         "palabrasClave": "SPINOZAMETAFISICAGUEROULT"
     },
     {
-        "titulo": "La renaissance de Spinoza dans la philosophie religieuse en Allemagne � l'�poque de Goethe",
+        "titulo": "La renaissance de Spinoza dans la philosophie religieuse en AllemagneÀl'�poque de Goethe",
         "tituloAlt": "Cahiers Spinoza.",
         "idioma": "fr",
         "signaturaTopografica": "1770B",
@@ -1203,7 +1203,7 @@
     {
         "autor": "Spinoza Baruch de",
         "tituloAlt": "Tratado Teológico Político.",
-        "subtitulo": "Col. Crítica Filos�fica",
+        "subtitulo": "Col. Crítica Filosófica",
         "idioma": "es",
         "signaturaTopografica": "4276LM",
         "fechaPublicacion": "1978",
@@ -1226,7 +1226,7 @@
     {
         "autor": "Dujovne León",
         "tituloAlt": "Spinoza",
-        "subtitulo": "Ensayos Filos�ficos",
+        "subtitulo": "Ensayos Filosóficos",
         "idioma": "es",
         "signaturaTopografica": "4273LM",
         "fechaPublicacion": "1945",
@@ -1392,7 +1392,7 @@
     },
     {
         "autor": "Rodis-Lewis Genevi�ve",
-        "tituloAlt": "Descartes: Initiation � sa Philosophie",
+        "tituloAlt": "Descartes: InitiationÀsa Philosophie",
         "subtitulo": "Biblioth�que d'Histoire de la Philosophie",
         "idioma": "fr",
         "signaturaTopografica": "22",
@@ -2067,7 +2067,7 @@
     },
     {
         "autor": "Schofield  Malcolm ",
-        "titulo": "El descubrimiento del bien: oikeiosis y kethekonta en la ética estoica.",
+        "titulo": "El descubrimiento del bien: oikeiosis y kethekonta en la etica estoica.",
         "tituloAlt": "Las normas de la naturaleza. ",
         "idioma": "es",
         "signaturaTopografica": "4333B",
@@ -2111,7 +2111,7 @@
     },
     {
         "autor": "Cassin  Barbara",
-        "titulo": "La Historia de la Filosofía, �es o no filos�fica?",
+        "titulo": "La Historia de la Filosofía, �es o no filosófica?",
         "tituloAlt": "Los griegos y sus modernos.",
         "idioma": "es",
         "signaturaTopografica": "20",
@@ -2143,7 +2143,7 @@
     },
     {
         "autor": "Cassin  Barbara",
-        "titulo": "�Qu� le inspira a Ud. la Poética?",
+        "titulo": "�Qu� le inspira a Ud. la Poetica?",
         "tituloAlt": "Los griegos y sus modernos.",
         "idioma": "es",
         "signaturaTopografica": "20"
@@ -2275,7 +2275,7 @@
     },
     {
         "autor": "Schiller F.",
-        "tituloAlt": "La educación estética del hombre.",
+        "tituloAlt": "La educación estetica del hombre.",
         "idioma": "es",
         "signaturaTopografica": "32",
         "fechaPublicacion": "1945",
@@ -2504,7 +2504,7 @@
     {
         "autor": "Leibniz Gottfried Wilhelm",
         "tituloAlt": "La profesión de fe del filósofo",
-        "subtitulo": "Biblioteca de Inciación Filos�fica)",
+        "subtitulo": "Biblioteca de Inciación Filosófica)",
         "idioma": "es",
         "signaturaTopografica": "22",
         "fechaPublicacion": "1966",
@@ -2786,7 +2786,7 @@
     },
     {
         "autor": "Belaval Yvon",
-        "tituloAlt": "Leibniz: Initiation � sa philosophie.",
+        "tituloAlt": "Leibniz: InitiationÀsa philosophie.",
         "subtitulo": "Biblioth�que d'Histoire de la Philosophie.",
         "idioma": "fr",
         "signaturaTopografica": "22",
@@ -3082,7 +3082,7 @@
     },
     {
         "autor": "Bennett Jonathan",
-        "tituloAlt": "Un estudio de la ética de Spinoza.",
+        "tituloAlt": "Un estudio de la etica de Spinoza.",
         "subtitulo": "Sección de obras de Filosofía.)",
         "idioma": "es",
         "signaturaTopografica": "22",
@@ -3157,7 +3157,7 @@
     {
         "autor": "Locke John",
         "tituloAlt": "Ensayo sobre el entendimiento humano. ",
-        "subtitulo": "Biblioteca de Iniciación Filos�fica.)",
+        "subtitulo": "Biblioteca de Iniciación Filosófica.)",
         "idioma": "es",
         "signaturaTopografica": "22",
         "fechaPublicacion": "1977",
@@ -3312,7 +3312,7 @@
     },
     {
         "autor": "Orayen Ra�l ",
-        "titulo": "Aspectos lógicos y sem�nticos del problema del mal.",
+        "titulo": "Aspectos lógicos y semánticos del problema del mal.",
         "tituloAlt": "Ensayos actuales sobre Adam Smith y Hume.",
         "subtitulo": "Serie Verde: Jornadas",
         "idioma": "es",
@@ -3530,7 +3530,7 @@
     },
     {
         "autor": "Morpurgo-Tagliabue  Guido",
-        "tituloAlt": "La Estética Contemporánea. ",
+        "tituloAlt": "La Estetica Contemporánea. ",
         "subtitulo": "Los fundamentos de la Cultura.",
         "idioma": "es",
         "signaturaTopografica": "4338LM",
@@ -3748,7 +3748,7 @@
     },
     {
         "autor": " No fue anotado",
-        "titulo": "La dialectique en transition: de Kant � Fichte.",
+        "titulo": "La dialectique en transition: de KantÀFichte.",
         "tituloAlt": "L'H�ritage de Kant. ",
         "idioma": "fr",
         "signaturaTopografica": "4476LM",
@@ -3771,7 +3771,7 @@
     },
     {
         "autor": " No fue anotado",
-        "titulo": "Alt�rit� et absoluit� de l'esprit. De Schelling � Hegel: sept �tapes sur le chemin.",
+        "titulo": "Alt�rit� et absoluit� de l'esprit. De SchellingÀHegel: sept �tapes sur le chemin.",
         "tituloAlt": "L'H�ritage de Kant. ",
         "idioma": "fr",
         "signaturaTopografica": "4476LM",
@@ -3964,7 +3964,7 @@
     },
     {
         "autor": "Mizrahi Esteban (comps.)",
-        "tituloAlt": "Teor�as filos�ficas de la propiedad",
+        "tituloAlt": "Teor�as filosóficas de la propiedad",
         "idioma": "es",
         "signaturaTopografica": "24.COS",
         "fechaPublicacion": "1997",
@@ -4024,7 +4024,7 @@
     {
         "autor": "Mizrahi  Esteban ",
         "titulo": "El derecho a la propiedad privada en Aristételes y su significado �tico.",
-        "tituloAlt": "Teor�as Filos�ficas de la Propiedad",
+        "tituloAlt": "Teor�as Filosóficas de la Propiedad",
         "idioma": "es",
         "signaturaTopografica": "4330B",
         "fechaPublicacion": "1997",
@@ -4033,7 +4033,7 @@
     {
         "autor": "Mizrahi  Esteban ",
         "titulo": "\"Dominium\" y \"Potestas\" en la filosofía de Tomás de Aquino.",
-        "tituloAlt": "Teor�as Filos�ficas de la Propiedad",
+        "tituloAlt": "Teor�as Filosóficas de la Propiedad",
         "idioma": "es",
         "signaturaTopografica": "4330B",
         "fechaPublicacion": "1997",
@@ -4042,7 +4042,7 @@
     {
         "autor": "Mizrahi  Esteban ",
         "titulo": "Propiedad privada en Juan de Par�s.",
-        "tituloAlt": "Teor�as Filos�ficas de la Propiedad",
+        "tituloAlt": "Teor�as Filosóficas de la Propiedad",
         "idioma": "es",
         "signaturaTopografica": "4330B",
         "fechaPublicacion": "1997",
@@ -4051,7 +4051,7 @@
     {
         "autor": "Mizrahi  Esteban ",
         "titulo": "propiedad Privada e impuestos en el pensamiento de Maquiavelo y Bodin.",
-        "tituloAlt": "Teor�as Filos�ficas de la Propiedad",
+        "tituloAlt": "Teor�as Filosóficas de la Propiedad",
         "idioma": "es",
         "signaturaTopografica": "4330B",
         "fechaPublicacion": "1997",
@@ -4060,7 +4060,7 @@
     {
         "autor": "Mizrahi  Esteban ",
         "titulo": "La subordinación de la Economía a la Política. ",
-        "tituloAlt": "Teor�as Filos�ficas de la Propiedad",
+        "tituloAlt": "Teor�as Filosóficas de la Propiedad",
         "idioma": "es",
         "signaturaTopografica": "4330B",
         "fechaPublicacion": "1997",
@@ -4069,7 +4069,7 @@
     {
         "autor": "Mizrahi  Esteban ",
         "titulo": "Propiedad Privada y Caridad: Locke versus Nozick.",
-        "tituloAlt": "Teor�as Filos�ficas de la Propiedad",
+        "tituloAlt": "Teor�as Filosóficas de la Propiedad",
         "idioma": "es",
         "signaturaTopografica": "4330B",
         "fechaPublicacion": "1997",
@@ -4078,7 +4078,7 @@
     {
         "autor": "Mizrahi  Esteban ",
         "titulo": "Propiedad y justicia en Hume.",
-        "tituloAlt": "Teor�as Filos�ficas de la Propiedad",
+        "tituloAlt": "Teor�as Filosóficas de la Propiedad",
         "idioma": "es",
         "signaturaTopografica": "4330B",
         "fechaPublicacion": "1997",
@@ -4087,7 +4087,7 @@
     {
         "autor": "Mizrahi  Esteban ",
         "titulo": "Rousseau: Propiedad y Desigualdad.",
-        "tituloAlt": "Teor�as Filos�ficas de la Propiedad",
+        "tituloAlt": "Teor�as Filosóficas de la Propiedad",
         "idioma": "es",
         "signaturaTopografica": "4330B",
         "fechaPublicacion": "1997",
@@ -4096,7 +4096,7 @@
     {
         "autor": "Mizrahi  Esteban ",
         "titulo": "Derecho de propiedad y justicia distributiva en Hegel.",
-        "tituloAlt": "Teor�as Filos�ficas de la Propiedad",
+        "tituloAlt": "Teor�as Filosóficas de la Propiedad",
         "idioma": "es",
         "signaturaTopografica": "4330B",
         "fechaPublicacion": "1997",
@@ -4105,7 +4105,7 @@
     {
         "autor": "Mizrahi  Esteban ",
         "titulo": "El concepto de propiedad privada impl�cito en la teor�a marxiana de la explotación del trabajo: Una crítica kantiana.",
-        "tituloAlt": "Teor�as Filos�ficas de la Propiedad",
+        "tituloAlt": "Teor�as Filosóficas de la Propiedad",
         "idioma": "es",
         "signaturaTopografica": "4330B",
         "fechaPublicacion": "1997",
@@ -4145,7 +4145,7 @@
     },
     {
         "autor": "Lessing  Gottfried Ephraim",
-        "tituloAlt": "Escritos Filos�ficos y Teológicos. Ed. de A.A. Rodrigo.",
+        "tituloAlt": "Escritos Filosóficos y Teológicos. Ed. de A.A. Rodrigo.",
         "subtitulo": "Clásicos para una biblioteca contemporánea.",
         "idioma": "es",
         "signaturaTopografica": "4491LM",
@@ -4409,7 +4409,7 @@
     },
     {
         "autor": "Dotti  Jorge",
-        "tituloAlt": "La letra gética. ",
+        "tituloAlt": "La letra getica. ",
         "subtitulo": "Serie: Libros/1",
         "idioma": "es",
         "signaturaTopografica": "4521LM",
@@ -4487,7 +4487,7 @@
     },
     {
         "autor": "Kant  Emmanuel",
-        "tituloAlt": "Prolegom�nes � toute M�taphysique Future qui pourra se pr�senter comme science. ",
+        "tituloAlt": "Prolegom�nesÀtoute M�taphysique Future qui pourra se pr�senter comme science. ",
         "subtitulo": "Biblioth�que des Textes Philosophiques.",
         "idioma": "fr",
         "signaturaTopografica": "4527LM",
@@ -6152,7 +6152,7 @@
     },
     {
         "autor": "Guariglia Osvaldo",
-        "tituloAlt": "La ética en Aristételes o Moral de la Virtud.",
+        "tituloAlt": "La etica en Aristételes o Moral de la Virtud.",
         "idioma": "es",
         "signaturaTopografica": "20.ARI-GUA",
         "fechaPublicacion": "1997",
@@ -6535,7 +6535,7 @@
     },
     {
         "autor": "Jacobsen T.",
-        "tituloAlt": "El pensamiento filos�fico I",
+        "tituloAlt": "El pensamiento filosófico I",
         "idioma": "es",
         "signaturaTopografica": "27.FRA",
         "fechaPublicacion": "1954",
@@ -6591,7 +6591,7 @@
     },
     {
         "autor": "D'Angers Julien-Eymard.",
-        "tituloAlt": "L'Humanisme chr�tien au XVIIe si�cle",
+        "tituloAlt": "L'Humanisme chr�tien au XVIIe siécle",
         "idioma": "fr",
         "signaturaTopografica": "22.D'AN",
         "fechaPublicacion": "1970",
@@ -6742,7 +6742,7 @@
     },
     {
         "autor": "Zarka  Yves Charles",
-        "tituloAlt": "Philosophie et politique � l'age classique.",
+        "tituloAlt": "Philosophie et politiqueÀl'age classique.",
         "subtitulo": "Fondements de la politique)",
         "idioma": "FR",
         "signaturaTopografica": "4586B",
@@ -6904,7 +6904,7 @@
     },
     {
         "autor": "Esquivel  Javier ",
-        "titulo": "Acerca de la creencia filos�fica en el materialismo.",
+        "titulo": "Acerca de la creencia filosófica en el materialismo.",
         "tituloAlt": "La Pol�mica del materialismo.",
         "subtitulo": "Cuadernos de filosofía y ensayo.",
         "idioma": "es",
@@ -7762,8 +7762,8 @@
     {
         "autor": "Camps Victoria",
         "titulo": "Etica y corrupción",
-        "tituloAlt": "Moralidad y ética",
-        "subtitulo": "Cuadernos de ética",
+        "tituloAlt": "Moralidad y etica",
+        "subtitulo": "Cuadernos de etica",
         "idioma": "de",
         "fechaPublicacion": "1998",
         "palabrasClave": "CORRUPCIONESTADOPOLITICA"
@@ -7922,7 +7922,7 @@
     },
     {
         "autor": "Drudis Baldrich Raimundo ",
-        "titulo": "Criterios conceptuales para unas historias de la matemética",
+        "titulo": "Criterios conceptuales para unas historias de la matemetica",
         "tituloAlt": "Wittgenstein y el C�rculo de Viena",
         "idioma": "es",
         "signaturaTopografica": "4523B",
@@ -8261,7 +8261,7 @@
     },
     {
         "autor": "Duchesneau François",
-        "tituloAlt": "Les mod�les du vivant de Descartes � Leibniz.",
+        "tituloAlt": "Les mod�les du vivant de DescartesÀLeibniz.",
         "idioma": "fr",
         "signaturaTopografica": "4631B",
         "fechaPublicacion": "1998",
@@ -8751,7 +8751,7 @@
     },
     {
         "autor": "Lafond Jean",
-        "tituloAlt": "Moralistes du XVII� si�cle.",
+        "tituloAlt": "Moralistes du XVII� siécle.",
         "subtitulo": "Coll. Bouquins",
         "idioma": "fr",
         "signaturaTopografica": "4644EdO",
@@ -8761,7 +8761,7 @@
     {
         "autor": "Lafond Jean",
         "titulo": "Le champ littéraire des formes br�ves",
-        "tituloAlt": "Moralistes du XVII si�cle.",
+        "tituloAlt": "Moralistes du XVII siécle.",
         "subtitulo": "Bouquins",
         "idioma": "fr",
         "signaturaTopografica": "4644EdO",
@@ -8771,7 +8771,7 @@
     {
         "autor": "Lafond Jean",
         "titulo": "La Rochefoucauld, Madame de Sabl�",
-        "tituloAlt": "Moralistes du XVII si�cle.",
+        "tituloAlt": "Moralistes du XVII siécle.",
         "subtitulo": "Bouquins",
         "idioma": "fr",
         "signaturaTopografica": "4644EdO",
@@ -8781,7 +8781,7 @@
     {
         "autor": "Lafond Jean",
         "titulo": "Abb� d'Ailly",
-        "tituloAlt": "Moralistes du XVII si�cle.",
+        "tituloAlt": "Moralistes du XVII siécle.",
         "subtitulo": "Bouquins",
         "idioma": "fr",
         "signaturaTopografica": "4644EdO",
@@ -8791,7 +8791,7 @@
     {
         "autor": "Lafond Jean",
         "titulo": "Pascal",
-        "tituloAlt": "Moralistes du XVII si�cle.",
+        "tituloAlt": "Moralistes du XVII siécle.",
         "subtitulo": "Bouquins",
         "idioma": "fr",
         "signaturaTopografica": "4644EdO",
@@ -8801,7 +8801,7 @@
     {
         "autor": "Lafond Jean",
         "titulo": "Jean Domat",
-        "tituloAlt": "Moralistes du XVII si�cle.",
+        "tituloAlt": "Moralistes du XVII siécle.",
         "subtitulo": "Bouquins",
         "idioma": "fr",
         "signaturaTopografica": "4644EdO",
@@ -8811,7 +8811,7 @@
     {
         "autor": "Lafond Jean",
         "titulo": "Discours sur les passions de l�me.",
-        "tituloAlt": "Moralistes du XVII si�cle.",
+        "tituloAlt": "Moralistes du XVII siécle.",
         "subtitulo": "Bouquins",
         "idioma": "fr",
         "signaturaTopografica": "4644EdO",
@@ -8821,7 +8821,7 @@
     {
         "autor": "Lafond Jean",
         "titulo": "La Bruy�re",
-        "tituloAlt": "Moralistes du XVII si�cle.",
+        "tituloAlt": "Moralistes du XVII siécle.",
         "subtitulo": "Bouquins",
         "idioma": "fr",
         "signaturaTopografica": "4644EdO",
@@ -8831,7 +8831,7 @@
     {
         "autor": "Lafond Jean",
         "titulo": "Dufresny",
-        "tituloAlt": "Moralistes du XVII si�cle.",
+        "tituloAlt": "Moralistes du XVII siécle.",
         "subtitulo": "Bouquins",
         "idioma": "fr",
         "signaturaTopografica": "4644EdO",
@@ -9928,7 +9928,7 @@
     {
         "autor": "Peirce Charles Sanders",
         "tituloAlt": "Lecciones sobre el pragmatismo",
-        "subtitulo": "Biblioteca de Iniciación Filos�fica",
+        "subtitulo": "Biblioteca de Iniciación Filosófica",
         "idioma": "en",
         "signaturaTopografica": "4708EdO",
         "fechaPublicacion": "1978",
@@ -10068,7 +10068,7 @@
     {
         "autor": "Martínez Sergio F.",
         "tituloAlt": "De los efectos a las causas.",
-        "subtitulo": "Problemas Científcos y Filos�ficos",
+        "subtitulo": "Problemas Científcos y Filosóficos",
         "idioma": "es",
         "signaturaTopografica": "4742B",
         "fechaPublicacion": "1997",
@@ -10722,7 +10722,7 @@
     },
     {
         "autor": "Castañeda Hector-Neri",
-        "tituloAlt": "Autobiografía filos�fica",
+        "tituloAlt": "Autobiografía filosófica",
         "idioma": "es",
         "signaturaTopografica": "4749B",
         "fechaPublicacion": "1986",
@@ -12022,7 +12022,7 @@
     },
     {
         "autor": "Salles Arleen",
-        "tituloAlt": "bioética",
+        "tituloAlt": "bioetica",
         "idioma": "es",
         "signaturaTopografica": "4620B",
         "fechaPublicacion": "1998",
@@ -12207,7 +12207,7 @@
         "palabrasClave": "CUERPOCORPORALIDADYO"
     },
     {
-        "autor": "Rovaletti Mar�a Lucrecia",
+        "autor": "Rovaletti María Lucrecia",
         "tituloAlt": "Temporalidad",
         "idioma": "es",
         "signaturaTopografica": "4787B",
@@ -12752,7 +12752,7 @@
     },
     {
         "autor": "Habermas Jürgen",
-        "tituloAlt": "Perfiles filos�fico-políticos",
+        "tituloAlt": "Perfiles filosófico-políticos",
         "idioma": "es",
         "signaturaTopografica": "4814LM",
         "fechaPublicacion": "1975",
@@ -12901,7 +12901,7 @@
     },
     {
         "autor": "Comesa�a Juan Manuel",
-        "tituloAlt": "Lógica informal, falacias y argumentos filos�ficos",
+        "tituloAlt": "Lógica informal, falacias y argumentos filosóficos",
         "subtitulo": "Enciclopedia lógica",
         "idioma": "es",
         "signaturaTopografica": "4743B",
@@ -12955,7 +12955,7 @@
     },
     {
         "autor": "Dascal Marcelo",
-        "titulo": "La pragmética y las intenciones comunicativas",
+        "titulo": "La pragmetica y las intenciones comunicativas",
         "tituloAlt": "Filosofia del lenguaje II",
         "subtitulo": "Enciclopedia Iberoamericana de Filosofía",
         "idioma": "es",
@@ -13005,7 +13005,7 @@
     },
     {
         "autor": "Dascal Marcelo",
-        "titulo": "Pragmética Trascendental",
+        "titulo": "Pragmetica Trascendental",
         "tituloAlt": "Filosofia del lenguaje II",
         "subtitulo": "Enciclopedia Iberoamericana de Filosofía",
         "idioma": "es",
@@ -13035,7 +13035,7 @@
     },
     {
         "autor": "Dascal Marcelo",
-        "titulo": "Pragmética y análisis gramatical",
+        "titulo": "Pragmetica y análisis gramatical",
         "tituloAlt": "Filosofia del lenguaje II",
         "subtitulo": "Enciclopedia Iberoamericana de Filosofía",
         "idioma": "es",
@@ -13453,7 +13453,7 @@
     },
     {
         "autor": "Novalis ",
-        "tituloAlt": "Fragments, pr�c�d� de Les disciples � Sa�s",
+        "tituloAlt": "Fragments, pr�c�d� de Les disciplesÀSa�s",
         "idioma": "fr",
         "signaturaTopografica": "28.NOV",
         "fechaPublicacion": "1992",
@@ -14558,7 +14558,7 @@
     },
     {
         "autor": "Rabossi Eduardo",
-        "titulo": "�Cómo explicar lo mental? Cuestiones filos�ficas y marcos científcos",
+        "titulo": "�Cómo explicar lo mental? Cuestiones filosóficas y marcos científcos",
         "tituloAlt": "Filosofía de la mente y ciencia cognitiva",
         "subtitulo": "Paid�s Basica",
         "idioma": "es",
@@ -14658,7 +14658,7 @@
     },
     {
         "autor": "Rabossi Eduardo",
-        "titulo": "Aviso en favor de una sem�ntica para la psicología (selección)",
+        "titulo": "Aviso en favor de una semántica para la psicología (selección)",
         "tituloAlt": "Filosofía de la mente y ciencia cognitiva",
         "subtitulo": "Paid�s Basica",
         "idioma": "es",
@@ -14834,7 +14834,7 @@
     },
     {
         "autor": "Giusti Miguel",
-        "titulo": "Aret� como ejercicio de excelencia y como telos en la ética de Husserl",
+        "titulo": "Aret� como ejercicio de excelencia y como telos en la etica de Husserl",
         "tituloAlt": "La noción de aret�",
         "subtitulo": "Aret�. Volumen de Aniversario",
         "idioma": "es",
@@ -14864,7 +14864,7 @@
     },
     {
         "autor": "Giusti Miguel",
-        "titulo": "La ética de la virtud",
+        "titulo": "La etica de la virtud",
         "tituloAlt": "La noción de aret�",
         "subtitulo": "Aret�. Volumen de Aniversario",
         "idioma": "es",
@@ -14874,7 +14874,7 @@
     },
     {
         "autor": "Giusti Miguel",
-        "titulo": "Etica antigua y ética contemporánea",
+        "titulo": "Etica antigua y etica contemporánea",
         "tituloAlt": "La noción de aret�o^",
         "subtitulo": "Aret�. Volumen de Aniversario",
         "idioma": "es",
@@ -14904,7 +14904,7 @@
     },
     {
         "autor": "Giusti Miguel",
-        "titulo": "La ética de la responsabilidad como desaf�o de la filosofía en el mundo moderno",
+        "titulo": "La etica de la responsabilidad como desaf�o de la filosofía en el mundo moderno",
         "tituloAlt": "La noción de aret�",
         "subtitulo": "Aret�. Volumen de Aniversario",
         "idioma": "es",
@@ -15053,7 +15053,7 @@
     },
     {
         "autor": "Frege Gottlob",
-        "tituloAlt": "Estudios sobre sem�ntica.",
+        "tituloAlt": "Estudios sobre semántica.",
         "idioma": "es",
         "signaturaTopografica": "29.FRE",
         "fechaPublicacion": "1971",
@@ -16087,7 +16087,7 @@
     },
     {
         "autor": "Avenburg Ricardo et all",
-        "titulo": "Teor�as filos�ficas de la acción humana y la explicación de la acción",
+        "titulo": "Teor�as filosóficas de la acción humana y la explicación de la acción",
         "tituloAlt": "Teor�a de la acción",
         "idioma": "es",
         "signaturaTopografica": "4913B",
@@ -16220,7 +16220,7 @@
     {
         "autor": "Mondolfo Rodolfo",
         "tituloAlt": "Figuras e ideas de la filosofía del Renacimiento",
-        "subtitulo": "Biblioteca Filos�fica",
+        "subtitulo": "Biblioteca Filosófica",
         "idioma": "en",
         "signaturaTopografica": "4920LM",
         "fechaPublicacion": "1954",
@@ -16244,7 +16244,7 @@
     },
     {
         "autor": "Sobrevilla David",
-        "tituloAlt": "Filosofía, política y estética en la Crítica del Juicio de Kant",
+        "tituloAlt": "Filosofía, política y estetica en la Crítica del Juicio de Kant",
         "idioma": "es",
         "signaturaTopografica": "4925LM",
         "fechaPublicacion": "1991",
@@ -16252,8 +16252,8 @@
     },
     {
         "autor": "Sobrevilla David",
-        "titulo": "La Crítica de la Facultad Discretiva y la unidad sistemética de la filosofía trascendental",
-        "tituloAlt": "Filosofía, política y estética en la Crítica del Juicio de Kant",
+        "titulo": "La Crítica de la Facultad Discretiva y la unidad sistemetica de la filosofía trascendental",
+        "tituloAlt": "Filosofía, política y estetica en la Crítica del Juicio de Kant",
         "idioma": "es",
         "signaturaTopografica": "4925LM",
         "fechaPublicacion": "1991",
@@ -16262,7 +16262,7 @@
     {
         "autor": "Sobrevilla David",
         "titulo": "La filosofía como doctrina y como técnica",
-        "tituloAlt": "Filosofía, política y estética en la Crítica del Juicio de Kant",
+        "tituloAlt": "Filosofía, política y estetica en la Crítica del Juicio de Kant",
         "idioma": "es",
         "signaturaTopografica": "4925LM",
         "fechaPublicacion": "1991",
@@ -16271,7 +16271,7 @@
     {
         "autor": "Sobrevilla David",
         "titulo": "El t�rmino Gem�t en la Crítica del Juicio",
-        "tituloAlt": "Filosofía, política y estética en la Crítica del Juicio de Kant",
+        "tituloAlt": "Filosofía, política y estetica en la Crítica del Juicio de Kant",
         "idioma": "es",
         "signaturaTopografica": "4925LM",
         "fechaPublicacion": "1991",
@@ -16280,7 +16280,7 @@
     {
         "autor": "Sobrevilla David",
         "titulo": "Autonomía judicativa y espontaneidad natural",
-        "tituloAlt": "Filosofía, política y estética en la Crítica del Juicio de Kant",
+        "tituloAlt": "Filosofía, política y estetica en la Crítica del Juicio de Kant",
         "idioma": "es",
         "signaturaTopografica": "4925LM",
         "fechaPublicacion": "1991",
@@ -16289,7 +16289,7 @@
     {
         "autor": "Sobrevilla David",
         "titulo": "La teor�a kantiana del afecto y la tonalidad afectiva del texto kantiano",
-        "tituloAlt": "Filosofía, política y estética en la Crítica del Juicio de Kant",
+        "tituloAlt": "Filosofía, política y estetica en la Crítica del Juicio de Kant",
         "idioma": "es",
         "signaturaTopografica": "4925LM",
         "fechaPublicacion": "1991",
@@ -16298,7 +16298,7 @@
     {
         "autor": "Sobrevilla David",
         "titulo": "La libertad del juicio",
-        "tituloAlt": "Filosofía, política y estética en la Crítica del Juicio de Kant",
+        "tituloAlt": "Filosofía, política y estetica en la Crítica del Juicio de Kant",
         "idioma": "es",
         "signaturaTopografica": "4925LM",
         "fechaPublicacion": "1991",
@@ -16307,7 +16307,7 @@
     {
         "autor": "Sobrevilla David",
         "titulo": "Intersubjetividad y gusto en la Crítica del Juicio",
-        "tituloAlt": "Filosofía, política y estética en la Crítica del Juicio de Kant",
+        "tituloAlt": "Filosofía, política y estetica en la Crítica del Juicio de Kant",
         "idioma": "es",
         "signaturaTopografica": "4925LM",
         "fechaPublicacion": "1991",
@@ -16316,7 +16316,7 @@
     {
         "autor": "Sobrevilla David",
         "titulo": "La belleza de los cristales",
-        "tituloAlt": "Filosofía, política y estética en la Crítica del Juicio de Kant",
+        "tituloAlt": "Filosofía, política y estetica en la Crítica del Juicio de Kant",
         "idioma": "es",
         "signaturaTopografica": "4925LM",
         "fechaPublicacion": "1991",
@@ -16325,7 +16325,7 @@
     {
         "autor": "Sobrevilla David",
         "titulo": "Imitación y expresión",
-        "tituloAlt": "Filosofía, política y estética en la Crítica del Juicio de Kant",
+        "tituloAlt": "Filosofía, política y estetica en la Crítica del Juicio de Kant",
         "idioma": "es",
         "signaturaTopografica": "4925LM",
         "fechaPublicacion": "1991",
@@ -16333,8 +16333,8 @@
     },
     {
         "autor": "Sobrevilla David",
-        "titulo": "La obra de arte en la teor�a estética de Kant",
-        "tituloAlt": "Filosofía, política y estética en la Crítica del Juicio de Kant",
+        "titulo": "La obra de arte en la teor�a estetica de Kant",
+        "tituloAlt": "Filosofía, política y estetica en la Crítica del Juicio de Kant",
         "idioma": "es",
         "signaturaTopografica": "4925LM",
         "fechaPublicacion": "1991",
@@ -16343,7 +16343,7 @@
     {
         "autor": "Sobrevilla David",
         "titulo": "Los planteamientos estéticos de Diderot y Kant",
-        "tituloAlt": "Filosofía, política y estética en la Crítica del Juicio de Kant",
+        "tituloAlt": "Filosofía, política y estetica en la Crítica del Juicio de Kant",
         "idioma": "es",
         "signaturaTopografica": "4925LM",
         "fechaPublicacion": "1991",
@@ -16947,7 +16947,7 @@
     },
     {
         "autor": "Ross David",
-        "tituloAlt": "Fundamentos de ética",
+        "tituloAlt": "Fundamentos de etica",
         "subtitulo": "Manuales/Eudeba)",
         "idioma": "es",
         "signaturaTopografica": "4971EdeO",
@@ -17112,7 +17112,7 @@
         "palabrasClave": "HOBBESLEYDERECHO"
     },
     {
-        "titulo": "Etat et soci�t� civile: de Hegel � Hobbes",
+        "titulo": "Etat et soci�t� civile: de HegelÀHobbes",
         "subtitulo": "Revue europ�enne des sciences sociales",
         "idioma": "fr",
         "signaturaTopografica": "4974EdeO",
@@ -17126,7 +17126,7 @@
         "palabrasClave": "HOBBESLEYDERECHO"
     },
     {
-        "titulo": "Hobbes au XX� si�cle:quelques r�f�rences contemporaines � Hobbes",
+        "titulo": "Hobbes au XX� siécle:quelques r�f�rences contemporainesÀHobbes",
         "subtitulo": "Revue europ�enne des sciences sociales",
         "idioma": "fr",
         "signaturaTopografica": "4974EdeO",
@@ -18696,7 +18696,7 @@
     },
     {
         "autor": "Gilson Etienne",
-        "tituloAlt": "La unidad de la experiencia filos�fica",
+        "tituloAlt": "La unidad de la experiencia filosófica",
         "idioma": "es",
         "signaturaTopografica": "5072EdO",
         "fechaPublicacion": "1966",
@@ -19058,7 +19058,7 @@
     },
     {
         "autor": "Rabossi Eduardo A.",
-        "tituloAlt": "análisis filos�fico, lenguaje y metaf�sica",
+        "tituloAlt": "análisis filosófico, lenguaje y metaf�sica",
         "subtitulo": "Colección Estudios",
         "idioma": "es",
         "signaturaTopografica": "5115LM",
@@ -19144,7 +19144,7 @@
         "palabrasClave": "ESCEPTICISMOVERDADPENSAR"
     },
     {
-        "titulo": "Ceticismo, Causalidade e Patologias da Cognicao Dogmética",
+        "titulo": "Ceticismo, Causalidade e Patologias da Cognicao Dogmetica",
         "tituloAlt": "O que nos faz pensar",
         "subtitulo": "Cadernos do Dept� de Filosofia de PUC-Rio",
         "idioma": "pt",
@@ -19409,7 +19409,7 @@
     },
     {
         "autor": "Martín Félix",
-        "titulo": "Hume y la ética (contemporánea)",
+        "titulo": "Hume y la etica (contemporánea)",
         "tituloAlt": "David Hume",
         "subtitulo": "Philosophica Complutensia",
         "idioma": "es",
@@ -19419,7 +19419,7 @@
     },
     {
         "autor": "Martín Félix",
-        "titulo": "ética y estética son lo mismo",
+        "titulo": "etica y estetica son lo mismo",
         "tituloAlt": "David Hume",
         "subtitulo": "Philosophica Complutensia",
         "idioma": "es",
@@ -19989,7 +19989,7 @@
         "palabrasClave": "JUSTIFICACIONCONOCIMIENTO"
     },
     {
-        "autor": "S�nchez Dur� N.",
+        "autor": "Sánchez Dur� N.",
         "tituloAlt": "Mirar con cuidado",
         "idioma": "es",
         "signaturaTopografica": "5142EdO",
@@ -19997,7 +19997,7 @@
         "palabrasClave": "CONOCIMIENTOESCEPTICISMOVERDADCREENCIA"
     },
     {
-        "autor": "S�nchez Dur� N.",
+        "autor": "Sánchez Dur� N.",
         "titulo": "El pirronismo y la hermenáutica esc�ptica del pensamiento anterior a Pirr�n",
         "tituloAlt": "Mirar con cuidado",
         "idioma": "es",
@@ -20006,7 +20006,7 @@
         "palabrasClave": "CONOCIMIENTOESCEPTICISMOPIRRONFILOSOFIA ANTIGUA"
     },
     {
-        "autor": "S�nchez Dur� N.",
+        "autor": "Sánchez Dur� N.",
         "titulo": "Profec�a y escepticismo en los siglos XVI y XVII",
         "tituloAlt": "Mirar con cuidado",
         "idioma": "es",
@@ -20015,7 +20015,7 @@
         "palabrasClave": "CONOCIMIENTOESCEPTICISMOVERDADCREENCIAFILOSOFIA MODERNA"
     },
     {
-        "autor": "S�nchez Dur� N.",
+        "autor": "Sánchez Dur� N.",
         "titulo": "Pascal, entre Descartes y el pirronismo",
         "tituloAlt": "Mirar con cuidado",
         "idioma": "es",
@@ -20024,7 +20024,7 @@
         "palabrasClave": "CONOCIMIENTOESCEPTICISMOPASCALDESCARTES"
     },
     {
-        "autor": "S�nchez Dur� N.",
+        "autor": "Sánchez Dur� N.",
         "titulo": "Del delirio melanc�lico a la serenidad reflexiva. El escepticismo humeano y la condición humana",
         "tituloAlt": "Mirar con cuidado",
         "idioma": "es",
@@ -20033,8 +20033,8 @@
         "palabrasClave": "CONOCIMIENTOESCEPTICISMOHUME"
     },
     {
-        "autor": "S�nchez Dur� N.",
-        "titulo": "El escepticismo de la raz�n filos�fica y la paz perpetua en filosofía",
+        "autor": "Sánchez Dur� N.",
+        "titulo": "El escepticismo de la raz�n filosófica y la paz perpetua en filosofía",
         "tituloAlt": "Mirar con cuidado",
         "idioma": "es",
         "signaturaTopografica": "5142EdO",
@@ -20042,7 +20042,7 @@
         "palabrasClave": "CONOCIMIENTOESCEPTICISMORAZaN"
     },
     {
-        "autor": "S�nchez Dur� N.",
+        "autor": "Sánchez Dur� N.",
         "titulo": "Nietzsche y el escepticismo. Ensayo aclaratorio de una pretendida contradicción",
         "tituloAlt": "Mirar con cuidado",
         "idioma": "es",
@@ -20051,7 +20051,7 @@
         "palabrasClave": "CONOCIMIENTOESCEPTICISMONIETZSCHE"
     },
     {
-        "autor": "S�nchez Dur� N.",
+        "autor": "Sánchez Dur� N.",
         "titulo": "Escepticismo e identidad personal",
         "tituloAlt": "Mirar con cuidado",
         "idioma": "es",
@@ -20060,7 +20060,7 @@
         "palabrasClave": "CONOCIMIENTOESCEPTICISMONIETZSCHEIDENTIDADDESCARTES"
     },
     {
-        "autor": "S�nchez Dur� N.",
+        "autor": "Sánchez Dur� N.",
         "titulo": "Quine: Realismo contumaz",
         "tituloAlt": "Mirar con cuidado",
         "idioma": "es",
@@ -20069,7 +20069,7 @@
         "palabrasClave": "CONOCIMIENTOESCEPTICISMOQUINEREALISMO"
     },
     {
-        "autor": "S�nchez Dur� N.",
+        "autor": "Sánchez Dur� N.",
         "titulo": "Conocimiento y contexto",
         "tituloAlt": "Mirar con cuidado",
         "idioma": "es",
@@ -20078,7 +20078,7 @@
         "palabrasClave": "CONOCIMIENTOESCEPTICISMOCONTEXTO"
     },
     {
-        "autor": "S�nchez Dur� N.",
+        "autor": "Sánchez Dur� N.",
         "titulo": "Externalismo, escepticismo y el principio iterativo de conocimiento",
         "tituloAlt": "Mirar con cuidado",
         "idioma": "es",
@@ -20087,7 +20087,7 @@
         "palabrasClave": "CONOCIMIENTOESCEPTICISMO"
     },
     {
-        "autor": "S�nchez Dur� N.",
+        "autor": "Sánchez Dur� N.",
         "titulo": "Escepticismo y contenido mental",
         "tituloAlt": "Mirar con cuidado",
         "idioma": "es",
@@ -20096,7 +20096,7 @@
         "palabrasClave": "CONOCIMIENTOESCEPTICISMOVERDADCREENCIA"
     },
     {
-        "autor": "S�nchez Dur� N.",
+        "autor": "Sánchez Dur� N.",
         "titulo": "La naturalización de la epistemología y el escepticismo sobre el sujeto",
         "tituloAlt": "Mirar con cuidado",
         "idioma": "es",
@@ -20105,7 +20105,7 @@
         "palabrasClave": "CONOCIMIENTOESCEPTICISMOVERDADCREENCIANATURALISMO"
     },
     {
-        "autor": "S�nchez Dur� N.",
+        "autor": "Sánchez Dur� N.",
         "titulo": "�Cómo es que Edipo no sospech� que Yocasta era su madre?",
         "tituloAlt": "Mirar con cuidado",
         "idioma": "es",
@@ -20114,7 +20114,7 @@
         "palabrasClave": "CONOCIMIENTOESCEPTICISMOVERDADCREENCIAINDUCCION"
     },
     {
-        "autor": "S�nchez Dur� N.",
+        "autor": "Sánchez Dur� N.",
         "titulo": "Insuficiencia del escepticismo",
         "tituloAlt": "Mirar con cuidado",
         "idioma": "es",
@@ -20123,7 +20123,7 @@
         "palabrasClave": "CONOCIMIENTOESCEPTICISMOVERDADCREENCIA"
     },
     {
-        "autor": "S�nchez Dur� N.",
+        "autor": "Sánchez Dur� N.",
         "titulo": "Miradas fulgurantes y traductores caritativos",
         "tituloAlt": "Mirar con cuidado",
         "idioma": "es",
@@ -20132,7 +20132,7 @@
         "palabrasClave": "CONOCIMIENTOESCEPTICISMOVERDADCREENCIA"
     },
     {
-        "autor": "S�nchez Dur� N.",
+        "autor": "Sánchez Dur� N.",
         "titulo": "Fe y saber",
         "tituloAlt": "Mirar con cuidado",
         "idioma": "es",
@@ -20141,7 +20141,7 @@
         "palabrasClave": "CONOCIMIENTOESCEPTICISMOFESABER"
     },
     {
-        "autor": "S�nchez Dur� N.",
+        "autor": "Sánchez Dur� N.",
         "titulo": "Otra manera de ver-lo que se da a ver",
         "tituloAlt": "Mirar con cuidado",
         "idioma": "es",
@@ -20175,8 +20175,8 @@
         "palabrasClave": "MAQUIAVELOFILOSOFIA POLITICA"
     },
     {
-        "autor": "Voltaire (Francisco-Mar�a Arouet) ",
-        "tituloAlt": "Cartas Filos�ficas",
+        "autor": "Voltaire (Francisco-María Arouet) ",
+        "tituloAlt": "Cartas Filosóficas",
         "subtitulo": "Biblioteca de la literatura y el pensamiento universales",
         "idioma": "en",
         "signaturaTopografica": "5151LM",
@@ -20184,7 +20184,7 @@
         "palabrasClave": "VOLTAIRECARTAS FILOSOFICAS"
     },
     {
-        "autor": "Voltarie (Francisco-Mar�a Arouet) ",
+        "autor": "Voltarie (Francisco-María Arouet) ",
         "tituloAlt": "Dictionaire philosophique",
         "idioma": "fr",
         "signaturaTopografica": "5150LM",
@@ -20328,7 +20328,7 @@
         "palabrasClave": "ARISTOTELESANALITICA"
     },
     {
-        "autor": "S�nchez-Mazas Miguel",
+        "autor": "Sánchez-Mazas Miguel",
         "tituloAlt": "Obras escogidas I",
         "idioma": "es",
         "signaturaTopografica": "29.SAN",
@@ -20336,7 +20336,7 @@
         "palabrasClave": "SANCHEZ-MAZASCONCEPTONUMEROCARACTERISTICA NUMERICA"
     },
     {
-        "autor": "S�nchez-Mazas Miguel",
+        "autor": "Sánchez-Mazas Miguel",
         "tituloAlt": "Obras escogidas II",
         "idioma": "es",
         "signaturaTopografica": "29.SAN",
@@ -20524,7 +20524,7 @@
     },
     {
         "autor": "Gaeta R.",
-        "titulo": "La ética entre el silencio de la palabra y la ret�rica argumentativa del poder",
+        "titulo": "La etica entre el silencio de la palabra y la ret�rica argumentativa del poder",
         "tituloAlt": "Universalismo y multiculturalismo",
         "idioma": "es",
         "signaturaTopografica": "5180 SEPCYT OG",
@@ -20560,7 +20560,7 @@
     },
     {
         "autor": "Gaeta R.",
-        "titulo": "El concepto de phr�nesis y su compatibilidad con la ética universalista",
+        "titulo": "El concepto de phr�nesis y su compatibilidad con la etica universalista",
         "tituloAlt": "Universalismo y multiculturalismo",
         "idioma": "es",
         "signaturaTopografica": "5180 SEPCYT OG",
@@ -20621,7 +20621,7 @@
     {
         "autor": "Rorty Richard",
         "tituloAlt": "Verdad y progreso",
-        "subtitulo": "Escritos filos�ficos",
+        "subtitulo": "Escritos filosóficos",
         "idioma": "es",
         "signaturaTopografica": "5175 SEPCYT OG",
         "fechaPublicacion": "2000",
@@ -21101,7 +21101,7 @@
         "palabrasClave": "SOCRATESSOFISTAS"
     },
     {
-        "autor": "Santa Cruz de Prunes Mar�a Isabel",
+        "autor": "Santa Cruz de Prunes María Isabel",
         "tituloAlt": "La gen�se du monde sensible dans la philosophie de Plotin",
         "idioma": "es",
         "signaturaTopografica": "1615B",
@@ -21310,7 +21310,7 @@
         "palabrasClave": "RENACIMIENTOMONTAIGNEESCEPTICISMO"
     },
     {
-        "autor": "Fernández Santamar�a José A.",
+        "autor": "Fernández Santamaría José A.",
         "tituloAlt": "Juan Luis Vives",
         "subtitulo": "Acta Salamanticensia",
         "idioma": "es",
@@ -21319,7 +21319,7 @@
         "palabrasClave": "JOSE LUIS VIVESESCEPTICISMOFRANCISCO SANCHEZ"
     },
     {
-        "autor": "S�nchez Francisco",
+        "autor": "Sánchez Francisco",
         "tituloAlt": "That nothing is known",
         "idioma": "en",
         "signaturaTopografica": "5214EdO",
@@ -21327,7 +21327,7 @@
         "palabrasClave": "RENACIMIENTOESCEPTICISMOFRANCISCO SANCHEZ"
     },
     {
-        "autor": "S�nchez Francisco",
+        "autor": "Sánchez Francisco",
         "tituloAlt": "Que nada se sabe",
         "subtitulo": "Camino de Santiago",
         "idioma": "es",
@@ -21336,7 +21336,7 @@
         "palabrasClave": "RENACIMIENTOESCEPTICISMOFRANCISCO SANCHEZ"
     },
     {
-        "autor": "S�nchez Francisco",
+        "autor": "Sánchez Francisco",
         "tituloAlt": "Quod nihil scitur",
         "idioma": "es",
         "signaturaTopografica": "5212EdO",
@@ -21344,7 +21344,7 @@
         "palabrasClave": "RENACIMIENTOESCEPTICISMOFRANCISCO SANCHEZ"
     },
     {
-        "autor": "S�nchez Francisco",
+        "autor": "Sánchez Francisco",
         "tituloAlt": "Que nada se sabe",
         "idioma": "es",
         "signaturaTopografica": "5211EdO",
@@ -21353,7 +21353,7 @@
     },
     {
         "autor": "Mellizo Carlos",
-        "tituloAlt": "Nueva introducción a Francisco S�nchez, \"el esc�ptico\"",
+        "tituloAlt": "Nueva introducción a Francisco Sánchez, \"el esc�ptico\"",
         "idioma": "es",
         "signaturaTopografica": "5209EdO",
         "fechaPublicacion": "1982",
@@ -21451,7 +21451,7 @@
     },
     {
         "autor": "Gómez Lobo Alfonso",
-        "tituloAlt": "La ética de S�crates",
+        "tituloAlt": "La etica de S�crates",
         "idioma": "es",
         "signaturaTopografica": "5229LM",
         "fechaPublicacion": "1989",
@@ -22101,7 +22101,7 @@
         "palabrasClave": "GRECIAPLATONISMOARISTOTELISMO"
     },
     {
-        "autor": "Femenías Mar�a Luisa",
+        "autor": "Femenías María Luisa",
         "tituloAlt": "Sobre sujeto y género (Lecturas feministas desde Beauvoir a Butler)",
         "idioma": "es",
         "signaturaTopografica": "5189B",
@@ -22118,7 +22118,7 @@
     },
     {
         "autor": "Russell Bertrand",
-        "tituloAlt": "análisis filos�fico",
+        "tituloAlt": "análisis filosófico",
         "subtitulo": "Pensamiento contempor�neo",
         "idioma": "es",
         "signaturaTopografica": "4765B",
@@ -22128,7 +22128,7 @@
     {
         "autor": "Hacking Ian",
         "tituloAlt": "Representar e intervenir",
-        "subtitulo": "Problemas científcos y filos�ficos",
+        "subtitulo": "Problemas científcos y filosóficos",
         "idioma": "es",
         "signaturaTopografica": "4728B",
         "fechaPublicacion": "1996",
@@ -22137,7 +22137,7 @@
     {
         "autor": "van Fraassen Bas C.",
         "tituloAlt": "La imagen científca",
-        "subtitulo": "Problemas científcos y filos�ficos",
+        "subtitulo": "Problemas científcos y filosóficos",
         "idioma": "es",
         "signaturaTopografica": "4735B",
         "fechaPublicacion": "1996",
@@ -22146,7 +22146,7 @@
     {
         "autor": "Martínez Sergio F.",
         "tituloAlt": "De los efectos a las causas",
-        "subtitulo": "Problemas científcos y filos�ficos",
+        "subtitulo": "Problemas científcos y filosóficos",
         "idioma": "es",
         "signaturaTopografica": "4734B",
         "fechaPublicacion": "1997",
@@ -22155,7 +22155,7 @@
     {
         "autor": "Olivé León",
         "tituloAlt": "Epistemología evolucionista",
-        "subtitulo": "Problemas científcos y filos�ficos",
+        "subtitulo": "Problemas científcos y filosóficos",
         "idioma": "es",
         "signaturaTopografica": "4729B",
         "fechaPublicacion": "1997",
@@ -22165,7 +22165,7 @@
         "autor": "Olivé León",
         "titulo": "La selección natural y el surgimiento de la mente",
         "tituloAlt": "Epistemología evolucionista",
-        "subtitulo": "Problemas científcos y filos�ficos",
+        "subtitulo": "Problemas científcos y filosóficos",
         "idioma": "es",
         "signaturaTopografica": "4729B",
         "fechaPublicacion": "1997",
@@ -22175,7 +22175,7 @@
         "autor": "Olivé León",
         "titulo": "Epistemología evolucionista",
         "tituloAlt": "Epistemología evolucionista",
-        "subtitulo": "Problemas científcos y filos�ficos",
+        "subtitulo": "Problemas científcos y filosóficos",
         "idioma": "es",
         "signaturaTopografica": "4729B",
         "fechaPublicacion": "1997",
@@ -22185,7 +22185,7 @@
         "autor": "Olivé León",
         "titulo": "El mecanismo y su metaf�sica: una aproximación evolucionista al desarrollo social y conceptual de la ciencia",
         "tituloAlt": "Epistemología evolucionista",
-        "subtitulo": "Problemas científcos y filos�ficos",
+        "subtitulo": "Problemas científcos y filosóficos",
         "idioma": "es",
         "signaturaTopografica": "4729B",
         "fechaPublicacion": "1997",
@@ -22195,7 +22195,7 @@
         "autor": "Olivé León",
         "titulo": "El modelo de selección natural y otros modelos en la historiografía de la ciencia",
         "tituloAlt": "Epistemología evolucionista",
-        "subtitulo": "Problemas científcos y filos�ficos",
+        "subtitulo": "Problemas científcos y filosóficos",
         "idioma": "es",
         "signaturaTopografica": "4729B",
         "fechaPublicacion": "1997",
@@ -22205,7 +22205,7 @@
         "autor": "Olivé León",
         "titulo": "Las ideas evolucionistas y el naturalismo contempor�neo",
         "tituloAlt": "Epistemología evolucionista",
-        "subtitulo": "Problemas científcos y filos�ficos",
+        "subtitulo": "Problemas científcos y filosóficos",
         "idioma": "es",
         "signaturaTopografica": "4729B",
         "fechaPublicacion": "1997",
@@ -22215,7 +22215,7 @@
         "autor": "Olivé León",
         "titulo": "Una respuesta al desaf�o de Campbell",
         "tituloAlt": "Epistemología evolucionista",
-        "subtitulo": "Problemas científcos y filos�ficos",
+        "subtitulo": "Problemas científcos y filosóficos",
         "idioma": "es",
         "signaturaTopografica": "4729B",
         "fechaPublicacion": "1997",
@@ -22225,7 +22225,7 @@
         "autor": "Olivé León",
         "titulo": "Una evaluación de la epistemología evolucionista",
         "tituloAlt": "Epistemología evolucionista",
-        "subtitulo": "Problemas científcos y filos�ficos",
+        "subtitulo": "Problemas científcos y filosóficos",
         "idioma": "es",
         "signaturaTopografica": "4729B",
         "fechaPublicacion": "1997",
@@ -22235,7 +22235,7 @@
         "autor": "Olivé León",
         "titulo": "En contra de la epistemología evolucionista",
         "tituloAlt": "Epistemología evolucionista",
-        "subtitulo": "Problemas científcos y filos�ficos",
+        "subtitulo": "Problemas científcos y filosóficos",
         "idioma": "es",
         "signaturaTopografica": "4729B",
         "fechaPublicacion": "1997",
@@ -22667,7 +22667,7 @@
     },
     {
         "autor": "Taylor Charles",
-        "tituloAlt": "La ética de la autenticidad",
+        "tituloAlt": "La etica de la autenticidad",
         "subtitulo": "Pensamiento Contempor�neo)",
         "idioma": "es",
         "signaturaTopografica": "5297EdO",
@@ -22893,7 +22893,7 @@
     },
     {
         "autor": "Lessing Gotthold Ephraim",
-        "tituloAlt": "Estética",
+        "tituloAlt": "Estetica",
         "idioma": "es",
         "signaturaTopografica": "5308EdO",
         "fechaPublicacion": "1949",
@@ -23076,7 +23076,7 @@
     },
     {
         "autor": "Gil Fernando",
-        "tituloAlt": "Controversias científcas e filos�ficas",
+        "tituloAlt": "Controversias científcas e filosóficas",
         "subtitulo": "Actas del Coloquio)",
         "idioma": "fr",
         "signaturaTopografica": "5315LM",
@@ -23086,7 +23086,7 @@
     {
         "autor": "Gil Fernando",
         "titulo": "the Unifying as well as separating nature of dialogues",
-        "tituloAlt": "Controversias científcas e filos�ficas",
+        "tituloAlt": "Controversias científcas e filosóficas",
         "subtitulo": "Actas del Coloquio)",
         "idioma": "en",
         "signaturaTopografica": "5315LM",
@@ -23096,7 +23096,7 @@
     {
         "autor": "Gil Fernando",
         "titulo": "La logique de la controverse dans la proc�dure judiciaire",
-        "tituloAlt": "Controversias científcas e filos�ficas",
+        "tituloAlt": "Controversias científcas e filosóficas",
         "subtitulo": "Actas del Coloquio)",
         "idioma": "fr",
         "signaturaTopografica": "5315LM",
@@ -23106,7 +23106,7 @@
     {
         "autor": "Gil Fernando",
         "titulo": "Pr�somption et fardeau de la preuve dans la controverse",
-        "tituloAlt": "Controversias científcas e filos�ficas",
+        "tituloAlt": "Controversias científcas e filosóficas",
         "subtitulo": "Actas del Coloquio)",
         "idioma": "fr",
         "signaturaTopografica": "5315LM",
@@ -23116,7 +23116,7 @@
     {
         "autor": "Gil Fernando",
         "titulo": "Eleaticism and controversy",
-        "tituloAlt": "Controversias científcas e filos�ficas",
+        "tituloAlt": "Controversias científcas e filosóficas",
         "subtitulo": "Actas del Coloquio)",
         "idioma": "fr",
         "signaturaTopografica": "5315LM",
@@ -23126,7 +23126,7 @@
     {
         "autor": "Gil Fernando",
         "titulo": "The controversy about ideas and the ideas about controversy",
-        "tituloAlt": "Controversias científcas e filos�ficas",
+        "tituloAlt": "Controversias científcas e filosóficas",
         "subtitulo": "Actas del Coloquio)",
         "idioma": "en",
         "signaturaTopografica": "5315LM",
@@ -23136,7 +23136,7 @@
     {
         "autor": "Gil Fernando",
         "titulo": "Sobre la filosofía leibniziana de las controversias",
-        "tituloAlt": "Controversias científcas e filos�ficas",
+        "tituloAlt": "Controversias científcas e filosóficas",
         "subtitulo": "Actas del Coloquio)",
         "idioma": "es",
         "signaturaTopografica": "5315LM",
@@ -23146,7 +23146,7 @@
     {
         "autor": "Gil Fernando",
         "titulo": "Le probl�me de l'inconscient",
-        "tituloAlt": "Controversias científcas e filos�ficas",
+        "tituloAlt": "Controversias científcas e filosóficas",
         "subtitulo": "Actas del Coloquio)",
         "idioma": "fr",
         "signaturaTopografica": "5315LM",
@@ -23156,7 +23156,7 @@
     {
         "autor": "Gil Fernando",
         "titulo": "Essai sur les mémoires du vivant",
-        "tituloAlt": "Controversias científcas e filos�ficas",
+        "tituloAlt": "Controversias científcas e filosóficas",
         "subtitulo": "Actas del Coloquio)",
         "idioma": "fr",
         "signaturaTopografica": "5315LM",
@@ -23166,7 +23166,7 @@
     {
         "autor": "Gil Fernando",
         "titulo": "Modularity, Mind and Brain Theory",
-        "tituloAlt": "Controversias científcas e filos�ficas",
+        "tituloAlt": "Controversias científcas e filosóficas",
         "subtitulo": "Actas del Coloquio)",
         "idioma": "fr",
         "signaturaTopografica": "5315LM",
@@ -23176,7 +23176,7 @@
     {
         "autor": "Gil Fernando",
         "titulo": "Animal electricity",
-        "tituloAlt": "Controversias científcas e filos�ficas",
+        "tituloAlt": "Controversias científcas e filosóficas",
         "subtitulo": "Actas del Coloquio)",
         "idioma": "fr",
         "signaturaTopografica": "5315LM",
@@ -23186,7 +23186,7 @@
     {
         "autor": "Gil Fernando",
         "titulo": "La pol�mique Einstein-Bohr",
-        "tituloAlt": "Controversias científcas e filos�ficas",
+        "tituloAlt": "Controversias científcas e filosóficas",
         "subtitulo": "Actas del Coloquio)",
         "idioma": "fr",
         "signaturaTopografica": "5315LM",
@@ -23196,7 +23196,7 @@
     {
         "autor": "Gil Fernando",
         "titulo": "La pol�mique Botzmann et Zermelo",
-        "tituloAlt": "Controversias científcas e filos�ficas",
+        "tituloAlt": "Controversias científcas e filosóficas",
         "subtitulo": "Actas del Coloquio)",
         "idioma": "fr",
         "signaturaTopografica": "5315LM",
@@ -23206,7 +23206,7 @@
     {
         "autor": "Gil Fernando",
         "titulo": "La rivalit� entre les ondes et les corpuscules",
-        "tituloAlt": "Controversias científcas e filos�ficas",
+        "tituloAlt": "Controversias científcas e filosóficas",
         "subtitulo": "Actas del Coloquio)",
         "idioma": "fr",
         "signaturaTopografica": "5315LM",
@@ -23216,7 +23216,7 @@
     {
         "autor": "Gil Fernando",
         "titulo": "L'atomisme",
-        "tituloAlt": "Controversias científcas e filos�ficas",
+        "tituloAlt": "Controversias científcas e filosóficas",
         "subtitulo": "Actas del Coloquio)",
         "idioma": "fr",
         "signaturaTopografica": "5315LM",
@@ -23226,7 +23226,7 @@
     {
         "autor": "Gil Fernando",
         "titulo": "Le controverses et le progr�s scientifique",
-        "tituloAlt": "Controversias científcas e filos�ficas",
+        "tituloAlt": "Controversias científcas e filosóficas",
         "subtitulo": "Actas del Coloquio)",
         "idioma": "fr",
         "signaturaTopografica": "5315LM",
@@ -23236,7 +23236,7 @@
     {
         "autor": "Gil Fernando",
         "titulo": "Controverses locales et controverses globales en mathématique",
-        "tituloAlt": "Controversias científcas e filos�ficas",
+        "tituloAlt": "Controversias científcas e filosóficas",
         "subtitulo": "Actas del Coloquio)",
         "idioma": "fr",
         "signaturaTopografica": "5315LM",
@@ -23246,7 +23246,7 @@
     {
         "autor": "Gil Fernando",
         "titulo": "Intuitionism versus platonism",
-        "tituloAlt": "Controversias científcas e filos�ficas",
+        "tituloAlt": "Controversias científcas e filosóficas",
         "subtitulo": "Actas del Coloquio)",
         "idioma": "en",
         "signaturaTopografica": "5315LM",
@@ -23256,7 +23256,7 @@
     {
         "autor": "Gil Fernando",
         "titulo": "Mathematical Structuralism",
-        "tituloAlt": "Controversias científcas e filos�ficas",
+        "tituloAlt": "Controversias científcas e filosóficas",
         "subtitulo": "Actas del Coloquio)",
         "idioma": "en",
         "signaturaTopografica": "5315LM",
@@ -23266,7 +23266,7 @@
     {
         "autor": "Gil Fernando",
         "titulo": "Evaluations in literary criticism",
-        "tituloAlt": "Controversias científcas e filos�ficas",
+        "tituloAlt": "Controversias científcas e filosóficas",
         "subtitulo": "Actas del Coloquio)",
         "idioma": "en",
         "signaturaTopografica": "5315LM",
@@ -23276,7 +23276,7 @@
     {
         "autor": "Gil Fernando",
         "titulo": "Le corps politique",
-        "tituloAlt": "Controversias científcas e filos�ficas",
+        "tituloAlt": "Controversias científcas e filosóficas",
         "subtitulo": "Actas del Coloquio)",
         "idioma": "fr",
         "signaturaTopografica": "5315LM",
@@ -23286,7 +23286,7 @@
     {
         "autor": "Gil Fernando",
         "titulo": "Situacoes de controversia na quimica",
-        "tituloAlt": "Controversias científcas e filos�ficas",
+        "tituloAlt": "Controversias científcas e filosóficas",
         "subtitulo": "Actas del Coloquio)",
         "idioma": "fr",
         "signaturaTopografica": "5315LM",
@@ -23296,7 +23296,7 @@
     {
         "autor": "Gil Fernando",
         "titulo": "History as an experience versus history as a spectacle",
-        "tituloAlt": "Controversias científcas e filos�ficas",
+        "tituloAlt": "Controversias científcas e filosóficas",
         "subtitulo": "Actas del Coloquio)",
         "idioma": "fr",
         "signaturaTopografica": "5315LM",
@@ -23381,7 +23381,7 @@
     },
     {
         "autor": "Camacho Luis",
-        "titulo": "Logicismo, metAméticas y la noción de analiticidad",
+        "titulo": "Logicismo, metAmeticas y la noción de analiticidad",
         "tituloAlt": "Historia de la ciencia y la tecnología",
         "idioma": "es",
         "signaturaTopografica": "5320LM",
@@ -23626,7 +23626,7 @@
     },
     {
         "autor": "Grondin Jean",
-        "tituloAlt": "Introducción a la hermenáutica filos�fica",
+        "tituloAlt": "Introducción a la hermenáutica filosófica",
         "idioma": "es",
         "signaturaTopografica": "5192B",
         "fechaPublicacion": "1999",
@@ -24068,7 +24068,7 @@
         "palabrasClave": "SPINOZA"
     },
     {
-        "titulo": "Les retomb�es de La Vie de Philopater dans la R�publique n�erlandaise de la fin du XVII si�cle",
+        "titulo": "Les retomb�es de La Vie de Philopater dans la R�publique n�erlandaise de la fin du XVII siécle",
         "subtitulo": "Les Etudes Philosophiques: Spinoza",
         "idioma": "fr",
         "fechaPublicacion": "1987",
@@ -24131,7 +24131,7 @@
         "palabrasClave": "SPINOZA"
     },
     {
-        "autor": "S�nchez-Blanco Parody ",
+        "autor": "Sánchez-Blanco Parody ",
         "tituloAlt": "Europa y el pensamiento español del Siglo XVIII",
         "subtitulo": "Alianza Universidad)",
         "idioma": "es",
@@ -24181,7 +24181,7 @@
     {
         "autor": "Spinoza Baruch de",
         "tituloAlt": "Tratado de la reforma del entendimiento y otros ensayos",
-        "subtitulo": "Biblioteca Filos�fica",
+        "subtitulo": "Biblioteca Filosófica",
         "idioma": "es",
         "signaturaTopografica": "5379EdO",
         "fechaPublicacion": "1984",
@@ -24239,7 +24239,7 @@
     },
     {
         "autor": "Matheron A",
-        "tituloAlt": "Anthropologie et politique au XVIIe. si�cle",
+        "tituloAlt": "Anthropologie et politique au XVIIe. siécle",
         "subtitulo": "Anthropologie et politique",
         "idioma": "fr",
         "signaturaTopografica": "5383EdO",
@@ -24852,7 +24852,7 @@
     {
         "autor": "Panofsky Erwin",
         "tituloAlt": "Sobre el estilo",
-        "subtitulo": "Paid�s estética",
+        "subtitulo": "Paid�s estetica",
         "idioma": "es",
         "signaturaTopografica": "5069B",
         "fechaPublicacion": "1995",
@@ -24997,7 +24997,7 @@
     },
     {
         "autor": "Sazb�n Jos�",
-        "titulo": "Implicaciones filos�ficas en la antropología de C. Lévi-Strauss",
+        "titulo": "Implicaciones filosóficas en la antropología de C. Lévi-Strauss",
         "tituloAlt": "Estructuralismo y filosofía",
         "idioma": "es",
         "signaturaTopografica": "5424EdO",
@@ -25066,7 +25066,7 @@
     },
     {
         "autor": "Aron Raymond",
-        "tituloAlt": "D'une Sainte Famille � l'autre",
+        "tituloAlt": "D'une Sainte FamilleÀl'autre",
         "idioma": "fr",
         "signaturaTopografica": "24.ARO",
         "fechaPublicacion": "1969",
@@ -25083,7 +25083,7 @@
     {
         "autor": "Royce Josiah",
         "tituloAlt": "Filosofía de la fidelidad",
-        "subtitulo": "Cultura filos�fica)",
+        "subtitulo": "Cultura filosófica)",
         "idioma": "es",
         "signaturaTopografica": "5416EdO",
         "fechaPublicacion": "1949",
@@ -25091,7 +25091,7 @@
     },
     {
         "autor": "de Miguel Jorge R.",
-        "tituloAlt": "Visiones filos�ficas de la democracia",
+        "tituloAlt": "Visiones filosóficas de la democracia",
         "idioma": "es",
         "signaturaTopografica": "24.MIG",
         "fechaPublicacion": "2000",
@@ -25234,7 +25234,7 @@
     {
         "autor": "Velasco Gómez Ambrosio",
         "tituloAlt": "Racionalidad y cambio científco",
-        "subtitulo": "Problemas científcos y filos�ficos",
+        "subtitulo": "Problemas científcos y filosóficos",
         "idioma": "es",
         "signaturaTopografica": "4730B",
         "fechaPublicacion": "1997",
@@ -25244,7 +25244,7 @@
         "autor": "Velasco Gómez Ambrosio",
         "titulo": "La teor�a de la investigación tomada en serio",
         "tituloAlt": "Racionalidad y cambio científco",
-        "subtitulo": "Problemas científcos y filos�ficos",
+        "subtitulo": "Problemas científcos y filosóficos",
         "idioma": "es",
         "signaturaTopografica": "4730B",
         "fechaPublicacion": "1997",
@@ -25254,7 +25254,7 @@
         "autor": "Velasco Gómez Ambrosio",
         "titulo": "Pluralismo epistemológico: m�s sobre racionalidad, verdad y consenso",
         "tituloAlt": "Racionalidad y cambio científco",
-        "subtitulo": "Problemas científcos y filos�ficos",
+        "subtitulo": "Problemas científcos y filosóficos",
         "idioma": "es",
         "signaturaTopografica": "4730B",
         "fechaPublicacion": "1997",
@@ -25264,7 +25264,7 @@
         "autor": "Velasco Gómez Ambrosio",
         "titulo": "Nos encamina el progreso científco hacia un �nico universo?",
         "tituloAlt": "Racionalidad y cambio científco",
-        "subtitulo": "Problemas científcos y filos�ficos",
+        "subtitulo": "Problemas científcos y filosóficos",
         "idioma": "es",
         "signaturaTopografica": "4730B",
         "fechaPublicacion": "1997",
@@ -25274,7 +25274,7 @@
         "autor": "Velasco Gómez Ambrosio",
         "titulo": "Cambio Científco e inconmensurabilidad",
         "tituloAlt": "Racionalidad y cambio científco",
-        "subtitulo": "Problemas científcos y filos�ficos",
+        "subtitulo": "Problemas científcos y filosóficos",
         "idioma": "es",
         "signaturaTopografica": "4730B",
         "fechaPublicacion": "1997",
@@ -25284,7 +25284,7 @@
         "autor": "Velasco Gómez Ambrosio",
         "titulo": "Observaciones sobre la dinámica de las controversias",
         "tituloAlt": "Racionalidad y cambio científco",
-        "subtitulo": "Problemas científcos y filos�ficos",
+        "subtitulo": "Problemas científcos y filosóficos",
         "idioma": "es",
         "signaturaTopografica": "4730B",
         "fechaPublicacion": "1997",
@@ -25294,7 +25294,7 @@
         "autor": "Velasco Gómez Ambrosio",
         "titulo": "Foucault y Hacking: Una comparación historiográfica",
         "tituloAlt": "Racionalidad y cambio científco",
-        "subtitulo": "Problemas científcos y filos�ficos",
+        "subtitulo": "Problemas científcos y filosóficos",
         "idioma": "es",
         "signaturaTopografica": "4730B",
         "fechaPublicacion": "1997",
@@ -25302,9 +25302,9 @@
     },
     {
         "autor": "Velasco Gómez Ambrosio",
-        "titulo": "El concepto de tradición en filosofía de la ciencia y en la hermenáutica filos�fica",
+        "titulo": "El concepto de tradición en filosofía de la ciencia y en la hermenáutica filosófica",
         "tituloAlt": "Racionalidad y cambio científco",
-        "subtitulo": "Problemas científcos y filos�ficos",
+        "subtitulo": "Problemas científcos y filosóficos",
         "idioma": "es",
         "signaturaTopografica": "4730B",
         "fechaPublicacion": "1997",
@@ -26847,7 +26847,7 @@
     },
     {
         "autor": "Tasset José L.",
-        "tituloAlt": "La ética y las pasiones",
+        "tituloAlt": "La etica y las pasiones",
         "idioma": "es",
         "signaturaTopografica": "5473B",
         "fechaPublicacion": "1999",
@@ -27368,7 +27368,7 @@
     },
     {
         "autor": "Van Parijs Philippe",
-        "titulo": "Rawls face � certains d�veloppements des sciences humaines",
+        "titulo": "Rawls faceÀcertains d�veloppements des sciences humaines",
         "tituloAlt": "Fondements d'une th�orie de la justice",
         "subtitulo": "Col. Essais Philosophiques",
         "idioma": "fr",
@@ -27436,7 +27436,7 @@
     {
         "autor": "Sartre Jean-Paul",
         "tituloAlt": "El ser y la nada",
-        "subtitulo": "Biblioteca Filos�fica",
+        "subtitulo": "Biblioteca Filosófica",
         "idioma": "es",
         "signaturaTopografica": "5489EdO",
         "fechaPublicacion": "1966",
@@ -27605,7 +27605,7 @@
     },
     {
         "autor": "B�rger Peter",
-        "tituloAlt": "Crítica de la estética idealista.",
+        "tituloAlt": "Crítica de la estetica idealista.",
         "idioma": "es",
         "signaturaTopografica": "28.B�R",
         "fechaPublicacion": "1996",
@@ -27653,7 +27653,7 @@
     },
     {
         "autor": "Fernández Luis Diego",
-        "tituloAlt": "Sobre la estética en Jacques Derrida",
+        "tituloAlt": "Sobre la estetica en Jacques Derrida",
         "idioma": "es",
         "signaturaTopografica": "RI",
         "palabrasClave": "Derrida"
@@ -28094,7 +28094,7 @@
     },
     {
         "autor": "Llanos Alfredo",
-        "tituloAlt": "Aproximación a la estética de Hegel",
+        "tituloAlt": "Aproximación a la estetica de Hegel",
         "subtitulo": "Problemas de nuestro tiempo)",
         "idioma": "es",
         "signaturaTopografica": "5506LM",
@@ -28146,7 +28146,7 @@
     },
     {
         "autor": "Taylor Charles",
-        "tituloAlt": "La ética de la autenticidad",
+        "tituloAlt": "La etica de la autenticidad",
         "subtitulo": "Pensamiento Contempor�neo)",
         "idioma": "es",
         "signaturaTopografica": "5512LM",
@@ -28326,7 +28326,7 @@
         "idioma": "es",
         "signaturaTopografica": "5524EdO",
         "fechaPublicacion": "1968",
-        "palabrasClave": "PLATONEStétICAARTE"
+        "palabrasClave": "PLATONESteticaARTE"
     },
     {
         "autor": "Gilson Etienne",
@@ -28485,7 +28485,7 @@
     },
     {
         "autor": "Peces-Barba Martínez Gregorio",
-        "titulo": "Pragmética formal y derechos humanos",
+        "titulo": "Pragmetica formal y derechos humanos",
         "tituloAlt": "La fundamentación de los derechos humanos",
         "subtitulo": "Colección Universitaria",
         "idioma": "es",
@@ -28515,7 +28515,7 @@
     },
     {
         "autor": "Peces-Barba Martínez Gregorio",
-        "titulo": "Acotaciones de un supuesto iusnaturalista a las hip�tesis de Javier Muguerza sobre la fundamentación ética de los derechos humanos",
+        "titulo": "Acotaciones de un supuesto iusnaturalista a las hip�tesis de Javier Muguerza sobre la fundamentación etica de los derechos humanos",
         "tituloAlt": "La fundamentación de los derechos humanos",
         "subtitulo": "Colección Universitaria",
         "idioma": "es",
@@ -28535,7 +28535,7 @@
     },
     {
         "autor": "Peces-Barba Martínez Gregorio",
-        "titulo": "Consideraciones histórico-argumentativas para la funamentación ética de los derechos humanos",
+        "titulo": "Consideraciones histórico-argumentativas para la funamentación etica de los derechos humanos",
         "tituloAlt": "La fundamentación de los derechos humanos",
         "subtitulo": "Colección Universitaria",
         "idioma": "es",
@@ -28714,7 +28714,7 @@
     {
         "autor": "Beaufret Jean",
         "tituloAlt": "Al encuentro de Heidegger",
-        "subtitulo": "Col. Pensamiento filos�fico)",
+        "subtitulo": "Col. Pensamiento filosófico)",
         "idioma": "es",
         "signaturaTopografica": "5532EdO",
         "fechaPublicacion": "1987",
@@ -28915,7 +28915,7 @@
     },
     {
         "autor": "Adorno T. W.",
-        "tituloAlt": "Teminología Filos�fica",
+        "tituloAlt": "Teminología Filosófica",
         "subtitulo": "Ensayistas",
         "idioma": "es",
         "signaturaTopografica": "5544LM",
@@ -28924,7 +28924,7 @@
     },
     {
         "autor": "Adorno T. W.",
-        "tituloAlt": "Terminología Filos�fica",
+        "tituloAlt": "Terminología Filosófica",
         "subtitulo": "Ensayistas",
         "idioma": "es",
         "signaturaTopografica": "5545LM",
@@ -29095,7 +29095,7 @@
         "palabrasClave": "ETICAVIRTUDLIBERALISMORESPONSABILIDAD"
     },
     {
-        "autor": "García Gómez Heras José Mar�a",
+        "autor": "García Gómez Heras José María",
         "tituloAlt": "Etica y hermenáutica",
         "subtitulo": "Col. Raz�n y sociedad)",
         "idioma": "es",
@@ -29611,7 +29611,7 @@
     },
     {
         "autor": "Acero Juan Jos�",
-        "titulo": "Verdad, paradojas y sem�ntica",
+        "titulo": "Verdad, paradojas y semántica",
         "tituloAlt": "Filosofía del lenguaje I",
         "subtitulo": "Enciclopedia Iberoamericana de Filosofía",
         "idioma": "es",
@@ -29702,7 +29702,7 @@
     },
     {
         "autor": "Duroselle Jean-Baptiste",
-        "tituloAlt": "Introduction � l'histoire des relations internationales",
+        "tituloAlt": "IntroductionÀl'histoire des relations internationales",
         "idioma": "fr",
         "signaturaTopografica": "24.REN",
         "fechaPublicacion": "1964",
@@ -29750,7 +29750,7 @@
     },
     {
         "autor": "Roels Jean",
-        "tituloAlt": "Le concept de représentation politique au dix-huiti�me si�cle fran�ais",
+        "tituloAlt": "Le concept de représentation politique au dix-huiti�me siécle fran�ais",
         "idioma": "fr",
         "signaturaTopografica": "24.ROE",
         "fechaPublicacion": "1969",
@@ -29758,7 +29758,7 @@
     },
     {
         "autor": "Rohden Val�rio (coord.)",
-        "tituloAlt": "ética e política",
+        "tituloAlt": "etica e política",
         "idioma": "pt",
         "signaturaTopografica": "24.ROH",
         "fechaPublicacion": "1993",
@@ -29907,7 +29907,7 @@
     },
     {
         "autor": "Abbate Michele",
-        "titulo": "La cit� n'est pas � nous",
+        "titulo": "La cit� n'est pasÀnous",
         "tituloAlt": "La Republica di Platone nella tradizione antica",
         "subtitulo": "Saggi Bibliopolis",
         "idioma": "fr",
@@ -30067,7 +30067,7 @@
         "palabrasClave": "KANTCR+TICA DE LA RAZaN PURACONOCIMIENTOA-PRIORITRASCENDENTAL"
     },
     {
-        "tituloAlt": "Enciclopedia Iberoamericana de Filosofía. Tomo 18: Filosofía del lenguaje II: Pragmética",
+        "tituloAlt": "Enciclopedia Iberoamericana de Filosofía. Tomo 18: Filosofía del lenguaje II: Pragmetica",
         "idioma": "es",
         "signaturaTopografica": "4830B",
         "fechaPublicacion": "1999",
@@ -30092,7 +30092,7 @@
     },
     {
         "autor": "Loparic Zeljko",
-        "tituloAlt": "A sem�ntica transcendental de Kant",
+        "tituloAlt": "A semántica transcendental de Kant",
         "subtitulo": "Colecao cle",
         "idioma": "pt",
         "signaturaTopografica": "5410B",
@@ -30189,7 +30189,7 @@
     },
     {
         "autor": "Villaca�as José Luis",
-        "titulo": "Fichte y la transfiguracii�n carismética de la raz�n ilustrada",
+        "titulo": "Fichte y la transfiguracii�n carismetica de la raz�n ilustrada",
         "tituloAlt": "La filosofía del siglo XIX",
         "subtitulo": "Enciclopedia Iberoamericana de Filosofía",
         "idioma": "es",
@@ -31377,7 +31377,7 @@
         "palabrasClave": "H�LDERLINPOESIAGENEROS LITERARIOSROMANTICISMO"
     },
     {
-        "autor": "Fr�polli Mar�a Jos�",
+        "autor": "Fr�polli María Jos�",
         "tituloAlt": "Verdad y Experiencia",
         "subtitulo": "Filosofía Hoy",
         "idioma": "es",
@@ -31500,7 +31500,7 @@
     },
     {
         "autor": "Sommer Susana",
-        "tituloAlt": "Genética, clonación y bioética",
+        "tituloAlt": "Genetica, clonación y bioetica",
         "subtitulo": "Col. biblioteca de las mujeres",
         "idioma": "es",
         "signaturaTopografica": "5697B",
@@ -31684,7 +31684,7 @@
     },
     {
         "autor": "Szondi Peter",
-        "tituloAlt": "Das lyrische Drama des Fin de si�cle",
+        "tituloAlt": "Das lyrische Drama des Fin de siécle",
         "subtitulo": "Studienausgabe der Vorlesungen",
         "idioma": "de",
         "signaturaTopografica": "5693B",
@@ -32394,7 +32394,7 @@
     },
     {
         "autor": "Adam Michel",
-        "tituloAlt": "L'eucharistie chez les penseurs fran�ais du dix-septi�me si�cle",
+        "tituloAlt": "L'eucharistie chez les penseurs fran�ais du dix-septi�me siécle",
         "subtitulo": "Europaea memoria: Studien zur Geschichte der europ�ischen Ideen",
         "idioma": "de",
         "signaturaTopografica": "5778B",
@@ -32481,7 +32481,7 @@
     },
     {
         "autor": "Guariglia Osvaldo",
-        "tituloAlt": "Una ética para el siglo XXI",
+        "tituloAlt": "Una etica para el siglo XXI",
         "subtitulo": "Serie Breves)",
         "idioma": "es",
         "signaturaTopografica": "5797",
@@ -32539,7 +32539,7 @@
     },
     {
         "autor": "Rosenberg Lucio",
-        "tituloAlt": "Diccionario de estética",
+        "tituloAlt": "Diccionario de estetica",
         "idioma": "es",
         "signaturaTopografica": "5808B",
         "fechaPublicacion": "2003",
@@ -32616,7 +32616,7 @@
     },
     {
         "autor": "Schiller Friedrich",
-        "tituloAlt": "Poes�a filos�fica",
+        "tituloAlt": "Poes�a filosófica",
         "subtitulo": "Hiperion)",
         "idioma": "es",
         "signaturaTopografica": "5814B",
@@ -32867,7 +32867,7 @@
     },
     {
         "autor": "Cassirer Ernst",
-        "tituloAlt": "Antropología filos�fica",
+        "tituloAlt": "Antropología filosófica",
         "idioma": "es",
         "signaturaTopografica": "5848B",
         "fechaPublicacion": "1990",
@@ -33072,7 +33072,7 @@
     },
     {
         "autor": "Albert Hans",
-        "tituloAlt": "Etica y metaética",
+        "tituloAlt": "Etica y metaetica",
         "subtitulo": "Cuadrenos Teorema",
         "idioma": "es",
         "signaturaTopografica": "1310",
@@ -33371,7 +33371,7 @@
     },
     {
         "autor": "Guariglia Osvaldo",
-        "tituloAlt": "Universalismo y neoaristotelismo en la ética contemporánea",
+        "tituloAlt": "Universalismo y neoaristotelismo en la etica contemporánea",
         "idioma": "es",
         "signaturaTopografica": "3988 OG",
         "fechaPublicacion": "1993",
@@ -33395,7 +33395,7 @@
     },
     {
         "autor": "Nelson Leonard",
-        "tituloAlt": "ética Crítica",
+        "tituloAlt": "etica Crítica",
         "idioma": "es",
         "signaturaTopografica": "2222 B",
         "fechaPublicacion": "1988",
@@ -33506,7 +33506,7 @@
     },
     {
         "autor": "Cortina Adela",
-        "tituloAlt": "ética sin Moral",
+        "tituloAlt": "etica sin Moral",
         "idioma": "es",
         "signaturaTopografica": "3317 PID OG",
         "fechaPublicacion": "1992",
@@ -33873,7 +33873,7 @@
         "idioma": "en",
         "signaturaTopografica": "22.KAN-COH",
         "fechaPublicacion": "1985",
-        "palabrasClave": "KANTEStétICABELLEZA"
+        "palabrasClave": "KANTESteticaBELLEZA"
     },
     {
         "autor": "Cortina Adela",
@@ -34026,7 +34026,7 @@
     },
     {
         "autor": "Daly Herman",
-        "tituloAlt": "Economía, econlogía, ética",
+        "tituloAlt": "Economía, econlogía, etica",
         "subtitulo": "Economia contemporanea",
         "idioma": "es",
         "signaturaTopografica": "3356PID OG",
@@ -34157,7 +34157,7 @@
     },
     {
         "autor": "Hoerster Norbert",
-        "tituloAlt": "Problemas de ética normativa.",
+        "tituloAlt": "Problemas de etica normativa.",
         "idioma": "es",
         "signaturaTopografica": "31.HOE",
         "fechaPublicacion": "1975",
@@ -34265,7 +34265,7 @@
         "idioma": "en",
         "signaturaTopografica": "CIF4087OG",
         "fechaPublicacion": "1989",
-        "palabrasClave": "ÉTICANEGOCIOS"
+        "palabrasClave": "ETICANEGOCIOS"
     },
     {
         "autor": "Harr� Rom",
@@ -34281,7 +34281,7 @@
         "idioma": "de",
         "signaturaTopografica": "CIF2331OG",
         "fechaPublicacion": "1987",
-        "palabrasClave": "ÉTICAMEDICINA"
+        "palabrasClave": "ETICAMEDICINA"
     },
     {
         "autor": "Jonas Hans",
@@ -34289,7 +34289,7 @@
         "idioma": "de",
         "signaturaTopografica": "CIF2332OG",
         "fechaPublicacion": "1984",
-        "palabrasClave": "ÉTICACIVILIZACIaNTECNOLOG+A"
+        "palabrasClave": "ETICACIVILIZACIaNTECNOLOG+A"
     },
     {
         "autor": "Toulmin Stephen",
@@ -34321,7 +34321,7 @@
         "idioma": "de",
         "signaturaTopografica": "CIF1500B",
         "fechaPublicacion": "1973",
-        "palabrasClave": "ÉTICAANTROPOLOG+A"
+        "palabrasClave": "ETICAANTROPOLOG+A"
     },
     {
         "autor": "Kambartel Friedrich",
@@ -34329,7 +34329,7 @@
         "idioma": "es",
         "signaturaTopografica": "CIF1849B",
         "fechaPublicacion": "1978",
-        "palabrasClave": "ÉTICACIENCIAARGUMENTACIaN"
+        "palabrasClave": "ETICACIENCIAARGUMENTACIaN"
     },
     {
         "autor": "Kearns John",
@@ -34337,11 +34337,11 @@
         "idioma": "en",
         "signaturaTopografica": "CIF1937B",
         "fechaPublicacion": "1984",
-        "palabrasClave": "LENGUAJECOMUNICACIaNÉTICA"
+        "palabrasClave": "LENGUAJECOMUNICACIaNETICA"
     },
     {
         "autor": "Dussel Enrique",
-        "tituloAlt": "ética comunitaria",
+        "tituloAlt": "etica comunitaria",
         "subtitulo": "Cristianismo y sociedad",
         "idioma": "es",
         "signaturaTopografica": "CIF2969OG",
@@ -34453,7 +34453,7 @@
         "idioma": "en",
         "signaturaTopografica": "CIF3668OG",
         "fechaPublicacion": "1988",
-        "palabrasClave": "ÉTICAAUTONOM+A"
+        "palabrasClave": "ETICAAUTONOM+A"
     },
     {
         "autor": "Habermas Jürgen, Eds.",
@@ -34552,11 +34552,11 @@
         "idioma": "es",
         "signaturaTopografica": "CIF1700B",
         "fechaPublicacion": "1979",
-        "palabrasClave": "ÉTICANEGOCIOS"
+        "palabrasClave": "ETICANEGOCIOS"
     },
     {
         "autor": "Stockdale James",
-        "tituloAlt": "ética militar",
+        "tituloAlt": "etica militar",
         "idioma": "es",
         "signaturaTopografica": "CIF5905B",
         "fechaPublicacion": "1989"
@@ -34567,7 +34567,7 @@
         "idioma": "es",
         "signaturaTopografica": "CIF5906B",
         "fechaPublicacion": "1991",
-        "palabrasClave": "ÉTICAMILITAR"
+        "palabrasClave": "ETICAMILITAR"
     },
     {
         "autor": "Grootendorst Rob",
@@ -34579,7 +34579,7 @@
     },
     {
         "autor": "Farrel Martín",
-        "tituloAlt": "Utilitarismo, ética y política",
+        "tituloAlt": "Utilitarismo, etica y política",
         "idioma": "es",
         "signaturaTopografica": "CIF4245LM",
         "fechaPublicacion": "1983",
@@ -34770,7 +34770,7 @@
     },
     {
         "autor": "Naishtat Francisco Samuel",
-        "tituloAlt": "Problemas filos�ficos en la acción individual y colectiva",
+        "tituloAlt": "Problemas filosóficos en la acción individual y colectiva",
         "idioma": "es",
         "signaturaTopografica": "5916B",
         "fechaPublicacion": "2004",
@@ -34785,7 +34785,7 @@
     },
     {
         "autor": "Luna Eduardo",
-        "tituloAlt": "Los desaf�os �ticos de la genética humana",
+        "tituloAlt": "Los desaf�os �ticos de la genetica humana",
         "idioma": "es",
         "signaturaTopografica": "5917B",
         "fechaPublicacion": "2005",
@@ -34932,7 +34932,7 @@
     },
     {
         "autor": "Bunge Mario",
-        "tituloAlt": "Antología Sem�ntica",
+        "tituloAlt": "Antología Semántica",
         "subtitulo": "Col. Interciencia)",
         "idioma": "es",
         "signaturaTopografica": "5980EdO",
@@ -35600,7 +35600,7 @@
     },
     {
         "autor": "Berkeley George",
-        "tituloAlt": "Comentarios filos�ficos / Introducción manuscrita a los \"Principios del conocimiento humano\" / Correspondencia con Johnson",
+        "tituloAlt": "Comentarios filosóficos / Introducción manuscrita a los \"Principios del conocimiento humano\" / Correspondencia con Johnson",
         "idioma": "es",
         "signaturaTopografica": "22.BER",
         "fechaPublicacion": "1989",
@@ -35672,7 +35672,7 @@
     },
     {
         "autor": "Aristételes ",
-        "tituloAlt": "Poética.",
+        "tituloAlt": "Poetica.",
         "idioma": "es",
         "signaturaTopografica": "20.ARI",
         "fechaPublicacion": "2004",
@@ -35727,11 +35727,11 @@
     },
     {
         "autor": "Aristételes ",
-        "tituloAlt": "ética Eudemia",
+        "tituloAlt": "etica Eudemia",
         "idioma": "es",
         "signaturaTopografica": "5952LM",
         "fechaPublicacion": "1994",
-        "palabrasClave": "Aristételesética Antigua"
+        "palabrasClave": "Aristételesetica Antigua"
     },
     {
         "autor": "García Ballester Luis",
@@ -35839,7 +35839,7 @@
     },
     {
         "autor": "Guariglia Osvaldo",
-        "tituloAlt": "ética y Política seg�n Aristételes. Vol. I: Acción y Argumentación; Vol. II: El bien, las Virtudes y la Polis.",
+        "tituloAlt": "etica y Política seg�n Aristételes. Vol. I: Acción y Argumentación; Vol. II: El bien, las Virtudes y la Polis.",
         "idioma": "es",
         "signaturaTopografica": "20.ARI-GUA",
         "fechaPublicacion": "1992",
@@ -35863,7 +35863,7 @@
     },
     {
         "autor": "Navarre Octave",
-        "tituloAlt": "Las representaciones drAméticas en Grecia.",
+        "tituloAlt": "Las representaciones drAmeticas en Grecia.",
         "idioma": "es",
         "signaturaTopografica": "20.NAV",
         "fechaPublicacion": "1977",
@@ -36029,7 +36029,7 @@
     },
     {
         "autor": "de Condillac �tienne Bonnot",
-        "tituloAlt": "Lettres in�dites � Gabriel Cramer.",
+        "tituloAlt": "Lettres in�ditesÀGabriel Cramer.",
         "idioma": "fr",
         "signaturaTopografica": "22.CON",
         "fechaPublicacion": "1953",
@@ -37121,7 +37121,7 @@
     {
         "autor": "Diderot ",
         "tituloAlt": "Carta sobre ciegos para uso de los que ven",
-        "subtitulo": "Biblioteca del pensamiento filos�fico)",
+        "subtitulo": "Biblioteca del pensamiento filosófico)",
         "idioma": "es",
         "signaturaTopografica": "1451B",
         "fechaPublicacion": "1978",
@@ -37476,7 +37476,7 @@
     },
     {
         "autor": "AA. VV ",
-        "tituloAlt": "Th�orie et pratique politiques � la Renaissance",
+        "tituloAlt": "Th�orie et pratique politiquesÀla Renaissance",
         "idioma": "fr",
         "signaturaTopografica": "6302LM",
         "fechaPublicacion": "1977",
@@ -37899,7 +37899,7 @@
     },
     {
         "autor": "Bouscaren Anthony T.",
-        "tituloAlt": "La política exterior soviética. Un ejemplo de persistencia",
+        "tituloAlt": "La política exterior sovietica. Un ejemplo de persistencia",
         "subtitulo": "Manuales Huemul)",
         "idioma": "es",
         "signaturaTopografica": "3204B",
@@ -37924,7 +37924,7 @@
     },
     {
         "autor": "Bunge Mario",
-        "tituloAlt": "ética y ciencia.",
+        "tituloAlt": "etica y ciencia.",
         "idioma": "es",
         "signaturaTopografica": "23.BUN",
         "fechaPublicacion": "1960",
@@ -38157,7 +38157,7 @@
     },
     {
         "autor": "Carpio Adolfo P.",
-        "tituloAlt": "El sentido de la historia de la filosofía. Ensayo ontológico sobre la \"anarquía\" de los sistemas y la verdad filos�fica",
+        "tituloAlt": "El sentido de la historia de la filosofía. Ensayo ontológico sobre la \"anarquía\" de los sistemas y la verdad filosófica",
         "subtitulo": "Temas)",
         "idioma": "es",
         "signaturaTopografica": "1699B",
@@ -38526,7 +38526,7 @@
     {
         "autor": "Hume David",
         "tituloAlt": "Selección de textos precedida de un estudio de L. Levy Bruhl",
-        "subtitulo": "Breviarios del pensamiento filos�fico)",
+        "subtitulo": "Breviarios del pensamiento filosófico)",
         "idioma": "es",
         "signaturaTopografica": "6455EdO",
         "fechaPublicacion": "1939",
@@ -38575,7 +38575,7 @@
     },
     {
         "autor": "Capek Milic",
-        "tituloAlt": "El impacto filos�fico de la f�sica contemporánea.",
+        "tituloAlt": "El impacto filosófico de la f�sica contemporánea.",
         "idioma": "es",
         "signaturaTopografica": "29.CAP",
         "fechaPublicacion": "1965",
@@ -38771,7 +38771,7 @@
     },
     {
         "autor": "Baruzi Jean (comp.)",
-        "tituloAlt": "Philosophes et savants francais du XX� si�cle: extraits et notices III. Le Probl�me moral",
+        "tituloAlt": "Philosophes et savants francais du XX� siécle: extraits et notices III. Le Probl�me moral",
         "idioma": "fr",
         "signaturaTopografica": "6484B",
         "fechaPublicacion": "1926",
@@ -39221,7 +39221,7 @@
         "palabrasClave": "BUBERCOMUNIDADINDIVIDUALISMOCOLECTIVISMO"
     },
     {
-        "autor": "Britos Mar�a del Pilar (et al.)",
+        "autor": "Britos María del Pilar (et al.)",
         "tituloAlt": "áticas del siglo",
         "idioma": "es",
         "signaturaTopografica": "3828B",
@@ -39482,7 +39482,7 @@
     },
     {
         "autor": "Devaux Philippe",
-        "tituloAlt": "De Thal�s � Bergson",
+        "tituloAlt": "De Thal�sÀBergson",
         "idioma": "fr",
         "signaturaTopografica": "27.DEV",
         "fechaPublicacion": "1949",
@@ -39794,7 +39794,7 @@
     },
     {
         "autor": "Bergson Henri",
-        "tituloAlt": "Introducción a la metaf�sica; La intuición filos�fica.",
+        "tituloAlt": "Introducción a la metaf�sica; La intuición filosófica.",
         "idioma": "es",
         "signaturaTopografica": "23.BER",
         "fechaPublicacion": "1956",
@@ -40299,7 +40299,7 @@
     {
         "autor": "Driesch Hans",
         "tituloAlt": "Metaf�sica",
-        "subtitulo": "Colección Labor - Sección \"Ciencias Filos�ficas\"",
+        "subtitulo": "Colección Labor - Sección \"Ciencias Filosóficas\"",
         "idioma": "es",
         "signaturaTopografica": "6533EdO",
         "fechaPublicacion": "1930",
@@ -40494,7 +40494,7 @@
     {
         "autor": "Fichte Johann Gottlieb",
         "tituloAlt": "El concepto de la teor�a de la ciencia (de la exposición de la teor�a de la ciencia de 1801)",
-        "subtitulo": "Textos Filos�ficos - Filosofía Moderna",
+        "subtitulo": "Textos Filosóficos - Filosofía Moderna",
         "idioma": "es",
         "signaturaTopografica": "2514BMFF",
         "fechaPublicacion": "1949",
@@ -40526,7 +40526,7 @@
     },
     {
         "autor": "Fichte Johann Gottlieb",
-        "tituloAlt": "Discours � la nation allemande.",
+        "tituloAlt": "DiscoursÀla nation allemande.",
         "idioma": "fr",
         "signaturaTopografica": "23.FIC",
         "fechaPublicacion": "1952",
@@ -40583,7 +40583,7 @@
     {
         "autor": "Fichte Johann Gottlieb",
         "tituloAlt": "El concepto de la teor�a de la ciencia (de la exposición de la teor�a de la ciencia de 1801)",
-        "subtitulo": "Textos Filos�ficos - Filosofía Moderna",
+        "subtitulo": "Textos Filosóficos - Filosofía Moderna",
         "idioma": "es",
         "signaturaTopografica": "6554EdO",
         "fechaPublicacion": "1949",
@@ -40630,7 +40630,7 @@
         "palabrasClave": "HEIMSOETHFICHTEIDEALISMO ALEMAN"
     },
     {
-        "autor": "Femenías Mar�a Luisa",
+        "autor": "Femenías María Luisa",
         "tituloAlt": "Inferioridad y exclusión : Un modelo para desarmar",
         "subtitulo": "Temas)",
         "idioma": "es",
@@ -40689,7 +40689,7 @@
     },
     {
         "autor": "Fink Eugen",
-        "tituloAlt": "Curso sobre los conceptos filos�ficos fundamentales: ser, verdad, mundo.",
+        "tituloAlt": "Curso sobre los conceptos filosóficos fundamentales: ser, verdad, mundo.",
         "subtitulo": "Separata del \"Anuario de Filosofía de la Facultad de Humanidades y Educación\")",
         "idioma": "es",
         "signaturaTopografica": "23.FIN",
@@ -40754,7 +40754,7 @@
     },
     {
         "autor": "García del Pozo Rosario",
-        "tituloAlt": "Michel Foucault : Un arque�logo del Humanismo (Estructuralismo, Genealogía y Apuesta estética)",
+        "tituloAlt": "Michel Foucault : Un arque�logo del Humanismo (Estructuralismo, Genealogía y Apuesta estetica)",
         "subtitulo": "Filosofía y Letras",
         "idioma": "es",
         "signaturaTopografica": "23.14 FOU",
@@ -40795,7 +40795,7 @@
     },
     {
         "autor": "Franceschi Alfredo",
-        "tituloAlt": "Escritos filos�ficos.",
+        "tituloAlt": "Escritos filosóficos.",
         "idioma": "es",
         "signaturaTopografica": "23.FRA",
         "fechaPublicacion": "1968",
@@ -40811,7 +40811,7 @@
     },
     {
         "autor": "Frankena William K.",
-        "tituloAlt": "ética",
+        "tituloAlt": "etica",
         "subtitulo": "Manuales Uteha",
         "idioma": "es",
         "signaturaTopografica": "23.15 FRA",
@@ -40928,7 +40928,7 @@
     },
     {
         "autor": "García Bacca Juan David",
-        "tituloAlt": "Antropología filos�fica contemporánea (Diez conferencias : 1955)",
+        "tituloAlt": "Antropología filosófica contemporánea (Diez conferencias : 1955)",
         "idioma": "es",
         "signaturaTopografica": "23.15 GAR",
         "fechaPublicacion": "1957",
@@ -41234,7 +41234,7 @@
     {
         "autor": "Kant Immanuel",
         "tituloAlt": "Crítica de la raz�n pura",
-        "subtitulo": "Biblioteca Filos�fica)",
+        "subtitulo": "Biblioteca Filosófica)",
         "idioma": "es",
         "signaturaTopografica": "22.16 KAN",
         "fechaPublicacion": "1960",
@@ -41336,7 +41336,7 @@
     },
     {
         "autor": "Gilson �tienne",
-        "tituloAlt": "La unidad de la experiencia filos�fica",
+        "tituloAlt": "La unidad de la experiencia filosófica",
         "idioma": "es",
         "signaturaTopografica": "23 GIL",
         "fechaPublicacion": "1960",
@@ -41353,7 +41353,7 @@
     },
     {
         "autor": "Groethuysen Bernhard",
-        "tituloAlt": "Antropología filos�fica.",
+        "tituloAlt": "Antropología filosófica.",
         "idioma": "es",
         "signaturaTopografica": "23.GRO",
         "fechaPublicacion": "1951",
@@ -41369,7 +41369,7 @@
     },
     {
         "autor": "Greniewski Henryk",
-        "tituloAlt": "Cibernética sin matemáticas",
+        "tituloAlt": "Cibernetica sin matemáticas",
         "subtitulo": "Breviarios del FCE",
         "idioma": "es",
         "signaturaTopografica": "23.16 GRE",
@@ -41661,7 +41661,7 @@
     {
         "autor": "Guyau M.",
         "tituloAlt": "Génesis de la idea de tiempo",
-        "subtitulo": "Biblioteca Científco-Filos�fica)",
+        "subtitulo": "Biblioteca Científco-Filosófica)",
         "idioma": "es",
         "signaturaTopografica": "23.17 GUY",
         "fechaPublicacion": "1901",
@@ -42267,7 +42267,7 @@
     },
     {
         "autor": "Kant Immanuel",
-        "tituloAlt": "Lettre � Marcus Herz du 22 f�vrier 1772",
+        "tituloAlt": "LettreÀMarcus Herz du 22 f�vrier 1772",
         "idioma": "fr",
         "signaturaTopografica": "22.17 KAN",
         "fechaPublicacion": "1968",
@@ -42567,7 +42567,7 @@
     {
         "autor": "Heidegger Martin",
         "tituloAlt": "Schelling y la libertad humana",
-        "subtitulo": "Pensamiento filos�fico)",
+        "subtitulo": "Pensamiento filosófico)",
         "idioma": "es",
         "signaturaTopografica": "23.22HEI",
         "fechaPublicacion": "1985",
@@ -43538,7 +43538,7 @@
     },
     {
         "autor": "Gaos Jos�",
-        "tituloAlt": "Antología Filos�fica",
+        "tituloAlt": "Antología Filosófica",
         "idioma": "es",
         "signaturaTopografica": "20.GAO",
         "fechaPublicacion": "1940",
@@ -43756,7 +43756,7 @@
     {
         "autor": "Mondolfo Rodolfo",
         "tituloAlt": "El pensamiento antiguo. Historia de la filosofía greco-romana. Vol. I",
-        "subtitulo": "Biblioteca Filos�fica",
+        "subtitulo": "Biblioteca Filosófica",
         "idioma": "es",
         "signaturaTopografica": "20.2MO",
         "fechaPublicacion": "1942",
@@ -43765,7 +43765,7 @@
     {
         "autor": "Mondolfo Rodolfo",
         "tituloAlt": "El pensamiento antiguo. Historia de la filosofía greco-romana. Vol. II",
-        "subtitulo": "Biblioteca Filos�fica",
+        "subtitulo": "Biblioteca Filosófica",
         "idioma": "es",
         "signaturaTopografica": "20.2MO",
         "fechaPublicacion": "1942",
@@ -43774,7 +43774,7 @@
     {
         "autor": "Mondolfo Rodolfo",
         "tituloAlt": "El pensamiento antiguo. Historia de la filosofía greco-romana. Vol. II",
-        "subtitulo": "Biblioteca Filos�fica",
+        "subtitulo": "Biblioteca Filosófica",
         "idioma": "es",
         "signaturaTopografica": "20.2MO",
         "fechaPublicacion": "1942",
@@ -44074,7 +44074,7 @@
     },
     {
         "autor": "Ibscher Gred",
-        "tituloAlt": "Demécrito y sus sentencias sobre ética y educación",
+        "tituloAlt": "Demécrito y sus sentencias sobre etica y educación",
         "idioma": "es",
         "signaturaTopografica": "20.4DE-IB",
         "fechaPublicacion": "1983",
@@ -44082,11 +44082,11 @@
     },
     {
         "autor": "Ibscher Gred",
-        "tituloAlt": "Demécrito y sus sentencias sobre ética y educación",
+        "tituloAlt": "Demécrito y sus sentencias sobre etica y educación",
         "idioma": "es",
         "signaturaTopografica": "20.4 DE-IB",
         "fechaPublicacion": "1984",
-        "palabrasClave": "HISTORIADEMaCRITOATOMISMOÉTICA"
+        "palabrasClave": "HISTORIADEMaCRITOATOMISMOETICA"
     },
     {
         "autor": "\"Elenchos\" Rivista di studi sul pensiero antico",
@@ -44617,7 +44617,7 @@
     },
     {
         "autor": "COHEN AGREST DIANA",
-        "tituloAlt": "Inteligencia ética para la vida cotidiana",
+        "tituloAlt": "Inteligencia etica para la vida cotidiana",
         "idioma": "es",
         "signaturaTopografica": "31. COH",
         "fechaPublicacion": "2006",
@@ -44769,7 +44769,7 @@
     },
     {
         "autor": "OLIVERAS ELENA",
-        "tituloAlt": "Estética",
+        "tituloAlt": "Estetica",
         "idioma": "es",
         "signaturaTopografica": "28. OLI",
         "fechaPublicacion": "2004",
@@ -45065,7 +45065,7 @@
     },
     {
         "autor": "CIAPUSCIO HECTOR",
-        "tituloAlt": "D�dalo, tecnología y ética",
+        "tituloAlt": "D�dalo, tecnología y etica",
         "idioma": "es",
         "signaturaTopografica": "31. CIA",
         "fechaPublicacion": "2006",
@@ -46393,7 +46393,7 @@
     },
     {
         "autor": "Monder Samuel",
-        "tituloAlt": "Ficciones filos�ficas",
+        "tituloAlt": "Ficciones filosóficas",
         "idioma": "en",
         "signaturaTopografica": "28.MON",
         "fechaPublicacion": "2007",
@@ -46721,7 +46721,7 @@
     },
     {
         "autor": "Habermas Jürgen",
-        "tituloAlt": "El discurso filos�fico de la modernidad",
+        "tituloAlt": "El discurso filosófico de la modernidad",
         "idioma": "es",
         "signaturaTopografica": "31. HAB",
         "fechaPublicacion": "1989",
@@ -47056,7 +47056,7 @@
         "palabrasClave": "HEGELLOGICADERECHO"
     },
     {
-        "autor": "S�nchez Sergio",
+        "autor": "Sánchez Sergio",
         "tituloAlt": "Lógica, verdad y creencia",
         "idioma": "es",
         "signaturaTopografica": "23. NIE.SAN",
@@ -47064,7 +47064,7 @@
         "palabrasClave": "NIETZSCHESPIRLOGICACREENCIAPENSAMIENTO"
     },
     {
-        "autor": "S�nchez Sergio",
+        "autor": "Sánchez Sergio",
         "tituloAlt": "El problema del conocimiento en la filosofía del joven Nietzsche",
         "idioma": "es",
         "signaturaTopografica": "23. NIE.SAN",
@@ -47104,7 +47104,7 @@
         "palabrasClave": "PENSAMIENTOCULTURAAMERICA"
     },
     {
-        "autor": "Femenías Mar�a Luisa",
+        "autor": "Femenías María Luisa",
         "tituloAlt": "El género del multiculturalismo",
         "idioma": "es",
         "signaturaTopografica": "31. FEM",
@@ -47354,7 +47354,7 @@
     },
     {
         "autor": "Marx Karl",
-        "tituloAlt": "Manuscritos econ�mico-filos�ficos de 1844.",
+        "tituloAlt": "Manuscritos econ�mico-filosóficos de 1844.",
         "idioma": "es",
         "signaturaTopografica": "23.MAR",
         "fechaPublicacion": "2004",
@@ -47442,7 +47442,7 @@
     },
     {
         "autor": "Salles Arleen L. F.",
-        "tituloAlt": "bioética",
+        "tituloAlt": "bioetica",
         "idioma": "es",
         "signaturaTopografica": "31. LUN",
         "fechaPublicacion": "2008",
@@ -47474,7 +47474,7 @@
     },
     {
         "autor": "Schopenhauer Arthur",
-        "tituloAlt": "Metaf�sica de lo bello y estética.",
+        "tituloAlt": "Metaf�sica de lo bello y estetica.",
         "idioma": "es",
         "signaturaTopografica": "23.SCH",
         "fechaPublicacion": "1968",
@@ -47553,7 +47553,7 @@
         "palabrasClave": "MACPHERSONECONOMIAJUSTICIAESTADOCLASESPROPIEDADDEMOCRACIA"
     },
     {
-        "autor": "S�nchez Agesta Luis",
+        "autor": "Sánchez Agesta Luis",
         "tituloAlt": "El pensamiento político del despotismo ilustrado.",
         "idioma": "es",
         "signaturaTopografica": "24.SAN",
@@ -47821,7 +47821,7 @@
     },
     {
         "autor": "Groethuysen Bernhard",
-        "tituloAlt": "Antropología filos�fica.",
+        "tituloAlt": "Antropología filosófica.",
         "idioma": "es",
         "signaturaTopografica": "27.GRO",
         "fechaPublicacion": "1975",
@@ -48086,7 +48086,7 @@
     },
     {
         "autor": "Meyer Michel, ed.",
-        "tituloAlt": "De la m�taphysique � la rhetorique",
+        "tituloAlt": "De la m�taphysiqueÀla rhetorique",
         "idioma": "fr",
         "signaturaTopografica": "23.MEY",
         "fechaPublicacion": "1986",
@@ -48103,7 +48103,7 @@
     },
     {
         "autor": "Vattimo Gianni",
-        "tituloAlt": "ética de la interpretación.",
+        "tituloAlt": "etica de la interpretación.",
         "idioma": "es",
         "signaturaTopografica": "23.VAT",
         "fechaPublicacion": "1992",
@@ -48287,7 +48287,7 @@
     },
     {
         "autor": "Ferro Marc, Dir.",
-        "tituloAlt": "Comprendre les faits du XXe si�cle.",
+        "tituloAlt": "Comprendre les faits du XXe siécle.",
         "idioma": "fr",
         "signaturaTopografica": "24.FER",
         "fechaPublicacion": "1977",
@@ -48295,7 +48295,7 @@
     },
     {
         "autor": "Ferro Marc, dir.",
-        "tituloAlt": "Comprendre les idées du XXe si�cle.",
+        "tituloAlt": "Comprendre les idées du XXe siécle.",
         "idioma": "fr",
         "signaturaTopografica": "24.FER",
         "fechaPublicacion": "1977",
@@ -48639,7 +48639,7 @@
     },
     {
         "autor": "Aristételes ",
-        "tituloAlt": "ética Nicomaquea; ética Eudemia.",
+        "tituloAlt": "etica Nicomaquea; etica Eudemia.",
         "idioma": "es",
         "signaturaTopografica": "20.ARI",
         "fechaPublicacion": "1985",
@@ -48679,7 +48679,7 @@
     },
     {
         "autor": "Aristételes ",
-        "tituloAlt": "Poética.",
+        "tituloAlt": "Poetica.",
         "idioma": "es",
         "signaturaTopografica": "20.ARI",
         "fechaPublicacion": "1991",
@@ -48727,7 +48727,7 @@
     },
     {
         "autor": "Thiebaut Carlos, Eds.",
-        "tituloAlt": "Convicciones políticas, responsabilidades áticas. (V Semana de ética y Filosofía Política)",
+        "tituloAlt": "Convicciones políticas, responsabilidades áticas. (V Semana de etica y Filosofía Política)",
         "idioma": "es",
         "signaturaTopografica": "24.GON",
         "fechaPublicacion": "1990",
@@ -48735,7 +48735,7 @@
     },
     {
         "autor": "Thiebaut Carlos, Eds.",
-        "tituloAlt": "Convicciones políticas, responsabilidades áticas. (V Semana de ética y Filosofía Política)",
+        "tituloAlt": "Convicciones políticas, responsabilidades áticas. (V Semana de etica y Filosofía Política)",
         "idioma": "es",
         "signaturaTopografica": "31.GON",
         "fechaPublicacion": "1990",
@@ -49143,7 +49143,7 @@
     },
     {
         "autor": "Lombardo Radice Lucio",
-        "tituloAlt": "La matemética de Pit�goras a Newton.",
+        "tituloAlt": "La matemetica de Pit�goras a Newton.",
         "idioma": "es",
         "signaturaTopografica": "22.NEW-LOM",
         "fechaPublicacion": "1983",
@@ -49303,7 +49303,7 @@
     },
     {
         "autor": "Vuillemin Jules",
-        "tituloAlt": "De la logique � la th�ologie",
+        "tituloAlt": "De la logiqueÀla th�ologie",
         "idioma": "fr",
         "signaturaTopografica": "20.ARI-VUI",
         "fechaPublicacion": "1967",
@@ -49383,7 +49383,7 @@
     },
     {
         "autor": "Spinoza Baruch",
-        "tituloAlt": "ética demostrada seg�n el orden geométrico.",
+        "tituloAlt": "etica demostrada seg�n el orden geométrico.",
         "idioma": "es",
         "signaturaTopografica": "22.SPI",
         "fechaPublicacion": "1999",
@@ -49407,7 +49407,7 @@
     },
     {
         "autor": "Zavadivker Nicol�s",
-        "tituloAlt": "Una ética sin fundamentos.",
+        "tituloAlt": "Una etica sin fundamentos.",
         "idioma": "es",
         "signaturaTopografica": "31.ZAV",
         "fechaPublicacion": "2004",
@@ -49463,7 +49463,7 @@
     },
     {
         "autor": "Marx Karl",
-        "tituloAlt": "Manuscritos econ�mico-filos�ficos.",
+        "tituloAlt": "Manuscritos econ�mico-filosóficos.",
         "idioma": "es",
         "signaturaTopografica": "23.MAR-FRO",
         "fechaPublicacion": "1964",
@@ -50567,7 +50567,7 @@
     },
     {
         "autor": "Kamlah Wilhelm",
-        "tituloAlt": "Antropología filos�fica y ética.",
+        "tituloAlt": "Antropología filosófica y etica.",
         "idioma": "es",
         "signaturaTopografica": "31.KAM",
         "fechaPublicacion": "1976",
@@ -50783,7 +50783,7 @@
     },
     {
         "autor": "Val�ry Paul",
-        "tituloAlt": "Estudios filos�ficos.",
+        "tituloAlt": "Estudios filosóficos.",
         "idioma": "es",
         "signaturaTopografica": "23.VAL",
         "fechaPublicacion": "1993",
@@ -50798,7 +50798,7 @@
         "palabrasClave": "ARMOURSPINOZAHEGELSERIDEA"
     },
     {
-        "autor": "Tomsich Mar�a Giovanna",
+        "autor": "Tomsich María Giovanna",
         "tituloAlt": "El jansenismo en España",
         "idioma": "es",
         "signaturaTopografica": "22.TOM",
@@ -51007,7 +51007,7 @@
     },
     {
         "autor": "MacIntyre Alasdair",
-        "tituloAlt": "Historia de la ética.",
+        "tituloAlt": "Historia de la etica.",
         "idioma": "es",
         "signaturaTopografica": "31.MAC",
         "fechaPublicacion": "1988",
@@ -51438,7 +51438,7 @@
         "palabrasClave": "PENSAMIENTO CONTEMPORANEOUTOPIADICCIONARIO DE FILOSOFIA"
     },
     {
-        "autor": "Scarantino Luca Mar�a",
+        "autor": "Scarantino Luca María",
         "tituloAlt": "Giulio Preti",
         "idioma": "it",
         "signaturaTopografica": "23.PRE-SCA",
@@ -51467,7 +51467,7 @@
         "idioma": "es",
         "signaturaTopografica": "32. PAD",
         "fechaPublicacion": "2007",
-        "palabrasClave": "VERDADDEMOSTRACIaNSEM�NTICATEOR+APARADOJAAUTORREFERENCIA"
+        "palabrasClave": "VERDADDEMOSTRACIaNSEMÁNTICATEOR+APARADOJAAUTORREFERENCIA"
     },
     {
         "autor": "Cohen Agrest Diana",
@@ -51475,7 +51475,7 @@
         "idioma": "es",
         "signaturaTopografica": "31. COH",
         "fechaPublicacion": "2008",
-        "palabrasClave": "ÉTICAHOMOSEXUALIDADABORTOEUTANASIA"
+        "palabrasClave": "ETICAHOMOSEXUALIDADABORTOEUTANASIA"
     },
     {
         "autor": "Chiurazzi Gaetano",
@@ -52031,7 +52031,7 @@
     },
     {
         "autor": "Jagu Armand",
-        "tituloAlt": "�pictéte et Platon. Essai sur les relations du Sto�cisme et du Platonisme � propos de la Morale des Entretiens.",
+        "tituloAlt": "�pictéte et Platon. Essai sur les relations du Sto�cisme et du PlatonismeÀpropos de la Morale des Entretiens.",
         "idioma": "fr",
         "signaturaTopografica": "20.PLA",
         "fechaPublicacion": "1946",
@@ -52370,7 +52370,7 @@
         "idioma": "en",
         "signaturaTopografica": "31.SHA",
         "fechaPublicacion": "2005",
-        "palabrasClave": "GENÉTICACIENCIAÉTICAPOL+TICAPTBLICABIOTECNOLOG+A"
+        "palabrasClave": "GENETICACIENCIAETICAPOL+TICAPTBLICABIOTECNOLOG+A"
     },
     {
         "autor": "Gehring Verna v. ed.",
@@ -52378,7 +52378,7 @@
         "idioma": "en",
         "signaturaTopografica": "31.GEH",
         "fechaPublicacion": "2003",
-        "palabrasClave": "GENÉTICABIOTECNOLOG+AÉTICAPOL+TICAPTBLICA"
+        "palabrasClave": "GENETICABIOTECNOLOG+AETICAPOL+TICAPTBLICA"
     },
     {
         "autor": "Daniels Norman",
@@ -52402,7 +52402,7 @@
         "idioma": "en",
         "signaturaTopografica": "31.WAL",
         "fechaPublicacion": "2009",
-        "palabrasClave": "VIRTUDENSE�ANZAMEDICINAÉTICAMORAL"
+        "palabrasClave": "VIRTUDENSE�ANZAMEDICINAETICAMORAL"
     },
     {
         "autor": "Strahovnik Vojko eds.",
@@ -52418,7 +52418,7 @@
         "idioma": "en",
         "signaturaTopografica": "31.BUR",
         "fechaPublicacion": "2007",
-        "palabrasClave": "GENÉTICANEUROLOG+AMEDICINABIOLOG+ANAZISMOCLONACIaNMANIPULACIaN"
+        "palabrasClave": "GENETICANEUROLOG+AMEDICINABIOLOG+ANAZISMOCLONACIaNMANIPULACIaN"
     },
     {
         "autor": "Erreygers  Guido eds.",
@@ -52578,7 +52578,7 @@
         "idioma": "en",
         "signaturaTopografica": "31.SHA",
         "fechaPublicacion": "2007",
-        "palabrasClave": "ÉTICAMETAÉTICAERRORRAZaNREALISMOEXPRESIVISMOCOGNITIVISMOMORALKANTLEYESNORMATIVIDAD"
+        "palabrasClave": "ETICAMETAETICAERRORRAZaNREALISMOEXPRESIVISMOCOGNITIVISMOMORALKANTLEYESNORMATIVIDAD"
     },
     {
         "autor": "Bogdan Radu J. ed.",
@@ -52730,7 +52730,7 @@
         "idioma": "en",
         "signaturaTopografica": "31.SAN",
         "fechaPublicacion": "2008",
-        "palabrasClave": "ÉTICAINDUSTRIA FARMACÉUTICASALUDINVESTIGACIaNLEGISLACIaN"
+        "palabrasClave": "ETICAINDUSTRIA FARMACÉUTICASALUDINVESTIGACIaNLEGISLACIaN"
     },
     {
         "autor": "Sherwin Susaneds.",
@@ -52770,7 +52770,7 @@
         "idioma": "de",
         "signaturaTopografica": "22.KAN-ONC",
         "fechaPublicacion": "2009",
-        "palabrasClave": "KANTSMITHÉTICAMETAF+SICA"
+        "palabrasClave": "KANTSMITHETICAMETAF+SICA"
     },
     {
         "autor": "Knudsen Jonathan B.",
@@ -52806,7 +52806,7 @@
     },
     {
         "autor": "Casas Fray Bartolom� de las",
-        "tituloAlt": "Obras Escogidas III : Apologética historia sumaria (I)",
+        "tituloAlt": "Obras Escogidas III : Apologetica historia sumaria (I)",
         "idioma": "es",
         "signaturaTopografica": "24.CAS",
         "fechaPublicacion": "1958",
@@ -52826,7 +52826,7 @@
         "idioma": "en",
         "signaturaTopografica": "31.ABE",
         "fechaPublicacion": "2003",
-        "palabrasClave": "ÉTICARESPONSABILIDADSUICIDIOABORTOEUTANASIAHAMBREMEDIOAMBIENTE"
+        "palabrasClave": "ETICARESPONSABILIDADSUICIDIOABORTOEUTANASIAHAMBREMEDIOAMBIENTE"
     },
     {
         "autor": "Weirich Paul Ed.",
@@ -52834,7 +52834,7 @@
         "idioma": "en",
         "signaturaTopografica": "31.WEI",
         "fechaPublicacion": "2007",
-        "palabrasClave": "GENÉTICAMODIFICACIaNCOMIDABIOTECNOLOG+ALEGISLACIaN"
+        "palabrasClave": "GENETICAMODIFICACIaNCOMIDABIOTECNOLOG+ALEGISLACIaN"
     },
     {
         "autor": "Fehr Ernst eds.",
@@ -53034,7 +53034,7 @@
         "idioma": "en",
         "signaturaTopografica": "31.MOO-NUC",
         "fechaPublicacion": "2007",
-        "palabrasClave": "MOOREEPISTEMOLOG+AÉTICA"
+        "palabrasClave": "MOOREEPISTEMOLOG+AETICA"
     },
     {
         "autor": "Hume David",
@@ -53082,7 +53082,7 @@
         "idioma": "en",
         "signaturaTopografica": "31.STE",
         "fechaPublicacion": "2007",
-        "palabrasClave": "ÉTICAGUERRATERRORISMO"
+        "palabrasClave": "ETICAGUERRATERRORISMO"
     },
     {
         "autor": "Brandom Robert B.",
@@ -53090,7 +53090,7 @@
         "idioma": "en",
         "signaturaTopografica": "31.BRA",
         "fechaPublicacion": "2008",
-        "palabrasClave": "PRAGMATISMODECIRHACERSEM�NTICALaGICA"
+        "palabrasClave": "PRAGMATISMODECIRHACERSEMÁNTICALaGICA"
     },
     {
         "autor": "Baracchi Claudia",
@@ -53098,7 +53098,7 @@
         "idioma": "en",
         "signaturaTopografica": "20.ARI-BAR",
         "fechaPublicacion": "2008",
-        "palabrasClave": "ARISTaTELESÉTICAEPIST�MEMETAF+SICANICaMACO"
+        "palabrasClave": "ARISTaTELESETICAEPIST�MEMETAF+SICANICaMACO"
     },
     {
         "autor": "Zuckert Rachel",
@@ -53114,7 +53114,7 @@
         "idioma": "en",
         "signaturaTopografica": "31.GLO",
         "fechaPublicacion": "2008",
-        "palabrasClave": "FILOSOF+AANAL+TICAHISTORIAÉTICAPOL+TICA"
+        "palabrasClave": "FILOSOF+AANAL+TICAHISTORIAETICAPOL+TICA"
     },
     {
         "autor": "De Zan Julio",
@@ -53154,7 +53154,7 @@
         "idioma": "es",
         "signaturaTopografica": "31.TOR",
         "fechaPublicacion": "2009",
-        "palabrasClave": "GENÉTICABIOLOG+AIDENTIDADINFORMACIaN"
+        "palabrasClave": "GENETICABIOLOG+AIDENTIDADINFORMACIaN"
     },
     {
         "autor": "González Horacio (y otros)",
@@ -53182,7 +53182,7 @@
     },
     {
         "autor": "Dascal Marcelo",
-        "tituloAlt": "El análisis filos�fico en américa Latina-",
+        "tituloAlt": "El análisis filosófico en américa Latina-",
         "idioma": "es",
         "signaturaTopografica": "33.GRA",
         "fechaPublicacion": "1985",
@@ -53210,7 +53210,7 @@
         "idioma": "de",
         "signaturaTopografica": "23.HEG",
         "fechaPublicacion": "1989",
-        "palabrasClave": "HEGELEStétICA"
+        "palabrasClave": "HEGELEStetica"
     },
     {
         "autor": "Hegel Georg Wilhelm Friedrich",
@@ -53218,7 +53218,7 @@
         "idioma": "de",
         "signaturaTopografica": "23.HEG",
         "fechaPublicacion": "1984",
-        "palabrasClave": "HEGELEStétICAPOES+A"
+        "palabrasClave": "HEGELESteticaPOES+A"
     },
     {
         "autor": "Mandado Gutiérrez Ramón E.",
@@ -53226,7 +53226,7 @@
         "idioma": "es",
         "signaturaTopografica": "23.ADO-MAN",
         "fechaPublicacion": "1994",
-        "palabrasClave": "ADORNOCRONOLOG+AFRANKFURTdialécTICA NEGATIVAIDEALISMOSUJETOTEORIA EStétICAOBRAS"
+        "palabrasClave": "ADORNOCRONOLOG+AFRANKFURTdialécTICA NEGATIVAIDEALISMOSUJETOTEORIA ESteticaOBRAS"
     },
     {
         "autor": "Palmier Jean-Michel",
@@ -53262,7 +53262,7 @@
     },
     {
         "autor": "Casas Fray Bartolom� de las",
-        "tituloAlt": "Obras Escogidas IV : Apologética historia sumaria (II)",
+        "tituloAlt": "Obras Escogidas IV : Apologetica historia sumaria (II)",
         "idioma": "es",
         "signaturaTopografica": "24.CAS",
         "fechaPublicacion": "1958",
@@ -53274,15 +53274,15 @@
         "idioma": "de",
         "signaturaTopografica": "31.H�F",
         "fechaPublicacion": "2002",
-        "palabrasClave": "ÉTICADICCIONARIO"
+        "palabrasClave": "ETICADICCIONARIO"
     },
     {
         "autor": "Apel Karl Otto",
-        "tituloAlt": "Semiética filos�fica",
+        "tituloAlt": "Semietica filosófica",
         "idioma": "es",
         "signaturaTopografica": "29.APE",
         "fechaPublicacion": "1994",
-        "palabrasClave": "APELSEMIaTICAPRAGMÉTICALENGUAJE"
+        "palabrasClave": "APELSEMIaTICAPRAGMETICALENGUAJE"
     },
     {
         "autor": "Scheler Max",
@@ -53306,7 +53306,7 @@
         "idioma": "it",
         "signaturaTopografica": "20.PLO-VAS",
         "fechaPublicacion": "2008",
-        "palabrasClave": "PLOTINOEStétICAENEIDAODISEAREPTBLICAPAIDEIACREACIaN"
+        "palabrasClave": "PLOTINOESteticaENEIDAODISEAREPTBLICAPAIDEIACREACIaN"
     },
     {
         "autor": "Perine Marcelo (org.)",
@@ -53317,7 +53317,7 @@
         "palabrasClave": "PLATaNSERAPARECERBELLEZABIEN"
     },
     {
-        "autor": "Díaz Mar�a Elena",
+        "autor": "Díaz María Elena",
         "tituloAlt": "El surgimiento de la phantas�a en la Grecia Clásica. Parecer y aparecer en Prot�goras, Platón y Aristételes.",
         "idioma": "es",
         "signaturaTopografica": "20.PLA-MAR",
@@ -53397,7 +53397,7 @@
         "palabrasClave": "EPISTEMOLOG+AVIRTUDCREENCIACONOCIMIENTONORMATIVA"
     },
     {
-        "autor": "de la Pe�a Luis Jos�",
+        "autor": "de la Peña Luis Jos�",
         "tituloAlt": "Lecciones de Filosofía. (1ra ed. y pr�l. por C. A. Jalif de Bertranou)",
         "idioma": "es",
         "signaturaTopografica": "33.PE�",
@@ -53481,7 +53481,7 @@
         "idioma": "de",
         "signaturaTopografica": "22.LEI-KNO",
         "fechaPublicacion": "1973",
-        "palabrasClave": "LEIBNIZMATEMÉTICAARTE COMBINATORIAFUNCIONES SIMÉTRICASPARTICIONES"
+        "palabrasClave": "LEIBNIZMATEMETICAARTE COMBINATORIAFUNCIONES SIMÉTRICASPARTICIONES"
     },
     {
         "autor": "Bodemann Eduard",
@@ -53553,7 +53553,7 @@
         "idioma": "fr",
         "signaturaTopografica": "23.BOU",
         "fechaPublicacion": "1984",
-        "palabrasClave": "FILOSOF+A ACTUALIDADIMAGINACIaNÉTICAPROBLEMAS"
+        "palabrasClave": "FILOSOF+A ACTUALIDADIMAGINACIaNETICAPROBLEMAS"
     },
     {
         "autor": "Scheffler Israel",
@@ -53604,7 +53604,7 @@
         "palabrasClave": "IDENTIDADINDIVIDUACIaNIMAGINACIaNCONSISTENCIAMORALIGUALDAD"
     },
     {
-        "autor": "Pe�a Lorenzo",
+        "autor": "Peña Lorenzo",
         "tituloAlt": "Fundamentos de ontología dialéctica.",
         "idioma": "es",
         "signaturaTopografica": "32.PE�",
@@ -54192,7 +54192,7 @@
         "idioma": "de",
         "signaturaTopografica": "23.DIL",
         "fechaPublicacion": "1962",
-        "palabrasClave": "DILTHEYCAMPO INTELECTUALPOÉTICAÉTICAPEDAGOG+A"
+        "palabrasClave": "DILTHEYCAMPO INTELECTUALPOETICAETICAPEDAGOG+A"
     },
     {
         "autor": "Dilthey Wilhelm",
@@ -54211,16 +54211,16 @@
         "palabrasClave": "PLATaNPLACERPROT�GORASGORGIASFEDaNREPTBLICAFILEBO"
     },
     {
-        "autor": "L�pez Diana Mar�a, comp.",
+        "autor": "L�pez Diana María, comp.",
         "tituloAlt": "Experiencia y L�mite",
         "idioma": "es",
         "signaturaTopografica": "22.KAN-LOP",
         "fechaPublicacion": "2009",
-        "palabrasClave": "KANTMORALPOL+TICADERECHOHISTORIAEStétICATELEOLOG+AIDEALISMO"
+        "palabrasClave": "KANTMORALPOL+TICADERECHOHISTORIAESteticaTELEOLOG+AIDEALISMO"
     },
     {
         "autor": "Martínez Francisco Jos�",
-        "tituloAlt": "Hacia una era post-mediética",
+        "tituloAlt": "Hacia una era post-medietica",
         "idioma": "es",
         "signaturaTopografica": "23.GUA-MAR",
         "fechaPublicacion": "2008",
@@ -54240,7 +54240,7 @@
         "idioma": "de",
         "signaturaTopografica": "23.WIT",
         "fechaPublicacion": "1969",
-        "palabrasClave": "WITTGENSTEINgramáTICALaGICAMATEMÉTICA"
+        "palabrasClave": "WITTGENSTEINgramáTICALaGICAMATEMETICA"
     },
     {
         "autor": "Wittgenstein Ludwig",
@@ -54296,7 +54296,7 @@
         "idioma": "de",
         "signaturaTopografica": "28.HAL",
         "fechaPublicacion": "1964",
-        "palabrasClave": "ARTECULTOEStétICAFILOSOF+A DEL ARTE"
+        "palabrasClave": "ARTECULTOESteticaFILOSOF+A DEL ARTE"
     },
     {
         "autor": "Kultermann Udo",
@@ -54496,7 +54496,7 @@
         "idioma": "de",
         "signaturaTopografica": "29.FRE",
         "fechaPublicacion": "1961",
-        "palabrasClave": "FREGEARITMÉTICANTMERO"
+        "palabrasClave": "FREGEARITMETICANTMERO"
     },
     {
         "autor": "Stegm�ller Wolfang",
@@ -54512,7 +54512,7 @@
         "idioma": "es",
         "signaturaTopografica": "24.MAR",
         "fechaPublicacion": "1986",
-        "palabrasClave": "MART+NEZCRISISRAZaNÉTICAPOL+TICACAT�STROFE"
+        "palabrasClave": "MART+NEZCRISISRAZaNETICAPOL+TICACAT�STROFE"
     },
     {
         "autor": "Fink Eugen",
@@ -54560,7 +54560,7 @@
         "idioma": "de",
         "signaturaTopografica": "23.BOL",
         "fechaPublicacion": "1964",
-        "palabrasClave": "BOLZANOPARADOJAINFINITOMATEMÉTICA"
+        "palabrasClave": "BOLZANOPARADOJAINFINITOMATEMETICA"
     },
     {
         "autor": "Real Academia Española ",
@@ -54606,7 +54606,7 @@
         "idioma": "de",
         "signaturaTopografica": "29.ROT",
         "fechaPublicacion": "1970",
-        "palabrasClave": "ROTHACKERLaGICASISTEMÉTICACIENCIAS SOCIALES"
+        "palabrasClave": "ROTHACKERLaGICASISTEMETICACIENCIAS SOCIALES"
     },
     {
         "autor": "Carnap Rudolf",
@@ -54649,7 +54649,7 @@
         "palabrasClave": "NIETZSCHEBIOGRAF+AFILOSOF+A EXPERIMENTAL"
     },
     {
-        "autor": "S�nchez Meca Diego",
+        "autor": "Sánchez Meca Diego",
         "tituloAlt": "En torno al superhombre",
         "idioma": "es",
         "signaturaTopografica": "23.NIE-SAN",
@@ -54850,11 +54850,11 @@
     },
     {
         "autor": "Hegel Friedrich",
-        "tituloAlt": "De lo bello y sus formas. (Estética)",
+        "tituloAlt": "De lo bello y sus formas. (Estetica)",
         "idioma": "es",
         "signaturaTopografica": "23.HEG",
         "fechaPublicacion": "1985",
-        "palabrasClave": "HEGELEStétICAFORMABELLO"
+        "palabrasClave": "HEGELESteticaFORMABELLO"
     },
     {
         "autor": "Benjamin Walter",
@@ -55034,7 +55034,7 @@
     },
     {
         "autor": "Velasco Marina",
-        "tituloAlt": "O que � justi�a?",
+        "tituloAlt": "O queÀjusti�a?",
         "idioma": "pt",
         "signaturaTopografica": "31.VEL",
         "fechaPublicacion": "2009",
@@ -55130,7 +55130,7 @@
     },
     {
         "autor": "Rétat Pierre",
-        "tituloAlt": "Le Dictionnaire de Bayle et la lutte philosophique au XVIIIe si�cle.",
+        "tituloAlt": "Le Dictionnaire de Bayle et la lutte philosophique au XVIIIe siécle.",
         "idioma": "fr",
         "signaturaTopografica": "22.BAY-RET",
         "fechaPublicacion": "1971",
@@ -55374,7 +55374,7 @@
         "idioma": "de",
         "signaturaTopografica": "23.HEG",
         "fechaPublicacion": "1984",
-        "palabrasClave": "HEGELEStétICA"
+        "palabrasClave": "HEGELEStetica"
     },
     {
         "autor": "Hegel G. W. F.",
@@ -55382,7 +55382,7 @@
         "idioma": "de",
         "signaturaTopografica": "23.HEG",
         "fechaPublicacion": "1984",
-        "palabrasClave": "HEGELEStétICA"
+        "palabrasClave": "HEGELEStetica"
     },
     {
         "autor": "Gadamer Hans-Georg",
@@ -55430,7 +55430,7 @@
         "idioma": "de",
         "signaturaTopografica": "23.FIC",
         "fechaPublicacion": "1971",
-        "palabrasClave": "FICHTEOBRAS COMPLETASDERECHOÉTICA"
+        "palabrasClave": "FICHTEOBRAS COMPLETASDERECHOETICA"
     },
     {
         "autor": "Fichte Johann Gottlieb",
@@ -55438,7 +55438,7 @@
         "idioma": "de",
         "signaturaTopografica": "23.FIC",
         "fechaPublicacion": "1971",
-        "palabrasClave": "FICHTEOBRAS COMPLETASDERECHOÉTICA"
+        "palabrasClave": "FICHTEOBRAS COMPLETASDERECHOETICA"
     },
     {
         "autor": "Fichte Johann Gottlieb",
@@ -55798,7 +55798,7 @@
         "idioma": "en",
         "signaturaTopografica": "31.SEN",
         "fechaPublicacion": "2009",
-        "palabrasClave": "SENJUSTICIACONTRATO SOCIALRAWLSÉTICA"
+        "palabrasClave": "SENJUSTICIACONTRATO SOCIALRAWLSETICA"
     },
     {
         "autor": "Archibugi Daniele",
@@ -56053,7 +56053,7 @@
         "idioma": "fr",
         "signaturaTopografica": "23.HEG-TEY",
         "fechaPublicacion": "1963",
-        "palabrasClave": "TEYSS+DREHEGELEStétICA"
+        "palabrasClave": "TEYSS+DREHEGELEStetica"
     },
     {
         "autor": "Bourgeois Bernard",
@@ -56141,7 +56141,7 @@
         "idioma": "en",
         "signaturaTopografica": "23.LUC",
         "fechaPublicacion": "1983",
-        "palabrasClave": "LUCEYMETAF+SICALaGICACONOCIMIENTOÉTICAPOL+TICAARTE"
+        "palabrasClave": "LUCEYMETAF+SICALaGICACONOCIMIENTOETICAPOL+TICAARTE"
     },
     {
         "tituloAlt": "Georg Wilhelm Friedrich Hegel 1770-1970",
@@ -56203,7 +56203,7 @@
         "idioma": "en",
         "signaturaTopografica": "31.APP",
         "fechaPublicacion": "2005",
-        "palabrasClave": "APPIAHIDENTIDADÉTICA"
+        "palabrasClave": "APPIAHIDENTIDADETICA"
     },
     {
         "autor": "Winters Alan, eds.",
@@ -56459,7 +56459,7 @@
         "idioma": "de",
         "signaturaTopografica": "23.HEG",
         "fechaPublicacion": "1955",
-        "palabrasClave": "HEGELEStétICALUK�CS"
+        "palabrasClave": "HEGELESteticaLUK�CS"
     },
     {
         "autor": "Iljin Iwan",
@@ -56539,7 +56539,7 @@
         "idioma": "de",
         "signaturaTopografica": "22.KAN",
         "fechaPublicacion": "1956",
-        "palabrasClave": "KANtétICARELIGIaN"
+        "palabrasClave": "KANteticaRELIGIaN"
     },
     {
         "autor": "Kant Immanuel",
@@ -56635,7 +56635,7 @@
         "idioma": "de",
         "signaturaTopografica": "23.ADO",
         "fechaPublicacion": "1962",
-        "palabrasClave": "ADORNOKIERKEGAARDEStétICACONSTRUCCIaN"
+        "palabrasClave": "ADORNOKIERKEGAARDESteticaCONSTRUCCIaN"
     },
     {
         "autor": "Schrey Heinz-Horst, ed.",
@@ -56739,7 +56739,7 @@
         "idioma": "de",
         "signaturaTopografica": "23.KIE",
         "fechaPublicacion": "1951",
-        "palabrasClave": "KIERKEGAARDCRISTIANISMOÉTICARELIGIaN�GUILAELEGIDOS"
+        "palabrasClave": "KIERKEGAARDCRISTIANISMOETICARELIGIaN�GUILAELEGIDOS"
     },
     {
         "autor": "Kierkegaard S�ren",
@@ -56883,7 +56883,7 @@
         "idioma": "de",
         "signaturaTopografica": "23.MAR-FET",
         "fechaPublicacion": "1957",
-        "palabrasClave": "FETSCHERMARXIDEOLOG+AUNIaN SOVIÉTICA"
+        "palabrasClave": "FETSCHERMARXIDEOLOG+AUNIaN SOVIETICA"
     },
     {
         "autor": "Cottier Georges M.- M.",
@@ -57246,7 +57246,7 @@
         "palabrasClave": "LAURENDERECHOS HUMANOSEVOLUCIaN"
     },
     {
-        "autor": "Antognazza Mar�a Rosa",
+        "autor": "Antognazza María Rosa",
         "tituloAlt": "Leibniz",
         "idioma": "en",
         "signaturaTopografica": "22.LEI-ANT",
@@ -57674,7 +57674,7 @@
     },
     {
         "autor": "García Bacca Juan D.",
-        "tituloAlt": "Fragmentos filos�ficos de los presocríticos.",
+        "tituloAlt": "Fragmentos filosóficos de los presocríticos.",
         "idioma": "es",
         "signaturaTopografica": "20.GAR",
         "palabrasClave": "GARCIA BACCAPRESOCRATICOSFRAGMENTOS"
@@ -58544,7 +58544,7 @@
     },
     {
         "autor": "Moore G. E.",
-        "tituloAlt": "ética.",
+        "tituloAlt": "etica.",
         "idioma": "es",
         "signaturaTopografica": "23.MOO",
         "fechaPublicacion": "1929",
@@ -58696,7 +58696,7 @@
     },
     {
         "autor": "Mao Tse-tung ",
-        "tituloAlt": "Cinco tesis filos�ficas",
+        "tituloAlt": "Cinco tesis filosóficas",
         "idioma": "es",
         "signaturaTopografica": "24.MAO",
         "fechaPublicacion": "1969",
@@ -58727,7 +58727,7 @@
         "palabrasClave": "WEILHEGELESTADO"
     },
     {
-        "autor": "Mar�as Juli�n",
+        "autor": "Marías Juli�n",
         "tituloAlt": "Idea de la metaf�sica.",
         "idioma": "es",
         "signaturaTopografica": "33.MAR",
@@ -59318,7 +59318,7 @@
         "palabrasClave": "LEFEBVREMARXMATERIALISMO DIALECTICO"
     },
     {
-        "autor": "Valverde José Mar�a",
+        "autor": "Valverde José María",
         "tituloAlt": "Guillermo de Humboldt y la Filosofía del Lenguaje.",
         "idioma": "es",
         "signaturaTopografica": "29.HUM-VAL",
@@ -59487,7 +59487,7 @@
     },
     {
         "autor": "Tugendhat Ernst",
-        "tituloAlt": "Problemas de la ética.",
+        "tituloAlt": "Problemas de la etica.",
         "idioma": "es",
         "signaturaTopografica": "31.TUG",
         "fechaPublicacion": "1988",
@@ -59655,7 +59655,7 @@
     },
     {
         "autor": "Nino Carlos Santiago",
-        "tituloAlt": "ética y derechos humanos",
+        "tituloAlt": "etica y derechos humanos",
         "idioma": "es",
         "signaturaTopografica": "31.NIN",
         "fechaPublicacion": "1984",
@@ -60159,7 +60159,7 @@
     },
     {
         "autor": "Patzig G�nther",
-        "tituloAlt": "ética sin metaf�sica.",
+        "tituloAlt": "etica sin metaf�sica.",
         "idioma": "es",
         "signaturaTopografica": "31.PAT",
         "fechaPublicacion": "1975",
@@ -60623,7 +60623,7 @@
     },
     {
         "autor": "Lebrun G�rard",
-        "tituloAlt": "O que � poder.",
+        "tituloAlt": "O queÀpoder.",
         "idioma": "pt",
         "signaturaTopografica": "24.LEB",
         "fechaPublicacion": "1981",
@@ -60895,7 +60895,7 @@
     },
     {
         "autor": "Ullman Stephen",
-        "tituloAlt": "Sem�ntica",
+        "tituloAlt": "Semántica",
         "idioma": "es",
         "signaturaTopografica": "29.ULL",
         "fechaPublicacion": "1965",
@@ -61015,7 +61015,7 @@
     },
     {
         "autor": "Aranguren José Luis L.",
-        "tituloAlt": "ética.",
+        "tituloAlt": "etica.",
         "idioma": "es",
         "signaturaTopografica": "31.ARA",
         "fechaPublicacion": "1958",
@@ -61086,7 +61086,7 @@
         "palabrasClave": "ROHDEPSYCHEGRECIAALMA"
     },
     {
-        "autor": "Mar�as Juli�n",
+        "autor": "Marías Juli�n",
         "tituloAlt": "San Anselmo y el insensato",
         "idioma": "es",
         "signaturaTopografica": "33.MAR",
@@ -61094,7 +61094,7 @@
         "palabrasClave": "MARIASSAN ANSELMODIOSEMPIRISMOMARCO AURELIOMAINE DE BIRANHOMBRE"
     },
     {
-        "autor": "Mar�as Juli�n",
+        "autor": "Marías Juli�n",
         "tituloAlt": "La filosofía española actual.",
         "idioma": "es",
         "signaturaTopografica": "33.MAR",
@@ -61110,7 +61110,7 @@
         "palabrasClave": "HEISENBERGFISICANATURALEZA"
     },
     {
-        "autor": "Mar�as Juli�n",
+        "autor": "Marías Juli�n",
         "tituloAlt": "Historia de la filosofía.",
         "idioma": "de",
         "signaturaTopografica": "33.MAR",
@@ -61127,7 +61127,7 @@
     },
     {
         "autor": "Piaget Jean",
-        "tituloAlt": "Epistemología genética.",
+        "tituloAlt": "Epistemología genetica.",
         "idioma": "es",
         "signaturaTopografica": "29.PIA",
         "fechaPublicacion": "1970",
@@ -61150,7 +61150,7 @@
         "palabrasClave": "CHOMSKYLYONSLINGUISTICABLOOMFIELDGRAMATICA GENERATIVAGRAMATICA TRANSFORMACIONALFILOSOFIA DEL LENGUAJE"
     },
     {
-        "autor": "Mar�as Juli�n",
+        "autor": "Marías Juli�n",
         "tituloAlt": "Biografía de la filosofía.",
         "idioma": "es",
         "signaturaTopografica": "33.MAR",
@@ -61247,7 +61247,7 @@
     },
     {
         "autor": "Al-Farabi Abu Nasr",
-        "tituloAlt": "Obras filos�fico-políticas. (Ed. bilingüe)",
+        "tituloAlt": "Obras filosófico-políticas. (Ed. bilingüe)",
         "idioma": "ar-es",
         "signaturaTopografica": "21.ALF",
         "fechaPublicacion": "1992",
@@ -61446,7 +61446,7 @@
         "palabrasClave": "JASPERSPLATONAGUSTINKANT"
     },
     {
-        "autor": "Ripalda José Mar�a",
+        "autor": "Ripalda José María",
         "tituloAlt": "La nación dividida",
         "idioma": "es",
         "signaturaTopografica": "23.HEG-RIP",
@@ -61575,7 +61575,7 @@
     },
     {
         "autor": "Dom�nech Antoni",
-        "tituloAlt": "De la ética a la política",
+        "tituloAlt": "De la etica a la política",
         "idioma": "es",
         "signaturaTopografica": "24.DOM",
         "fechaPublicacion": "1989",
@@ -61703,7 +61703,7 @@
     },
     {
         "autor": "Salmer�n Fernando",
-        "tituloAlt": "Ensayos filos�ficos (Antología).",
+        "tituloAlt": "Ensayos filosóficos (Antología).",
         "idioma": "es",
         "signaturaTopografica": "33.SAL",
         "fechaPublicacion": "1988",
@@ -61742,7 +61742,7 @@
         "palabrasClave": "GUYAMERICA LATINAESCOLASTICISMOILUMINISMOPLURALISMO"
     },
     {
-        "autor": "Costa Mar�a Victoria",
+        "autor": "Costa María Victoria",
         "tituloAlt": "Aspectos del contracturalismo moderno",
         "idioma": "es",
         "signaturaTopografica": "22.HOB-COS",
@@ -61767,7 +61767,7 @@
     },
     {
         "autor": "Husserl Edmund",
-        "tituloAlt": "Tercer Coloquio Filos�fico de Royaumont.",
+        "tituloAlt": "Tercer Coloquio Filosófico de Royaumont.",
         "idioma": "es",
         "signaturaTopografica": "23.HUS",
         "fechaPublicacion": "1968",
@@ -61935,7 +61935,7 @@
     },
     {
         "autor": "Ru�z Moreno Martín T.",
-        "tituloAlt": "Vocabulario filos�fico.",
+        "tituloAlt": "Vocabulario filosófico.",
         "idioma": "es",
         "signaturaTopografica": "Referencia",
         "fechaPublicacion": "1963",
@@ -61967,7 +61967,7 @@
     },
     {
         "autor": "Will Edouard",
-        "tituloAlt": "Le monde grec et l'orient. Tome I: Le V si�cle (510-403)",
+        "tituloAlt": "Le monde grec et l'orient. Tome I: Le V siécle (510-403)",
         "idioma": "fr",
         "signaturaTopografica": "20.WIL",
         "fechaPublicacion": "1972",
@@ -61975,7 +61975,7 @@
     },
     {
         "autor": "Will Edouard",
-        "tituloAlt": "Le monde grec et l'orient. Tome II: Le IV si�cle et l'�poque hell�nistique.",
+        "tituloAlt": "Le monde grec et l'orient. Tome II: Le IV siécle et l'�poque hell�nistique.",
         "idioma": "fr",
         "signaturaTopografica": "20.WIL",
         "fechaPublicacion": "1975",
@@ -62047,7 +62047,7 @@
     },
     {
         "autor": "Aristételes ",
-        "tituloAlt": "Poética.",
+        "tituloAlt": "Poetica.",
         "idioma": "es",
         "signaturaTopografica": "20.ARI",
         "fechaPublicacion": "1963",
@@ -62414,7 +62414,7 @@
         "palabrasClave": "BOYLEDOMINIO PUBLICOMENTE"
     },
     {
-        "autor": "Zambrano Mar�a",
+        "autor": "Zambrano María",
         "tituloAlt": "El hombre y lo divino.",
         "idioma": "es",
         "signaturaTopografica": "34.ZAM",
@@ -62463,7 +62463,7 @@
     },
     {
         "autor": "Robinet Andr�, dir.",
-        "tituloAlt": "Recherches sur le XVIIe si�cle V.",
+        "tituloAlt": "Recherches sur le XVIIe siécle V.",
         "idioma": "fr",
         "signaturaTopografica": "22.ROB",
         "fechaPublicacion": "1982",
@@ -62471,7 +62471,7 @@
     },
     {
         "autor": "Robinet Andr�, dir.",
-        "tituloAlt": "Recherches sur le XVIIe si�cle VI.",
+        "tituloAlt": "Recherches sur le XVIIe siécle VI.",
         "idioma": "fr",
         "signaturaTopografica": "22.ROB",
         "fechaPublicacion": "1983",
@@ -62503,7 +62503,7 @@
     },
     {
         "autor": "Ortega y Gasset Jos�",
-        "tituloAlt": "La deshumanización del arte y otros ensayos de estética.",
+        "tituloAlt": "La deshumanización del arte y otros ensayos de estetica.",
         "idioma": "es",
         "signaturaTopografica": "33.ORT",
         "fechaPublicacion": "1976",
@@ -62679,7 +62679,7 @@
     },
     {
         "autor": "Tomasini Bassols Alejandro",
-        "tituloAlt": "Enigmas filos�ficos y filosofía wittgensteiniana.",
+        "tituloAlt": "Enigmas filosóficos y filosofía wittgensteiniana.",
         "idioma": "es",
         "signaturaTopografica": "23.WIT-TOM",
         "fechaPublicacion": "1995",
@@ -62983,7 +62983,7 @@
     },
     {
         "autor": "Alqui� Ferdinand et al.",
-        "tituloAlt": "La philosophie du monde nouveau (XVIe et XVIIe si�cles).",
+        "tituloAlt": "La philosophie du monde nouveau (XVIe et XVIIe siécles).",
         "idioma": "fr",
         "signaturaTopografica": "27.ALQ",
         "fechaPublicacion": "1977",
@@ -63215,7 +63215,7 @@
     },
     {
         "autor": "Hegel Georg Wilhelm Friedrich",
-        "tituloAlt": "Enciclopedia de las Ciencias Filos�ficas II",
+        "tituloAlt": "Enciclopedia de las Ciencias Filosóficas II",
         "idioma": "es",
         "signaturaTopografica": "23.HEG",
         "fechaPublicacion": "1917",
@@ -63311,7 +63311,7 @@
     },
     {
         "autor": "Bourel Dominique, dir.",
-        "tituloAlt": "Le si�cle des Lumi�res et la Bible.",
+        "tituloAlt": "Le siécle des Lumi�res et la Bible.",
         "idioma": "fr",
         "signaturaTopografica": "34.BEL",
         "fechaPublicacion": "1986",
@@ -63407,7 +63407,7 @@
     },
     {
         "autor": "Margolin Jean-Claude, eds.",
-        "tituloAlt": "La liberté de conscience (XVIe-XVIIe si�cles)",
+        "tituloAlt": "La liberté de conscience (XVIe-XVIIe siécles)",
         "idioma": "fr",
         "signaturaTopografica": "24.GUG",
         "fechaPublicacion": "1991",
@@ -63799,7 +63799,7 @@
     },
     {
         "autor": "Hegel G. W. F.",
-        "tituloAlt": "Proped�utica filos�fica. (Prefacio al \"Sistema de la Ciencia\")",
+        "tituloAlt": "Proped�utica filosófica. (Prefacio al \"Sistema de la Ciencia\")",
         "idioma": "es",
         "signaturaTopografica": "23.HEG",
         "fechaPublicacion": "1972",
@@ -63839,7 +63839,7 @@
     },
     {
         "autor": "Croce Benedetto",
-        "tituloAlt": "ética y política; Contribución a la crítica de m� mismo.",
+        "tituloAlt": "etica y política; Contribución a la crítica de m� mismo.",
         "idioma": "es",
         "signaturaTopografica": "23.CRO",
         "fechaPublicacion": "1952",
@@ -63966,7 +63966,7 @@
         "palabrasClave": "PRADINESPSICOLOGIAGENERO HUMANO"
     },
     {
-        "autor": "Navarro Mar�a G.",
+        "autor": "Navarro María G.",
         "tituloAlt": "Interpretar y argumentar",
         "idioma": "es",
         "signaturaTopografica": "23.GAD-NAV",
@@ -64023,7 +64023,7 @@
     },
     {
         "autor": "Kolakowski Leszek",
-        "tituloAlt": "El racionalismo como ideología y ética sin c�digo.",
+        "tituloAlt": "El racionalismo como ideología y etica sin c�digo.",
         "idioma": "es",
         "signaturaTopografica": "23.KOL",
         "fechaPublicacion": "1970",
@@ -64087,7 +64087,7 @@
     },
     {
         "autor": "de Gaiffier Baudouin",
-        "tituloAlt": "Religion, �rudition et critique a la fin du XVIIe si�cle et au d�but du XVIIIe.",
+        "tituloAlt": "Religion, �rudition et critique a la fin du XVIIe siécle et au d�but du XVIIIe.",
         "idioma": "fr",
         "signaturaTopografica": "22.GAI",
         "fechaPublicacion": "1968",
@@ -64583,7 +64583,7 @@
     },
     {
         "autor": "Kierkegaard S�ren",
-        "tituloAlt": "Estética del matrimonio",
+        "tituloAlt": "Estetica del matrimonio",
         "idioma": "es",
         "signaturaTopografica": "23.KIE",
         "fechaPublicacion": "1960",
@@ -64638,7 +64638,7 @@
         "palabrasClave": "RIBEIROFILOSOFIA POLITICAMONARQUIA"
     },
     {
-        "autor": "S�nchez Agesta Luis, ed.",
+        "autor": "Sánchez Agesta Luis, ed.",
         "tituloAlt": "Documentos constitucionales y textos politicos.",
         "idioma": "es",
         "signaturaTopografica": "24.SAN",
@@ -65095,7 +65095,7 @@
     },
     {
         "autor": "Hobbes Thomas",
-        "tituloAlt": "Elementos filos�ficos; Del ciudadano.",
+        "tituloAlt": "Elementos filosóficos; Del ciudadano.",
         "idioma": "es",
         "signaturaTopografica": "22.HOB",
         "fechaPublicacion": "2010",
@@ -66303,7 +66303,7 @@
     },
     {
         "autor": "Vidiella Graciela",
-        "tituloAlt": "Breviario de ética.",
+        "tituloAlt": "Breviario de etica.",
         "idioma": "es",
         "signaturaTopografica": "31.GUA",
         "fechaPublicacion": "2011",
@@ -66551,7 +66551,7 @@
     },
     {
         "autor": "Groethuysen Bernhard",
-        "tituloAlt": "Antropología filos�fica.",
+        "tituloAlt": "Antropología filosófica.",
         "idioma": "es",
         "signaturaTopografica": "23.GRO",
         "fechaPublicacion": "1951",
@@ -66687,7 +66687,7 @@
     },
     {
         "autor": "van Fraassen Bas C.",
-        "tituloAlt": "Sem�ntica formal y lógica.",
+        "tituloAlt": "Semántica formal y lógica.",
         "idioma": "es",
         "signaturaTopografica": "29.FRA",
         "fechaPublicacion": "1987",
@@ -66791,7 +66791,7 @@
     },
     {
         "autor": "Frondizi Risieri",
-        "tituloAlt": "Ensayos filos�ficos.",
+        "tituloAlt": "Ensayos filosóficos.",
         "idioma": "es",
         "signaturaTopografica": "31.FRO",
         "fechaPublicacion": "1986",
@@ -67639,7 +67639,7 @@
     },
     {
         "autor": "Koyr� Alexandre",
-        "tituloAlt": "Du monde clos � l'univers infini.",
+        "tituloAlt": "Du monde closÀl'univers infini.",
         "idioma": "fr",
         "signaturaTopografica": "29.KOY",
         "fechaPublicacion": "1962",
@@ -67815,7 +67815,7 @@
     },
     {
         "autor": "Guerrero Luis Juan",
-        "tituloAlt": "Estética operatoria en sus tres direcciones I",
+        "tituloAlt": "Estetica operatoria en sus tres direcciones I",
         "idioma": "es",
         "signaturaTopografica": "28.GUE",
         "fechaPublicacion": "2008",
@@ -68623,7 +68623,7 @@
     },
     {
         "autor": "Jaspers Karl",
-        "tituloAlt": "La fe filos�fica.",
+        "tituloAlt": "La fe filosófica.",
         "idioma": "es",
         "signaturaTopografica": "23.JAS",
         "fechaPublicacion": "1953",
@@ -68631,7 +68631,7 @@
     },
     {
         "autor": "Jaspers Karl",
-        "tituloAlt": "La fe filos�fica.",
+        "tituloAlt": "La fe filosófica.",
         "idioma": "es",
         "signaturaTopografica": "23.JAS",
         "fechaPublicacion": "1953",
@@ -69087,7 +69087,7 @@
     },
     {
         "autor": "Cayr� Fulbert",
-        "tituloAlt": "Initiation � la philosophie de Saint Augustin",
+        "tituloAlt": "InitiationÀla philosophie de Saint Augustin",
         "idioma": "fr",
         "signaturaTopografica": "21.AGU-CAY",
         "fechaPublicacion": "1947",
@@ -70143,7 +70143,7 @@
     },
     {
         "autor": "Hegel Georg Wilhelm Friedrich",
-        "tituloAlt": "Lecciones sobre la estética",
+        "tituloAlt": "Lecciones sobre la estetica",
         "idioma": "es",
         "signaturaTopografica": "23.HEG",
         "fechaPublicacion": "1989",
@@ -70303,7 +70303,7 @@
     },
     {
         "autor": "Gilson �tienne",
-        "tituloAlt": "Introduction � la philosophie chr�tienne",
+        "tituloAlt": "IntroductionÀla philosophie chr�tienne",
         "idioma": "fr",
         "signaturaTopografica": "21.GIL",
         "fechaPublicacion": "1960",
@@ -70375,7 +70375,7 @@
     },
     {
         "autor": "Vajda Georges",
-        "tituloAlt": "Introduction � la pensée juive du Moyen �ge",
+        "tituloAlt": "IntroductionÀla pensée juive du Moyen �ge",
         "idioma": "fr",
         "signaturaTopografica": "21.VAJ",
         "fechaPublicacion": "1947",
@@ -70383,7 +70383,7 @@
     },
     {
         "autor": "Vignaux Paul",
-        "tituloAlt": "Nominalisme au XIVe si�cle",
+        "tituloAlt": "Nominalisme au XIVe siécle",
         "idioma": "fr",
         "signaturaTopografica": "21.VIG",
         "fechaPublicacion": "1948",
@@ -70455,7 +70455,7 @@
     },
     {
         "autor": "Alberini Coriolano",
-        "tituloAlt": "Escritos de ética",
+        "tituloAlt": "Escritos de etica",
         "idioma": "es",
         "signaturaTopografica": "33.ALB",
         "fechaPublicacion": "1973",
@@ -71175,7 +71175,7 @@
     },
     {
         "autor": "Haussman Bernard",
-        "tituloAlt": "Problemas filos�ficos de la matemética moderna",
+        "tituloAlt": "Problemas filosóficos de la matemetica moderna",
         "idioma": "es",
         "signaturaTopografica": "29.HAU",
         "fechaPublicacion": "1968",
@@ -71895,7 +71895,7 @@
     },
     {
         "autor": "Calvez Jean-Yves",
-        "tituloAlt": "Introduction � la vie politique",
+        "tituloAlt": "IntroductionÀla vie politique",
         "idioma": "fr",
         "signaturaTopografica": "24.CAL",
         "fechaPublicacion": "1967",
@@ -72047,7 +72047,7 @@
     },
     {
         "autor": "Chambre Henri",
-        "tituloAlt": "De Karl Marx � Mao Ts�-Tung",
+        "tituloAlt": "De Karl MarxÀMao Ts�-Tung",
         "idioma": "fr",
         "signaturaTopografica": "24.CHA",
         "fechaPublicacion": "1959",
@@ -72175,7 +72175,7 @@
     },
     {
         "autor": "Comte Auguste",
-        "tituloAlt": "Lettres in�dites � C. de Bligni�res",
+        "tituloAlt": "Lettres in�ditesÀC. de Bligni�res",
         "idioma": "fr",
         "signaturaTopografica": "24.COM",
         "fechaPublicacion": "1932",
@@ -72911,7 +72911,7 @@
     },
     {
         "autor": "L�pez Fr�as Francisco",
-        "tituloAlt": "ética y política",
+        "tituloAlt": "etica y política",
         "idioma": "es",
         "signaturaTopografica": "24.LOP",
         "fechaPublicacion": "1985",
@@ -73350,7 +73350,7 @@
         "palabrasClave": "NIPPERDEYHISTORIAUTOPIAALEMANIA"
     },
     {
-        "autor": "Nizza da Silva Mar�a Beatriz",
+        "autor": "Nizza da Silva María Beatriz",
         "tituloAlt": "Silvestre Pinheiro Ferreira",
         "idioma": "pt",
         "signaturaTopografica": "24.NIZ",
@@ -73871,7 +73871,7 @@
     },
     {
         "autor": "Rubio Carracedo Jos�",
-        "tituloAlt": "La utop�a ética del Estado justo",
+        "tituloAlt": "La utop�a etica del Estado justo",
         "idioma": "es",
         "signaturaTopografica": "24.RUB",
         "fechaPublicacion": "1982",
@@ -73934,7 +73934,7 @@
         "palabrasClave": "SAINT-SIMONOBRAS"
     },
     {
-        "autor": "S�nchez Sorondo Mat�as Guillermo",
+        "autor": "Sánchez Sorondo Mat�as Guillermo",
         "tituloAlt": "Historia de seis a�os",
         "idioma": "es",
         "signaturaTopografica": "24.SAN",
@@ -74247,7 +74247,7 @@
     },
     {
         "autor": "Spencer Herbert",
-        "tituloAlt": "Introduction � la science sociale",
+        "tituloAlt": "IntroductionÀla science sociale",
         "idioma": "fr",
         "signaturaTopografica": "24.SPE",
         "fechaPublicacion": "1878",
@@ -75023,7 +75023,7 @@
     },
     {
         "autor": "Berkeley George",
-        "tituloAlt": "Comentarios filos�ficos / Introducción manuscrita a los \"Principios del conocimiento humano\" / Correspondencia con Johnson",
+        "tituloAlt": "Comentarios filosóficos / Introducción manuscrita a los \"Principios del conocimiento humano\" / Correspondencia con Johnson",
         "idioma": "es",
         "signaturaTopografica": "22.BER",
         "fechaPublicacion": "1989",
@@ -75257,7 +75257,7 @@
         "idioma": "de",
         "signaturaTopografica": "23.BEN-HON",
         "fechaPublicacion": "2000",
-        "palabrasClave": "NARRACIaN EStétICACR+TICA"
+        "palabrasClave": "NARRACIaN ESteticaCR+TICA"
     },
     {
         "autor": "Heidegger Martin",
@@ -75372,7 +75372,7 @@
         "palabrasClave": "JIMENEZCUERPOTIEMPO"
     },
     {
-        "autor": "Herrera Lima Mar�a (coord.)",
+        "autor": "Herrera Lima María (coord.)",
         "tituloAlt": "Teor�as de la interpretación",
         "idioma": "es",
         "signaturaTopografica": "28.HER",
@@ -75517,7 +75517,7 @@
     },
     {
         "autor": "Fernández Moreno Luis (comps.)",
-        "tituloAlt": "Cuestiones filos�ficas",
+        "tituloAlt": "Cuestiones filosóficas",
         "idioma": "es",
         "signaturaTopografica": "33.PER",
         "fechaPublicacion": "2008",
@@ -75693,7 +75693,7 @@
     },
     {
         "autor": "Cragnolini M�nica Beatriz",
-        "tituloAlt": "Raz�n imaginativa, identidad y ética en la obra de Paul Ricoeur",
+        "tituloAlt": "Raz�n imaginativa, identidad y etica en la obra de Paul Ricoeur",
         "idioma": "es",
         "signaturaTopografica": "28.RIC-CRA",
         "fechaPublicacion": "1993",
@@ -75924,7 +75924,7 @@
         "palabrasClave": "TIEDEMANNBENJAMINADORNO"
     },
     {
-        "autor": "S�nchez Rodr�guez Manuel",
+        "autor": "Sánchez Rodr�guez Manuel",
         "tituloAlt": "Sentimiento y reflexión en la filosofía de Kant",
         "idioma": "es",
         "signaturaTopografica": "22.KAN-SAN",
@@ -75997,7 +75997,7 @@
     },
     {
         "autor": "Porto Dora et al. (orgs.)",
-        "tituloAlt": "bioéticas, poderes e injusti�as",
+        "tituloAlt": "bioeticas, poderes e injusti�as",
         "idioma": "pt",
         "signaturaTopografica": "31.POR",
         "fechaPublicacion": "2012",
@@ -76180,7 +76180,7 @@
         "palabrasClave": "ALBIZUHEGELRECEPCION"
     },
     {
-        "autor": "Wences Simon Mar�a Isabel (ed.)",
+        "autor": "Wences Simon María Isabel (ed.)",
         "tituloAlt": "Teor�a social y política de la Ilustración escocesa",
         "idioma": "es",
         "signaturaTopografica": "24.WEN",
@@ -76341,14 +76341,14 @@
     },
     {
         "autor": "Ortega y Gasset Jos�",
-        "tituloAlt": "La deshumanización del arte y otros ensayos de estética",
+        "tituloAlt": "La deshumanización del arte y otros ensayos de estetica",
         "idioma": "es",
         "signaturaTopografica": "33.ORT",
         "fechaPublicacion": "1996",
         "palabrasClave": "ORTEGA Y GASSETESTETICAENSAYOS"
     },
     {
-        "autor": "S�nchez Sergio",
+        "autor": "Sánchez Sergio",
         "tituloAlt": "Borges lector de Whitman y Nietzsche",
         "idioma": "es",
         "signaturaTopografica": "28.MAG",
@@ -76821,7 +76821,7 @@
     },
     {
         "autor": "Mallarm� St�phane",
-        "tituloAlt": "Obra poética",
+        "tituloAlt": "Obra poetica",
         "idioma": "es-fr",
         "signaturaTopografica": "28.MAL",
         "fechaPublicacion": "2013",
@@ -76853,7 +76853,7 @@
     },
     {
         "autor": "Rodr�guez Larreta Juan",
-        "tituloAlt": "Metaf�sica, ética y conocimiento",
+        "tituloAlt": "Metaf�sica, etica y conocimiento",
         "idioma": "es",
         "signaturaTopografica": "33.ROD",
         "fechaPublicacion": "2013",
@@ -77165,7 +77165,7 @@
     },
     {
         "autor": "Sangro Raimondo di",
-        "tituloAlt": "Carta apologética",
+        "tituloAlt": "Carta apologetica",
         "idioma": "es",
         "signaturaTopografica": "22.SAN",
         "fechaPublicacion": "2010",
@@ -77197,7 +77197,7 @@
     },
     {
         "autor": "Parra Par�s Lis�maco",
-        "tituloAlt": "Estética y modernidad",
+        "tituloAlt": "Estetica y modernidad",
         "idioma": "es",
         "signaturaTopografica": "28.PAR",
         "fechaPublicacion": "2007",
@@ -77597,7 +77597,7 @@
     },
     {
         "autor": "Jauss Hans Robert",
-        "tituloAlt": "Experiencia estética y hermenáutica literaria",
+        "tituloAlt": "Experiencia estetica y hermenáutica literaria",
         "idioma": "es",
         "signaturaTopografica": "28.JAU",
         "fechaPublicacion": "1986",
@@ -77629,7 +77629,7 @@
     },
     {
         "autor": "Nino Carlos Santiago",
-        "tituloAlt": "ética y derechos humanos",
+        "tituloAlt": "etica y derechos humanos",
         "idioma": "es",
         "signaturaTopografica": "33.NIN",
         "fechaPublicacion": "1984",
@@ -77684,7 +77684,7 @@
         "palabrasClave": "PEREZEPISTEMOLOGIAPSICOLOGIA"
     },
     {
-        "autor": "S�nchez Sergio",
+        "autor": "Sánchez Sergio",
         "tituloAlt": "La insensata f�brica de la vigilia",
         "idioma": "es",
         "signaturaTopografica": "23.NIE-SAN",
@@ -77797,7 +77797,7 @@
     },
     {
         "autor": "Tackels Bruno",
-        "tituloAlt": "Petite introduction � Walter Benjamin",
+        "tituloAlt": "Petite introductionÀWalter Benjamin",
         "idioma": "fr",
         "signaturaTopografica": "23.BEN-TAC",
         "fechaPublicacion": "2001",
@@ -78213,7 +78213,7 @@
     },
     {
         "autor": "Levinas Emmanuel",
-        "tituloAlt": "De Dieu qui vient � l'idée",
+        "tituloAlt": "De Dieu qui vientÀl'idée",
         "idioma": "fr",
         "signaturaTopografica": "23.LEV",
         "fechaPublicacion": "2004",
@@ -78413,7 +78413,7 @@
     },
     {
         "autor": "Menke Christoph",
-        "tituloAlt": "Estética y negatividad",
+        "tituloAlt": "Estetica y negatividad",
         "idioma": "es",
         "signaturaTopografica": "28.MEN",
         "fechaPublicacion": "2011",
@@ -78492,7 +78492,7 @@
     },
     {
         "autor": "Gleizer Marcos Andr�",
-        "tituloAlt": "Li�Ses introdut�rias ética de Espinosa",
+        "tituloAlt": "Li�Ses introdut�rias etica de Espinosa",
         "idioma": "pt",
         "signaturaTopografica": "22.SPI-GLE",
         "fechaPublicacion": "2013",
@@ -78596,7 +78596,7 @@
     },
     {
         "autor": "Mead George H.",
-        "tituloAlt": "Escritos políticos y filos�ficos",
+        "tituloAlt": "Escritos políticos y filosóficos",
         "idioma": "es",
         "signaturaTopografica": "23.MEA",
         "fechaPublicacion": "2009",
@@ -78611,7 +78611,7 @@
         "palabrasClave": "CASTORIADISDEMOCRACIAATENAS"
     },
     {
-        "autor": "Zambrano Mar�a",
+        "autor": "Zambrano María",
         "tituloAlt": "Filosofía y poes�a",
         "idioma": "es",
         "signaturaTopografica": "28.ZAM",
@@ -79019,8 +79019,8 @@
         "palabrasClave": "DESCARTESINTRODUCCIONMETAFISICA"
     },
     {
-        "autor": "Ravera Rosa Mar�a",
-        "tituloAlt": "Cuestiones de Estética",
+        "autor": "Ravera Rosa María",
+        "tituloAlt": "Cuestiones de Estetica",
         "idioma": "es",
         "signaturaTopografica": "28.RAV",
         "fechaPublicacion": "1979",
@@ -79339,7 +79339,7 @@
         "palabrasClave": "NOVALISFRAGMENTOSROMANTICISMO"
     },
     {
-        "autor": "Fornari Mar�a Cristina",
+        "autor": "Fornari María Cristina",
         "tituloAlt": "Nietzsche y el evolucionismo",
         "idioma": "ES",
         "signaturaTopografica": "23.NIE FOR",
@@ -79531,7 +79531,7 @@
     },
     {
         "autor": "Juárez Esteban Alejandro (ed.)",
-        "tituloAlt": "Modernidad estética y filosofía del arte I",
+        "tituloAlt": "Modernidad estetica y filosofía del arte I",
         "idioma": "es",
         "signaturaTopografica": "28.GAL",
         "fechaPublicacion": "2013",
@@ -79627,7 +79627,7 @@
     },
     {
         "autor": "Baumgarten Alexander Gottlieb",
-        "tituloAlt": "Estética breve",
+        "tituloAlt": "Estetica breve",
         "idioma": "es",
         "signaturaTopografica": "28.BAU",
         "fechaPublicacion": "2014",
@@ -79659,7 +79659,7 @@
     },
     {
         "autor": "Evers Kathinka",
-        "tituloAlt": "Neuroética",
+        "tituloAlt": "Neuroetica",
         "idioma": "es",
         "signaturaTopografica": "31.EVE",
         "fechaPublicacion": "2010",
@@ -79755,7 +79755,7 @@
     },
     {
         "autor": "P�rez L�pez Carlos",
-        "tituloAlt": "La huelga general como problema filos�fico",
+        "tituloAlt": "La huelga general como problema filosófico",
         "idioma": "es",
         "signaturaTopografica": "23.BEN-PER",
         "fechaPublicacion": "2016",
@@ -79779,7 +79779,7 @@
     },
     {
         "autor": "Eagleton Terry",
-        "tituloAlt": "La estética como ideología",
+        "tituloAlt": "La estetica como ideología",
         "idioma": "es",
         "signaturaTopografica": "28.EAG",
         "fechaPublicacion": "2006",
@@ -79835,7 +79835,7 @@
     },
     {
         "autor": "Benjamin Walter",
-        "tituloAlt": "L'oeuvre d'art � l'�poque de sa reproductibilit� technique",
+        "tituloAlt": "L'oeuvre d'artÀl'�poque de sa reproductibilit� technique",
         "idioma": "fr",
         "signaturaTopografica": "23.BEN",
         "fechaPublicacion": "2008",
@@ -80291,7 +80291,7 @@
     },
     {
         "autor": "Gracia Diego",
-        "tituloAlt": "Fundamentos de bioética",
+        "tituloAlt": "Fundamentos de bioetica",
         "idioma": "es",
         "signaturaTopografica": "31.GRA",
         "fechaPublicacion": "1989",
@@ -80995,7 +80995,7 @@
     },
     {
         "autor": "Baudrillard Jean",
-        "tituloAlt": "Crítica de la economía poética del signo",
+        "tituloAlt": "Crítica de la economía poetica del signo",
         "idioma": "ES",
         "signaturaTopografica": "23.BAU",
         "fechaPublicacion": "1974",
@@ -81655,7 +81655,7 @@
         "idioma": "es",
         "signaturaTopografica": "31.KAN - GUT",
         "fechaPublicacion": "2018",
-        "palabrasClave": "KANT ÉTICAHISTORIA"
+        "palabrasClave": "KANT ETICAHISTORIA"
     },
     {
         "autor": "De Olaso Ezequiel",
@@ -81731,7 +81731,7 @@
     },
     {
         "autor": "Alberdi Juan Bautista",
-        "tituloAlt": "Escritos sobre estética y problemas de la literatura",
+        "tituloAlt": "Escritos sobre estetica y problemas de la literatura",
         "idioma": "es",
         "signaturaTopografica": "33.ALB",
         "fechaPublicacion": "1964",
@@ -81747,7 +81747,7 @@
     },
     {
         "autor": "Guariglia Osvaldo",
-        "tituloAlt": "Paideia y dialéctica en la ética de Aristételes",
+        "tituloAlt": "Paideia y dialéctica en la etica de Aristételes",
         "idioma": "es",
         "signaturaTopografica": "33.GUA",
         "fechaPublicacion": "1982",
@@ -81791,7 +81791,7 @@
         "idioma": "es",
         "signaturaTopografica": "22.VOL-PAV",
         "fechaPublicacion": "2018",
-        "palabrasClave": "FILOSOF+A MODERNATEATROPOÉTICA"
+        "palabrasClave": "FILOSOF+A MODERNATEATROPOETICA"
     },
     {
         "autor": "Collier Jeremy",
@@ -81802,7 +81802,7 @@
         "palabrasClave": "FILOSOF+A MODERNAMORALCR+TICA SOCIAL"
     },
     {
-        "autor": "De La Pe�a Luis Jos�",
+        "autor": "De La Peña Luis Jos�",
         "tituloAlt": "Lecciones de Filosofía",
         "idioma": "es",
         "signaturaTopografica": "33.PE�",
@@ -81827,7 +81827,7 @@
     },
     {
         "autor": "Ibarlucía Ricardo",
-        "tituloAlt": "Estéticas del siglo XVIII",
+        "tituloAlt": "Esteticas del siglo XVIII",
         "idioma": "es",
         "signaturaTopografica": "28.IBA.",
         "fechaPublicacion": "2019",
@@ -81855,7 +81855,7 @@
         "idioma": "es",
         "signaturaTopografica": "28.TIL-MAR",
         "fechaPublicacion": "2005",
-        "palabrasClave": "EStétICAFILOSOF+A CONTEMPOráneaEStétICA ANAL+TICA"
+        "palabrasClave": "ESteticaFILOSOF+A CONTEMPOráneaEStetica ANAL+TICA"
     },
     {
         "autor": "Langmuir Erika",
@@ -81871,7 +81871,7 @@
         "idioma": "es",
         "signaturaTopografica": "33.FEI-IBA-FAB",
         "fechaPublicacion": "2019",
-        "palabrasClave": "ARTEBAUDELAIREEStétICA"
+        "palabrasClave": "ARTEBAUDELAIREEStetica"
     },
     {
         "autor": "Gutiérrez Aguilar Ricardo",
@@ -81883,7 +81883,7 @@
     },
     {
         "autor": "García Ruiz Pedro",
-        "tituloAlt": "ética y neurociencias",
+        "tituloAlt": "etica y neurociencias",
         "idioma": "es",
         "signaturaTopografica": "31.GAR-SAN",
         "fechaPublicacion": "2018",
@@ -81940,7 +81940,7 @@
         "idioma": "es",
         "signaturaTopografica": "33.AGU",
         "fechaPublicacion": "2008",
-        "palabrasClave": "ART+CULOS DE IV JORNADAS DE FILOSOF+A TEaRICATEMÉTICA TRANSVERSALCOMPILACIaN"
+        "palabrasClave": "ART+CULOS DE IV JORNADAS DE FILOSOF+A TEaRICATEMETICA TRANSVERSALCOMPILACIaN"
     },
     {
         "autor": "Pereira Gustavo",
@@ -81952,7 +81952,7 @@
     },
     {
         "autor": "Schaeffer Jean-Marie",
-        "tituloAlt": "La experiencia estética",
+        "tituloAlt": "La experiencia estetica",
         "idioma": "es",
         "signaturaTopografica": "28-SCH",
         "fechaPublicacion": "2018",
@@ -81991,7 +81991,7 @@
         "palabrasClave": "TEOR+AS ÁTICASAUTONOM+AT�RMINO DE LA VIDA"
     },
     {
-        "autor": "dela C�mara Mar�a Luisa",
+        "autor": "dela C�mara María Luisa",
         "tituloAlt": "Spinoza y la Antropología en la Modernidad",
         "idioma": "es",
         "signaturaTopografica": "22-SPI-CAM-CAR",
@@ -82080,7 +82080,7 @@
     },
     {
         "autor": "Naville Pierre",
-        "tituloAlt": "D'Holbach et la philosophie scientifique au xviii si�cle",
+        "tituloAlt": "D'Holbach et la philosophie scientifique au xviii siécle",
         "idioma": "fr",
         "signaturaTopografica": "22-D'HO-NAV",
         "fechaPublicacion": "1967",
@@ -82184,7 +82184,7 @@
     },
     {
         "autor": "Guerrero Luis Juan",
-        "tituloAlt": "Luis Juan Guerrero. Panorama de la estética clásico-rom�ntica alemana como introducción al estudio de las corrientes estéticas actuales",
+        "tituloAlt": "Luis Juan Guerrero. Panorama de la estetica clásico-rom�ntica alemana como introducción al estudio de las corrientes esteticas actuales",
         "idioma": "es",
         "signaturaTopografica": "28-GUE-IBA",
         "fechaPublicacion": "2015",
@@ -82196,7 +82196,7 @@
         "idioma": "fr",
         "signaturaTopografica": "22-COU",
         "fechaPublicacion": "1891",
-        "palabrasClave": "ÉTICAPRINCIPIOS MORALES"
+        "palabrasClave": "ETICAPRINCIPIOS MORALES"
     },
     {
         "autor": "Hyppolite Jean",
@@ -82208,11 +82208,11 @@
     },
     {
         "autor": "Geiger Moritz",
-        "tituloAlt": "Estética",
+        "tituloAlt": "Estetica",
         "idioma": "es",
         "signaturaTopografica": "28-GEI",
         "fechaPublicacion": "1951",
-        "palabrasClave": "EStétICA CONTEMPOráneaPENSAMIENTO FENOMENOLaGICO"
+        "palabrasClave": "EStetica CONTEMPOráneaPENSAMIENTO FENOMENOLaGICO"
     },
     {
         "autor": "Jaspers Karl",
@@ -82304,7 +82304,7 @@
     },
     {
         "autor": "Wittgenstein Ludwig",
-        "tituloAlt": "Diario filos�fico",
+        "tituloAlt": "Diario filosófico",
         "idioma": "es",
         "signaturaTopografica": "29-WIT",
         "fechaPublicacion": "1986",
@@ -82348,7 +82348,7 @@
         "idioma": "en",
         "signaturaTopografica": "22-HUM-�RD",
         "fechaPublicacion": "1989",
-        "palabrasClave": "FILOSOF+A MODERNAÉTICA"
+        "palabrasClave": "FILOSOF+A MODERNAETICA"
     },
     {
         "autor": "Zarka Yves Charles",
