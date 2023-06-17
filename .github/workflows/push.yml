@@ -10,8 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@main
+    - uses: actions/checkout@main
 
     - name: build frontend
       uses: actions/setup-node@v2
