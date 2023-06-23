@@ -82,10 +82,10 @@ jobs:
         echo "${{ secrets.SSHKEY}}" | tr -d '\r' | ssh-add - 
         touch ~/.ssh/config
         echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
-        ssh-keyscan -H "${{ secrets.CIFIP}}}}" >> ~/.ssh/known_hosts
+        ssh-keyscan -H ${{ secrets.CIFIP}} >> ~/.ssh/known_hosts
         chmod 644 ~/.ssh/known_hosts
 
-        echo "Deplot started"
+        echo "Deploy started"
         ssh ${{ secrets.CIFIP}}
         sudo su
         ls
