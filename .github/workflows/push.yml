@@ -54,9 +54,9 @@ jobs:
         aws configure set aws_secret_access_key ${{ env.AWS_SECRET_ACCESS_KEY}}
         aws configure set default.region ${{ env.AWS_REGION}}
 
-#     - name: Push front-end code to EC2
-#       run: |
-#         scp -i path/to/your/private/key.pem -r path/to/your/frontend user@your-ec2-instance-ip:/path/to/destination
+    - name: Push front-end code to EC2
+      run: |
+        scp -i ${{ secret.SSHKEY}} ${{ env.CIFIP}}
 
 #     - name: Push back-end code to EC2
 #       run: |
