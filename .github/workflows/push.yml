@@ -36,7 +36,8 @@ jobs:
 
     - name: Install PM2
       run: |
-        pwd, ls
+        pwd
+        ls
         npm install -g pm2
 
     - name: Build backend
