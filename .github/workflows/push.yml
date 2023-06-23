@@ -86,11 +86,8 @@ jobs:
         chmod 644 ~/.ssh/known_hosts
 
         echo "Deploy started"
-        ssh ubuntu@${{ secrets.CIFIP}} "ls"
-        # sudo su
-        # ls
-        # cd ~
-        # pwd 
+        ssh ubuntu@${{ secrets.CIFIP}} 
+        
         
 
      
