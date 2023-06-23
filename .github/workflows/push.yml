@@ -73,7 +73,7 @@ jobs:
 
     - name: Push front-end code to EC2
       run: |
-        scp -i ${{ secrets.SSHKEY}} ${{ secrets.CIFIP}}
+        ssh -i ${{ secrets.SSHKEY}} ${{ secrets.CIFIP}}
         sudo su
         ls
         cd ~
