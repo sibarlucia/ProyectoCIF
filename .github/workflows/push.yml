@@ -34,46 +34,30 @@ jobs:
       working-directory: BackCatalogo
 
 
+  deploy:
+    runs-on: ubuntu-latest
 
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
 
-# stages:
-#     - build
-#     - deploy
+    - name: Install AWS CLI
+      run: |
+        curl "https://d1vvhvl2y92vvt.cloudfront.net/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+        unzip awscliv2.zip
+        sudo ./aws/install
+        aws --version
 
-# build_backend:
-#     stage: build
-#     image: node:latest    
-#     script:
-#         - cd BackCatalogo
-#         - ls
-#         - npm run devStart
-#         - echo "Building back-end..."
-#         - echo "Finished building the app."
-#     artifacts:
-#         expire_in: 1 week
-#         paths:
-#             - BackCatalogo
+    - name: Configure AWS credentials
+      run: |
+        aws configure set aws_access_key_id ${{ env.AWS_ACCESS_KEY_ID}}
+        aws configure set aws_secret_access_key ${{ env.AWS_SECRET_ACCESS_KEY}}
+        aws configure set default.region ${{ env.AWS_REGION}}
 
-      
-    
-    
-    
+#     - name: Push front-end code to EC2
+#       run: |
+#         scp -i path/to/your/private/key.pem -r path/to/your/frontend user@your-ec2-instance-ip:/path/to/destination
 
-# build_frontend:
-#   stage: build
-#   image: node:latest
-#   script:
-#     - echo "Building the app"
-#     - cd FrontCatalogo
-#     - ls
-#     - npm --force install
-#     - CI=false npm run build
-#     - echo "Finished building the app."
-#     - cd dist
-#     - ls
-#     - cd ..
-#     - pwd
-#   artifacts:
-#     name: react_build
-#     paths:
-#       - ./FrontCatalogo/dist/
+#     - name: Push back-end code to EC2
+#       run: |
+#         scp -i path/to/your/private/key.pem -r path/to/your/backend user@your-ec2-instance-ip:/path/to/destination
