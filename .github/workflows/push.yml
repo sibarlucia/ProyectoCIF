@@ -34,8 +34,11 @@ jobs:
       run: npm ci
       working-directory: BackCatalogo
 
+    - name: Install PM2
+      run: npm install -g pm2
+
     - name: Build backend
-      run: npm run devStart
+      run: pm2 npm run devStart
       working-directory: BackCatalogo
 
 
