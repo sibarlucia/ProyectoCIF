@@ -36,14 +36,16 @@ jobs:
 
     - name: Install PM2
       run: |
-        pwd
-        ls
+        
         npm install -g pm2
       working-directory: BackCatalogo
       
 
     - name: Build backend
-      run: pm2 node server.js
+      run: |
+        pwd
+        ls
+        pm2 node server.js
       working-directory: BackCatalogo
 
 
