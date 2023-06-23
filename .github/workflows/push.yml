@@ -45,7 +45,7 @@ jobs:
       run: |
         pwd
         ls
-        pm2 node server.js
+        pm2 start server.js
       working-directory: BackCatalogo
 
 
