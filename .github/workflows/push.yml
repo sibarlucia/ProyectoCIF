@@ -66,16 +66,29 @@ jobs:
 
     - name: Configure AWS credentials
       run: |
+        
+
         echo ${{ secrets.AWS_ACCESS_KEY_ID}}
         aws configure set aws_access_key_id ${{ secrets.AWS_ACCESS_KEY_ID}}
         aws configure set aws_secret_access_key ${{ secrets.AWS_SECRET_ACCESS_KEY}}
         aws configure set default.region ${{ secrets.AWS_REGION}}
 
-    - name: Push front-end code to EC2
+    - name: Push back-end code to EC2
       run: |
-        ssh -i ${{ secrets.SSHKEY}} ${{ secrets.CIFIP}}
-        ls
+        apk update && apk add openssh-client bash
+        mkdir -p ~/.ssh
+        chmod 700 ~/.ssh
+        eval $(ssh-agent -s)
+        echo "${{ secrets.SSHKEY}}" | tr -d '\r' | ssh-add - 
+        touch ~/.ssh/config
+        echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
+        ssh-keyscan -H "${{ secrets.CIFIP}}}}" >> ~/.ssh/known_hosts
+        chmod 644 ~/.ssh/known_hosts
+
+        echo "Deplot started"
+        ssh ${{ secrets.CIFIP}}
         sudo su
+        ls
         cd ~
         
 
