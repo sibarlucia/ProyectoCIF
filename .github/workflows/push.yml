@@ -61,7 +61,7 @@ jobs:
 
     - name: Push front-end code to EC2
       run: |
-        scp -i ${{ secret.SSHKEY}} ${{ env.CIFIP}}
+        scp -i ${{ secrets.SSHKEY}} ${{ env.CIFIP}}
         cd ~
         touch funciona
 
