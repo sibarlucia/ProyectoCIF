@@ -38,7 +38,7 @@ jobs:
       run: npm install -g pm2
 
     - name: Build backend
-      run: pm2 npm run devStart
+      run: pm2 node server.js
       working-directory: BackCatalogo
 
 
