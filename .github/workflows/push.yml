@@ -75,6 +75,7 @@ jobs:
       run: |
         scp -i ${{ secrets.SSHKEY}} ${{ secrets.CIFIP}}
         sudo su
+        ls
         cd ~
         
 
