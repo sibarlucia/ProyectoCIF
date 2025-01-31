@@ -31,11 +31,17 @@ app.use(cors({
 //     next();
 //   });
 
-mongoose.connect(process.env.DATABASE_URL, { useNewUrlParser: true,
-    useUnifiedTopology: true,
-    ssl: true,
-    tlsCAFile: '/etc/ssl/certs/selfsigned.pem'
- })
+const options = {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+  ssl: true,
+  //sslCA: fs.readFileSync('/path/to/ca.pem'),  // El certificado de la autoridad certificadora
+  //sslCert: fs.readFileSync('/path/to/client-cert.pem'),  // El certificado del cliente
+  //sslKey: fs.readFileSync('/path/to/client-key.pem')  // La clave privada del cliente
+  sslValidate: false,
+};
+
+mongoose.connect(process.env.DATABASE_URL, options)
 const db = mongoose.connection
 db.on('error', (error) => console.error(error))
 db.once('open', () => console.log('Connected to Database'))
