@@ -31,12 +31,12 @@ app.use(cors({
 //     next();
 //   });
 
-const certPath = '/etc/ssl/certs/';
-const projectPath = "/home/user/CIF/ProyectoCIF/BackCatalogo/keys/";
+const certPath = '/etc/ssl/certs/selfsigned.pem';
+const projectPath = "/home/user/CIF/ProyectoCIF/BackCatalogo/keys/selfsigned.pem";
 
-const certificate = fs.readFileSync(certPath+ "/selfsigned.pem");
+const certificate = fs.readFileSync(certPath);
 //const sslCert = fs.readFileSync(certPath, 'utf8');
-const sslKeyCert = fs.readFileSync(projectPath + "/selfsigned.pem");
+const sslKeyCert = fs.readFileSync(projectPath);
 
 const options = {
   useNewUrlParser: true,
