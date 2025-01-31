@@ -42,12 +42,12 @@ const options = {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   ssl: true,
-  tlsAllowInvalidCertificates: true ,
+  //tlsAllowInvalidCertificates: true ,
   sslCA: certificate,  // El certificado de la autoridad certificadora
   //tlsCertFile: '/etc/ssl/certs/selfsigned.pem',  // El certificado del cliente
   //tlsKeyFile: '/home/user/CIF/ProyectoCIF/BackCatalogo/selfsigned.key'  // La clave privada del cliente
-  sslCert: sslCert,  // Opción válida en versiones antiguas
-  sslKey: sslKeyCert  // Opción válida en versiones antiguas
+  //sslCert: sslCert,  // Opción válida en versiones antiguas
+  //sslKey: sslKeyCert  // Opción válida en versiones antiguas
 }
 
 mongoose.connect(process.env.DATABASE_URL, options)
