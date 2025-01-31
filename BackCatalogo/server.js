@@ -9,6 +9,12 @@ const express = require('express')
 const cors = require('cors')
 const app = express()
 const mongoose = require('mongoose')
+const fs = require('fs');
+
+const options = {
+  key: fs.readFileSync('/etc/ssl/private/selfsigned.key'),  // Clave privada
+  cert: fs.readFileSync('/etc/ssl/certs/selfsigned.crt'),   // Certificado SSL
+};
 
 app.use(cors({
   // origin: "http://catalogofront.s3-website-us-east-1.amazonaws.com",
@@ -29,7 +35,8 @@ app.use(cors({
 
 mongoose.connect(process.env.DATABASE_URL, { useNewUrlParser: true,
     useUnifiedTopology: true,
-    tls: true
+    ssl: true,
+    sslCA: fs.readFileSync('/etc/ssl/private/selfsigned.key')
  })
 const db = mongoose.connection
 db.on('error', (error) => console.error(error))
@@ -41,4 +48,12 @@ const librosRouter = require('./routes/routesLibros.js')
 app.use('/libros', librosRouter)
 
 app.listen(3000, () => console.log('Server Started'))
+
+app.use((req, res, next) => {
+  if (!req.secure) {
+      return res.redirect(`https://${req.headers.host}${req.url}`);
+  }
+  next();
+});
+
 
