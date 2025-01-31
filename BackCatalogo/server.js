@@ -36,10 +36,10 @@ const options = {
   useUnifiedTopology: true,
   ssl: true,
   tlsAllowInvalidCertificates: true ,
-  sslCA: fs.readFileSync('/etc/ssl/certs/selfsigned.pem'),  // El certificado de la autoridad certificadora
-  sslCert: fs.readFileSync('/etc/ssl/certs/selfsigned.pem'),  // El certificado del cliente
-  sslKey: fs.readFileSync('/home/user/CIF/ProyectoCIF/BackCatalogo/selfsigned.key')  // La clave privada del cliente
-};
+  tlsCAFile: '/etc/ssl/certs/selfsigned.pem',  // El certificado de la autoridad certificadora
+  tlsCertFile: '/etc/ssl/certs/selfsigned.pem',  // El certificado del cliente
+  tlsKeyFile: '/home/user/CIF/ProyectoCIF/BackCatalogo/selfsigned.key'  // La clave privada del cliente
+}
 
 mongoose.connect(process.env.DATABASE_URL, options)
 const db = mongoose.connection
