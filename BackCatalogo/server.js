@@ -67,7 +67,7 @@ const certs = {
   tlsAllowInvalidCertificates: true ,
 
   key: sslKeyCert,
-  cert: sslKeyCert
+  cert: certificate
 };
 
 
