@@ -52,9 +52,6 @@ const certs = {
   cert: fs.readFileSync('/etc/ssl/certs/selfsigned.crt')
 };
 
-app.get('/libros', (req, res) => {
-  res.json({ message: "Datos desde HTTPS" });
-});
 
 // app.listen(3000, () => console.log('Server Started'))
 
