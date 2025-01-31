@@ -41,11 +41,11 @@ const options = {
   //useUnifiedTopology: true,
   ssl: true,
   tlsAllowInvalidCertificates: true ,
-  tlsCAFile: pathCert,  // El certificado de la autoridad certificadora
+  tlsCAFile: fs.readFileSync(pathCert),  // El certificado de la autoridad certificadora
   //tlsCertFile: '/etc/ssl/certs/selfsigned.pem',  // El certificado del cliente
   //tlsKeyFile: '/home/user/CIF/ProyectoCIF/BackCatalogo/selfsigned.key'  // La clave privada del cliente
   //sslCert: sslCert,  // Opción válida en versiones antiguas
-  sslKey: pathKey  // Opción válida en versiones antiguas
+  sslKey: fs.readFileSync(pathKey)  // Opción válida en versiones antiguas
 }
 
 mongoose.connect(process.env.DATABASE_URL, options)
@@ -64,8 +64,8 @@ const certs = {
   ssl: true,
   tlsAllowInvalidCertificates: true ,
 
-  key: pathKey,
-  cert: pathCert,
+  key: fs.readFileSync(pathKey),
+  cert: fs.readFileSync(pathCert),
 };
 
 
