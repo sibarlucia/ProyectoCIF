@@ -43,7 +43,7 @@ const options = {
   useUnifiedTopology: true,
   ssl: true,
   //tlsAllowInvalidCertificates: true ,
-  tslCAFile: certificate,  // El certificado de la autoridad certificadora
+  tlsCAFile: certificate,  // El certificado de la autoridad certificadora
   //tlsCertFile: '/etc/ssl/certs/selfsigned.pem',  // El certificado del cliente
   //tlsKeyFile: '/home/user/CIF/ProyectoCIF/BackCatalogo/selfsigned.key'  // La clave privada del cliente
   //sslCert: sslCert,  // Opción válida en versiones antiguas
