@@ -37,8 +37,10 @@ const options = {
   ssl: true,
   tlsAllowInvalidCertificates: true ,
   tlsCAFile: '/etc/ssl/certs/selfsigned.pem',  // El certificado de la autoridad certificadora
-  tlsCertFile: '/etc/ssl/certs/selfsigned.pem',  // El certificado del cliente
-  tlsKeyFile: '/home/user/CIF/ProyectoCIF/BackCatalogo/selfsigned.key'  // La clave privada del cliente
+  //tlsCertFile: '/etc/ssl/certs/selfsigned.pem',  // El certificado del cliente
+  //tlsKeyFile: '/home/user/CIF/ProyectoCIF/BackCatalogo/selfsigned.key'  // La clave privada del cliente
+  sslCert: fs.readFileSync('/path/to/client-cert.pem'),  // Opción válida en versiones antiguas
+  sslKey: fs.readFileSync('/path/to/client-key.pem')  // Opción válida en versiones antiguas
 }
 
 mongoose.connect(process.env.DATABASE_URL, options)
