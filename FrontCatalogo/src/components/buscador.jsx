@@ -16,7 +16,7 @@ const buscador = ({placeholder}) => {
   useEffect(() => {
     const fetchData = async () => {
       try{
-        const response = await axios.get('http://181.85.164.67/api/libros')
+        const response = await axios.get('https://181.85.164.67/api/libros')
 
         
         //const response = await axios.get('http://181.85.164.67:3000/libros')
