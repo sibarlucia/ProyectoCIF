@@ -44,9 +44,9 @@ const options = {
   //tlsCAFile: (pathCert,'utf8'),  // El certificado de la autoridad certificadora
   //tlsCertFile: '/etc/ssl/certs/selfsigned.pem',  // El certificado del cliente
   //tlsKeyFile: '/home/user/CIF/ProyectoCIF/BackCatalogo/selfsigned.key'  // La clave privada del cliente
-  //sslCert: fs.readFileSync(pathCert, 'utf8'),
+  sslCert: fs.readFileSync(pathCert, 'utf8'),
 
-  //sslKey: fs.readFileSync(pathKey, 'utf8'),
+  sslKey: fs.readFileSync(pathKey, 'utf8'),
 }
 
 mongoose.connect(process.env.DATABASE_URL, options)
