@@ -32,7 +32,7 @@ app.use(cors({
 //   });
 
 const certPath = '/etc/ssl/certs/selfsigned.pem';
-const projectPath = "/home/user/CIF/ProyectoCIF/BackCatalogo/keys/selfsigned.pem";
+const projectPath = '/home/user/CIF/ProyectoCIF/BackCatalogo/keys/selfsigned.pem';
 
 const certificate = (certPath);
 //const sslCert = fs.readFileSync(certPath, 'utf8');
@@ -42,7 +42,7 @@ const options = {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   ssl: true,
-  //tlsAllowInvalidCertificates: true ,
+  tlsAllowInvalidCertificates: true ,
   tlsCAFile: certificate,  // El certificado de la autoridad certificadora
   //tlsCertFile: '/etc/ssl/certs/selfsigned.pem',  // El certificado del cliente
   //tlsKeyFile: '/home/user/CIF/ProyectoCIF/BackCatalogo/selfsigned.key'  // La clave privada del cliente
