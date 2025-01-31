@@ -3,7 +3,7 @@
 
 require('dotenv').config()
 
-const punycode = require('punycode/');
+//const punycode = require('punycode/');
 
 const https = require('https');
 
