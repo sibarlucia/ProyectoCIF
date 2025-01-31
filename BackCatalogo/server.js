@@ -35,15 +35,15 @@ const certPath = '/etc/ssl/certs/selfsigned.pem';
 const projectPath = '/home/user/CIF/ProyectoCIF/BackCatalogo/selfsigned.pem'
 
 const certificate = fs.readFileSync(certPath, 'utf8');
-const sslCert = fs.readFileSync(certPath, 'utf8');
-const sslKeyCert = fs.readFileSync(projectPath, 'utf8');
+//const sslCert = fs.readFileSync(certPath, 'utf8');
+//const sslKeyCert = fs.readFileSync(projectPath, 'utf8');
 
 const options = {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   ssl: true,
   //tlsAllowInvalidCertificates: true ,
-  sslCA: certificate,  // El certificado de la autoridad certificadora
+  tslCAFile: certificate,  // El certificado de la autoridad certificadora
   //tlsCertFile: '/etc/ssl/certs/selfsigned.pem',  // El certificado del cliente
   //tlsKeyFile: '/home/user/CIF/ProyectoCIF/BackCatalogo/selfsigned.key'  // La clave privada del cliente
   //sslCert: sslCert,  // Opción válida en versiones antiguas
