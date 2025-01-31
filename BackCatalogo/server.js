@@ -59,7 +59,7 @@ const certs = {
   ssl: true,
   tlsAllowInvalidCertificates: true ,
 
-  key: fs.readFileSync('/home/user/CIF/ProyectoCIF/BackCatalogo/selfsigned.key'),
+  key: fs.readFileSync('/home/user/CIF/ProyectoCIF/BackCatalogo/selfsigned.pem'),
   cert: fs.readFileSync('/etc/ssl/certs/selfsigned.pem')
 };
 
