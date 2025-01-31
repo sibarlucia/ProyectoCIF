@@ -31,10 +31,10 @@ app.use(cors({
 //     next();
 //   });
 
-const certPath = '/etc/ssl/certs/selfsigned.pem';
-const projectPath = '/home/user/CIF/ProyectoCIF/BackCatalogo/selfsigned.pem'
+const certPath = "/etc/ssl/certs/selfsigned.pem";
+const projectPath = "/home/user/CIF/ProyectoCIF/BackCatalogo/selfsigned.pem";
 
-const certificate = fs.readFileSync(certPath, 'utf8');
+const certificate = fs.readFileSync(certPath);
 //const sslCert = fs.readFileSync(certPath, 'utf8');
 //const sslKeyCert = fs.readFileSync(projectPath, 'utf8');
 
