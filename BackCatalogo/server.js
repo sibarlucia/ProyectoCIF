@@ -31,23 +31,18 @@ app.use(cors({
 //     next();
 //   });
 
-const certPath = '/etc/ssl/certs/selfsigned.pem';
-const projectPath = '/home/user/CIF/ProyectoCIF/BackCatalogo/keys/selfsigned.pem';
-
-const certificate = (certPath);
-//const sslCert = fs.readFileSync(certPath, 'utf8');
-const sslKeyCert = (projectPath);
-
+const cert = fs.readFileSync('/etc/ssl/certs/selfsigned.pem')
+const key = fs.readFileSync('/home/user/CIF/ProyectoCIF/BackCatalogo/keys/selfsigned.pem')
 const options = {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   ssl: true,
   tlsAllowInvalidCertificates: true ,
-  tlsCAFile: certificate,  // El certificado de la autoridad certificadora
+  tlsCAFile: cert,  // El certificado de la autoridad certificadora
   //tlsCertFile: '/etc/ssl/certs/selfsigned.pem',  // El certificado del cliente
   //tlsKeyFile: '/home/user/CIF/ProyectoCIF/BackCatalogo/selfsigned.key'  // La clave privada del cliente
   //sslCert: sslCert,  // Opción válida en versiones antiguas
-  sslKey: sslKeyCert  // Opción válida en versiones antiguas
+  sslKey: key  // Opción válida en versiones antiguas
 }
 
 mongoose.connect(process.env.DATABASE_URL, options)
@@ -66,8 +61,8 @@ const certs = {
   ssl: true,
   tlsAllowInvalidCertificates: true ,
 
-  key: sslKeyCert,
-  cert: certificate
+  key: key,
+  cert: cert
 };
 
 
