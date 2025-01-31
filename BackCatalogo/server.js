@@ -47,7 +47,20 @@ app.use(express.json())
 const librosRouter = require('./routes/routesLibros.js')
 app.use('/libros', librosRouter)
 
-app.listen(3000, () => console.log('Server Started'))
+const certs = {
+  key: fs.readFileSync('/etc/ssl/private/selfsigned.key'),
+  cert: fs.readFileSync('/etc/ssl/certs/selfsigned.crt')
+};
+
+app.get('/libros', (req, res) => {
+  res.json({ message: "Datos desde HTTPS" });
+});
+
+// app.listen(3000, () => console.log('Server Started'))
+
+https.createServer(options, app).listen(3000, () => {
+  console.log("Servidor HTTPS corriendo en puerto 3000");
+});
 
 app.use((req, res, next) => {
   if (!req.secure) {
