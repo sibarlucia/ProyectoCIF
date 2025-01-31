@@ -31,7 +31,7 @@ app.use(cors({
 //     next();
 //   });
 
-const certPath = '/home/user/CIF/ProyectoCIF/BackCatalogo/keys/';
+const certPath = '/etc/ssl/certs/';
 const projectPath = "/home/user/CIF/ProyectoCIF/BackCatalogo/keys/";
 
 const certificate = fs.readFileSync(certPath+ "/selfsigned.pem");
