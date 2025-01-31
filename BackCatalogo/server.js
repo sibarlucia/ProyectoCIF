@@ -4,17 +4,13 @@
 require('dotenv').config()
 
 
+const https = require('https');
 
 const express = require('express')
 const cors = require('cors')
 const app = express()
 const mongoose = require('mongoose')
 const fs = require('fs');
-
-const options = {
-  key: fs.readFileSync('/etc/ssl/private/selfsigned.key'),  // Clave privada
-  cert: fs.readFileSync('/etc/ssl/certs/selfsigned.crt'),   // Certificado SSL
-};
 
 app.use(cors({
   // origin: "http://catalogofront.s3-website-us-east-1.amazonaws.com",
@@ -65,6 +61,9 @@ const certs = {
   //}
   //next();
 //});
+
+app.use(express.json());
+
 
 app.get('/libros', function (req, res, next) {
   res.json({ msg: 'CORS habilitado para todos los orígenes!' });
