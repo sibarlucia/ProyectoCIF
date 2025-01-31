@@ -44,7 +44,7 @@ const options = {
   //tlsCAFile: (pathCert,'utf8'),  // El certificado de la autoridad certificadora
   //tlsCertFile: '/etc/ssl/certs/selfsigned.pem',  // El certificado del cliente
   //tlsKeyFile: '/home/user/CIF/ProyectoCIF/BackCatalogo/selfsigned.key'  // La clave privada del cliente
-  sslCert: (pathCert,'utf8'),  // Opción válida en versiones antiguas
+  sslCert: fs.readFileSync(pathCert, 'utf8'),  // Opción válida en versiones antiguas
   sslKey: (pathKey, 'utf8')  // Opción válida en versiones antiguas
 }
 
