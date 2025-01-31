@@ -34,8 +34,8 @@ app.use(cors({
 const cert = fs.readFileSync('/etc/ssl/certs/selfsigned.pem')
 const key = fs.readFileSync('/home/user/CIF/ProyectoCIF/BackCatalogo/keys/selfsigned.pem')
 const options = {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
+  //useNewUrlParser: true,
+  //useUnifiedTopology: true,
   ssl: true,
   tlsAllowInvalidCertificates: true ,
   tlsCAFile: cert,  // El certificado de la autoridad certificadora
@@ -56,8 +56,8 @@ const librosRouter = require('./routes/routesLibros.js')
 app.use('/libros', librosRouter)
 
 const certs = {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
+  //useNewUrlParser: true,
+  //useUnifiedTopology: true,
   ssl: true,
   tlsAllowInvalidCertificates: true ,
 
