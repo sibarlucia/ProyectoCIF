@@ -47,7 +47,7 @@ app.use('/libros', librosRouter)
 
 const certs = {
   key: fs.readFileSync('/home/user/CIF/ProyectoCIF/BackCatalogo/selfsigned.key'),
-  cert: fs.readFileSync('/etc/ssl/certs/selfsigned.crt')
+  cert: fs.readFileSync('/etc/ssl/certs/selfsigned.pem')
 };
 
 
