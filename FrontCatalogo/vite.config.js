@@ -5,6 +5,12 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   base: '/', // Si la aplicación está en el dominio raíz
+  build: {
+    outDir:'dist',
+  },
+  server: {
+    hmr: false,
+  },
 
 })
 
