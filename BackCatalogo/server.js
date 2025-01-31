@@ -34,9 +34,9 @@ app.use(cors({
 const certPath = '/etc/ssl/certs/selfsigned.pem';
 const projectPath = "/home/user/CIF/ProyectoCIF/BackCatalogo/keys/selfsigned.pem";
 
-const certificate = fs.readFileSync(certPath);
+const certificate = (certPath);
 //const sslCert = fs.readFileSync(certPath, 'utf8');
-const sslKeyCert = fs.readFileSync(projectPath);
+const sslKeyCert = (projectPath);
 
 const options = {
   useNewUrlParser: true,
