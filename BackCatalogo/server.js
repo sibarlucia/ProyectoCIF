@@ -34,7 +34,7 @@ app.use(cors({
 mongoose.connect(process.env.DATABASE_URL, { useNewUrlParser: true,
     useUnifiedTopology: true,
     ssl: true,
-    sslCA: fs.readFileSync('/etc/ssl/certs/selfsigned.crt')
+    tlsCAFile: '/etc/ssl/certs/selfsigned.pem'
  })
 const db = mongoose.connection
 db.on('error', (error) => console.error(error))
