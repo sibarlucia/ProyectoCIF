@@ -66,12 +66,12 @@ const certs = {
   //next();
 //});
 
-app.get('/libros', (req, res) => {
-  res.json({ message: "Datos desde HTTPS en el puerto 3000" });
+app.get('/libros', function (req, res, next) {
+  res.json({ msg: 'CORS habilitado para todos los orígenes!' });
 });
 
 // Iniciar el servidor en el puerto 443
-https.createServer(options, app).listen(3000, () => {
+https.createServer(certs, app).listen(3000, () => {
   console.log("Servidor HTTPS corriendo en el puerto 3000");
 });
 
