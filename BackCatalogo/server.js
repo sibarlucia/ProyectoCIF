@@ -58,15 +58,24 @@ app.get('/libros', (req, res) => {
 
 // app.listen(3000, () => console.log('Server Started'))
 
-https.createServer(options, app).listen(3000, () => {
-  console.log("Servidor HTTPS corriendo en puerto 3000");
+// https.createServer(options, app).listen(3000, () => {
+//  console.log("Servidor HTTPS corriendo en puerto 3000");
+// });
+
+//app.use((req, res, next) => {
+ // if (!req.secure) {
+  //    return res.redirect(`https://${req.headers.host}${req.url}`);
+  //}
+  //next();
+//});
+
+app.get('/libros', (req, res) => {
+  res.json({ message: "Datos desde HTTPS en el puerto 443" });
 });
 
-app.use((req, res, next) => {
-  if (!req.secure) {
-      return res.redirect(`https://${req.headers.host}${req.url}`);
-  }
-  next();
+// Iniciar el servidor en el puerto 443
+https.createServer(options, app).listen(443, () => {
+  console.log("Servidor HTTPS corriendo en el puerto 443");
 });
 
 
