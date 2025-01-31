@@ -16,7 +16,8 @@ app.use(cors({
   // origin: "http://catalogofront.s3-website-us-east-1.amazonaws.com",
   // origin: "http://ec2-15-229-116-103.sa-east-1.compute.amazonaws.com",
   // origin: "http://localhost:5173"
-  origin: "*"
+  // origin: "*"
+  origin: "https://181.85.164.67"
   
 }))
 // app.use((req, res, next) => {
@@ -55,19 +56,19 @@ const certs = {
 //  console.log("Servidor HTTPS corriendo en puerto 3000");
 // });
 
-//app.use((req, res, next) => {
- // if (!req.secure) {
-  //    return res.redirect(`https://${req.headers.host}${req.url}`);
-  //}
-  //next();
-//});
+app.use((req, res, next) => {
+  if (!req.secure) {
+      return res.redirect(`https://${req.headers.host}${req.url}`);
+  }
+  next();
+});
 
 app.use(express.json());
 
 
-app.get('/libros', function (req, res, next) {
-  res.json({ msg: 'CORS habilitado para todos los orígenes!' });
-});
+// app.get('/libros', function (req, res, next) {
+ // res.json({ msg: 'CORS habilitado para todos los orígenes!' });
+// });
 
 // Iniciar el servidor en el puerto 443
 https.createServer(certs, app).listen(3000, () => {
