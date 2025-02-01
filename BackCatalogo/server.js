@@ -175,7 +175,7 @@ app.use(express.json());
 // });
 
 // Iniciar el servidor en el puerto 443
-https.createServer(certs, app).listen(443, () => {
+https.createServer(certs, app).listen(3000, () => {
   console.log("Servidor HTTPS corriendo en el puerto 443");
 });
 
