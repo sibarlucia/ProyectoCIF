@@ -49,9 +49,9 @@ app.use('/libros', librosRouter)
 
 const HOST = '0.0.0.0';
 
-app.listen(3001, HOST, () => console.log('Server Started'))
+//app.listen(3001, HOST, () => console.log('Server Started'))
 
- http.createServer(app).listen(3001, () => {
+http.createServer(app).listen(3001, HOST, () => {
   console.log(`Servidor HTTP corriendo en el host ${HOST} en puerto 3001`);
 });
 
