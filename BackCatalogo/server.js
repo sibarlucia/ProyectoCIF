@@ -6,6 +6,7 @@ require('dotenv').config()
 //const punycode = require('punycode/');
 
 const https = require('https');
+const http = require('http');
 
 const express = require('express')
 const cors = require('cors')
@@ -48,25 +49,24 @@ app.use('/libros', librosRouter)
 
 
 
-// app.listen(3000, () => console.log('Server Started'))
+app.listen(3000, () => console.log('Server Started'))
 
-// https.createServer(options, app).listen(3000, () => {
-//  console.log("Servidor HTTPS corriendo en puerto 3000");
-// });
-
-app.use((req, res, next) => {
-  if (!req.secure) {
-      return res.redirect(`https://${req.headers.host}${req.url}`);
-  }
-  next();
+ http.createServer(app).listen(3001, () => {
+  console.log("Servidor HTTPS corriendo en puerto 3001");
 });
 
-app.use(express.json());
+//app.use((req, res, next) => {
+  //if (!req.secure) {
+   //   return res.redirect(`https://${req.headers.host}${req.url}`);
+  //}
+  //next();
+//});
 
 
 
-https.createServer(app).listen(3000, () => {
-  console.log("Servidor HTTPS corriendo en el puerto 3000");
-});
+
+//https.createServer(app).listen(3000, () => {
+//  console.log("Servidor HTTPS corriendo en el puerto 3000");
+//});
 
 
