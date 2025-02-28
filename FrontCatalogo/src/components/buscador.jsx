@@ -16,7 +16,7 @@ const buscador = ({placeholder}) => {
   useEffect(() => {
     const fetchData = async () => {
       try{
-        const response = await axios.get('http://200.58.107.119:3001/libros')
+        const response = await axios.get('http://localhost:3001/libros')
 
         
         //const response = await axios.get('http://181.85.164.67:3000/libros')
@@ -34,7 +34,9 @@ const buscador = ({placeholder}) => {
   
   const handleLibros = (event) => {
     setBusqueda(event.target.value)
-    console.log(Busqueda);
+    //console.log(Busqueda);
+    console.log(event.target.value);
+    
   }
   
   
@@ -171,11 +173,12 @@ const buscador = ({placeholder}) => {
       <header className='header'> <a href='https://cifnet.org.ar/'><img src='https://cifnet.org.ar/wp-content/uploads/2013/10/cif-logo_03.gif'/></a></header>
 
         
-  <form id='form'  className='search-bar' onChange={handleLibros} onSubmit={handleBusqueda}>
+  <form id='form'  className='search-bar'  onSubmit={handleBusqueda}>
       <input className='input'
         value={Busqueda}
         type="text"
         placeholder="Buscar en el catálogo🔍"
+        onChange={handleLibros}
       />
       <button type="submit">Buscar</button>
     </form>
