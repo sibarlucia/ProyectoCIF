@@ -6,13 +6,16 @@ export default defineConfig({
   plugins: [react()],
   base: '/', // Si la aplicación está en el dominio raíz
   build: {
-    outDir:'dist',
+    outDir: 'dist',
   },
   server: {
-    hmr: false,
-    //port: 80,  
-     },
-
+    proxy: {
+      '/libros': 'http://localhost:3001', // Proxy para redirigir las solicitudes de '/libros' al backend
+    },
+    cors: true, // Habilitar CORS
+    hmr: false, // Desactivar Hot Module Replacement si es necesario
+    // port: 80, // Puedes configurar el puerto si es necesario
+  },
 })
 
 
