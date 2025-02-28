@@ -10,7 +10,7 @@ export default defineConfig({
   },
   server: {
     hmr: false,
-  },
+    port: 80,  },
 
 })
 
