@@ -14,7 +14,7 @@ export default defineConfig({
     },
     cors: true, // Habilitar CORS
     hmr: false, // Desactivar Hot Module Replacement si es necesario
-    //port: 80, // Puedes configurar el puerto si es necesario
+    port: 3000, // Puedes configurar el puerto si es necesario
   },
 })
 
