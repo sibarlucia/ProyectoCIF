@@ -18,7 +18,9 @@ app.use(cors({
   // origin: "http://catalogofront.s3-website-us-east-1.amazonaws.com",
   // origin: "http://ec2-15-229-116-103.sa-east-1.compute.amazonaws.com",
   // origin: "http://localhost:5173"
-  origin: "0.0.0.0",
+    origin: "http://200.58.107.119",
+    methods: "GET,POST,PUT,DELETE",
+    allowedHeaders: "Content-Type,Authorization",
   //origin: "https://181.85.164.67"
   
 }))
