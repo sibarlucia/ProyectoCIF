@@ -36,6 +36,10 @@ input:focus {
 
 }
 
+form {
+  padding-left: 10%;
+}
+
 
 @font-face {
     font-family: 'Roboto';
@@ -68,7 +72,7 @@ input:focus {
     background-color: #EFA600;
     border-radius: 7px;
     padding: 5px;
-    padding-left: 10%;
+    
     opacity: 0.95;
     
     border: 1px solid #4A4939;
