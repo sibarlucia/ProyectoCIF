@@ -169,7 +169,7 @@ const buscador = ({placeholder}) => {
     
     
     
-    <div>
+    <div id='padre'>
       <header className='header'> <a href='https://cifnet.org.ar/'><img src='https://cifnet.org.ar/wp-content/uploads/2013/10/cif-logo_03.gif'/></a></header>
 
         
@@ -189,6 +189,7 @@ const buscador = ({placeholder}) => {
       <button onClick={submitSearch}>Buscar</button>
       <div className='searchIcon'></div>
       </div> */}
+<div className='libros-container'>
 
       {Libros.map((libro) => (
         
@@ -210,6 +211,7 @@ const buscador = ({placeholder}) => {
 
        
     </div>
+      </div>
   )
 }
 
