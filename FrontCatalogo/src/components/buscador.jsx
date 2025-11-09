@@ -1,218 +1,91 @@
-import { useState, useEffect } from 'react'
-import React from 'react'
-import axios from 'axios';
-import "./buscador.css";
+import { useState, useMemo, useCallback } from 'react';
+import React from 'react';
 
+const Buscador = ({ data }) => {
+  const [busqueda, setBusqueda] = useState('');
+  const [libros, setLibros] = useState([]);
 
-const buscador = ({placeholder}) => {
-  const [Busqueda, setBusqueda] = useState('');
-  const [data, setData] = useState([])
-  const [Libros, setLibros] = useState([])
+  const handleLibros = useCallback((event) => {
+    setBusqueda(event.target.value);
+  }, []);
 
-
-  
-  
-  
-  useEffect(() => {
-    const fetchData = async () => {
-      try{
-        const response = await axios.get('http://200.58.107.119:3001/libros')
-
-        
-        //const response = await axios.get('http://181.85.164.67:3000/libros')
-
-        // const response = await axios.get('http://localhost:3000/libros')
-        // const response = await axios.get('http://ec2-15-229-116-103.sa-east-1.compute.amazonaws.com:3000/libros')
-        setData(response.data)
-      } catch(error) {
-        console.error('Error fetching libros', error)
-      }
+  const handleBusqueda = useCallback((event) => {
+    event.preventDefault();
+    if (busqueda.length < 3) {
+      setLibros([]);
+      return;
     }
-    fetchData()
-  }, [])
-  
-  
-  const handleLibros = (event) => {
-    setBusqueda(event.target.value)
-    //console.log(Busqueda);
-    console.log(event.target.value);
-    
-  }
-  
-  
-  const handleBusqueda = (event) => {
-    event.preventDefault()
-    let libros = [] 
 
-    if (Busqueda.length >= 3) {
-          data.map((libro) => {
+    const busquedaMin = busqueda.toLowerCase();
+    const resultados = data.filter((libro) => {
+      const autor = libro.autor?.toLowerCase() || '';
+      const titulo = libro.titulo?.toLowerCase() || '';
+      const tituloAlt = libro.tituloAlt?.toLowerCase() || '';
+      const palabrasClave = libro.palabrasClave?.toLowerCase() || '';
+      const fechaPublicacion = libro.fechaPublicacion || '';
 
-      const autor = libro.autor;
-      const titulo = libro.titulo;
-      const tituloAlt = libro.tituloAlt
-      const palabrasClave = libro.palabrasClave
-      const busquedaMin = Busqueda.toLowerCase()
-      
-      
-      if (autor !== undefined) {
-        const autorMin = autor.toLowerCase();
-        
-          
-          if (autorMin.includes(busquedaMin)) {
-            
-            // console.log(libro);
-            libros.push(libro)
-          }
-        
-      }
-      
-      if (libro.titulo !== undefined) {
-        const tituloMin = titulo.toLowerCase();
+      return (
+        autor.includes(busquedaMin) ||
+        titulo.includes(busquedaMin) ||
+        tituloAlt.includes(busquedaMin) ||
+        palabrasClave.includes(busquedaMin) ||
+        fechaPublicacion.includes(busqueda)
+      );
+    });
 
-        
-            
-            
-            if (tituloMin.includes(busquedaMin)) {
-              if (libros.includes(libro)) {
-                null
-              } else {
-                
-                // console.log(libro);
-                libros.push(libro)
-              }
-            }
-          
-        }
-        
-        if (libro.tituloAlt !== undefined) {
-        const tituloAltMin = tituloAlt.toLowerCase();
+    setLibros(resultados);
+  }, [busqueda, data]);
 
-          
-
-            
-            if (tituloAltMin.includes(busquedaMin)) {
-              if (libros.includes(libro)) {
-                null
-              } else {
-
-                // console.log(libro);
-                libros.push(libro)
-              }
-            }
-          
-        }
-
-        if (libro.palabrasClave !== undefined) {
-        const palabrasClaveMin = palabrasClave.toLowerCase();
-
-          
-            
-            if (palabrasClaveMin.includes(busquedaMin)) {
-              if (libros.includes(libro)) {
-                null
-              } else {
-
-                // console.log(libro);
-                libros.push(libro)
-              }
-            }
-          
-        }
-
-
-        if (libro.fechaPublicacion !== undefined) {
-          
-            
-            if (libro.fechaPublicacion.includes(Busqueda)) {
-              if (libros.includes(libro)) {
-                null
-              } else {
-
-                // console.log(libro);
-                libros.push(libro)
-              }
-            
-          }
-        }
-
-
-
-
-  
-  
-      }) 
-      console.log(libros);
-      setLibros(libros)
-  }}
-
-    console.log(Libros);
-
-  
-  
-  
-  
-  
-  
-  
-  
-    
-      
-   
-  
-
-  console.log(Busqueda);
-  
-
+  const librosFiltrados = useMemo(() => libros, [libros]);
 
   return (
+    <div className="min-h-screen bg-gray-100">
+      <header className="bg-white shadow">
+        <div className="container mx-auto px-4 py-6">
+          <a href="https://cifnet.org.ar/">
+            <img
+              src="https://cifnet.org.ar/wp-content/uploads/2013/10/cif-logo_03.gif"
+              alt="CIF Logo"
+              className="h-12"
+            />
+          </a>
+        </div>
+      </header>
 
-    
-    
-    
-    <div id='padre'>
-      <header className='header'> <a href='https://cifnet.org.ar/'><img src='https://cifnet.org.ar/wp-content/uploads/2013/10/cif-logo_03.gif'/></a></header>
+      <main className="container mx-auto px-4 py-8">
+        <form onSubmit={handleBusqueda} className="flex justify-center mb-8">
+          <input
+            className="w-full max-w-lg px-4 py-2 border border-gray-300 rounded-l-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+            value={busqueda}
+            type="text"
+            placeholder="Buscar en el catálogo 🔍"
+            onChange={handleLibros}
+          />
+          <button
+            type="submit"
+            className="px-4 py-2 bg-blue-500 text-white rounded-r-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
+          >
+            Buscar
+          </button>
+        </form>
 
-        
-  <form id='form'  className='search-bar'  onSubmit={handleBusqueda}>
-      <input className='input'
-        value={Busqueda}
-        type="text"
-        placeholder="Buscar en el catálogo🔍"
-        onChange={handleLibros}
-      />
-      <button type="submit">Buscar</button>
-    </form>
-
-
-      {/* <div className='searchInputs'>
-      <input id='searchInput' type="text" placeholder={placeholder} />
-      <button onClick={submitSearch}>Buscar</button>
-      <div className='searchIcon'></div>
-      </div> */}
-<div className='libros-container'>
-
-      {Libros.map((libro) => (
-        
-        <ul key={libro.id} className='container'>
-          {libro.autor !== undefined ? <li><h2>{libro.autor}</h2></li> : null}
-          {libro.titulo !== undefined ? <li><h2>- {libro.titulo}</h2></li> : null}
-          {libro.tituloAlt !== undefined ? <li><h2>- {libro.tituloAlt}</h2></li> : null}
-          {libro.subtitulo !== undefined ? <li><h2>- {libro.subtitulo}</h2></li> : null}
-          {libro.fechaPublicacion !== undefined ? <li><h2>- {libro.fechaPublicacion}</h2></li> : null}
-          {/* {libro.idioma !== undefined ? <li><h2>  {libro.idioma}</h2></li> : null}  */}
-          {libro.signaturaTopografica !== undefined ? <li><h2>TOP.: {libro.signaturaTopografica}</h2></li> : null}
-          {/* {libro.palabrasClave !== undefined ? <li><h2>PC: {libro.palabrasClave}</h2></li> : null} */}
-          
-        </ul>
-      ))}
-
-
-         
-
-       
+        <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+          {librosFiltrados.map((libro) => (
+            <div key={libro.id} className="bg-white p-4 rounded-lg shadow">
+              {libro.autor && <h2 className="text-xl font-bold">{libro.autor}</h2>}
+              {libro.titulo && <p className="text-gray-700">- {libro.titulo}</p>}
+              {libro.tituloAlt && <p className="text-gray-700">- {libro.tituloAlt}</p>}
+              {libro.subtitulo && <p className="text-gray-700">- {libro.subtitulo}</p>}
+              {libro.fechaPublicacion && <p className="text-gray-500 text-sm">- {libro.fechaPublicacion}</p>}
+              {libro.signaturaTopografica && (
+                <p className="mt-2 text-sm font-mono">TOP.: {libro.signaturaTopografica}</p>
+              )}
+            </div>
+          ))}
+        </div>
+      </main>
     </div>
-      </div>
-  )
-}
+  );
+};
 
-export default buscador
+export default Buscador;
