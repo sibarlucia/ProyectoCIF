@@ -6,7 +6,7 @@ on:
       
   workflow_dispatch:
   
-  pull_request: 
+  pull_request:
     branches: ["main"]
       
 
@@ -86,7 +86,7 @@ jobs:
         chmod 644 ~/.ssh/known_hosts
 
         echo "Deploy started"
-        ssh ubuntu@${{ secrets.CIFIP}} 
+        ssh ubuntu@${{ secrets.CIFIP}}
         
         
 
