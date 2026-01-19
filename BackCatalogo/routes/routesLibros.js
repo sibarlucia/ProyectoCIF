@@ -21,16 +21,30 @@ router.get('/:id', getLibro,(req,res) => {
 //Creating one
 router.post('/', async (req,res) => {
     const libro = new Libro({
-      titulo: req.body.titulo,
-      
+        titulo: req.body.titulo,
         autor: req.body.autor,
-        idioma: req.body.idioma
+        titulo_alternativo: req.body.titulo_alternativo,
+        subtitulo: req.body.subtitulo,
+        fechaPublicacion: req.body.fechaPublicacion,
+        palabrasClave: req.body.palabrasClave,
+        idioma: req.body.idioma,
+        signaturaTopografica: req.body.signaturaTopografica
     })
     try {
         const newLibro = await libro.save()
         res.status(201).json(newLibro)
     } catch(err){
         res.status(400).json({ message: err.message})
+    }
+})
+
+// Creating many
+router.post('/bulk', async (req, res) => {
+    try {
+        const libros = await Libro.insertMany(req.body)
+        res.status(201).json(libros)
+    } catch (err) {
+        res.status(400).json({ message: err.message })
     }
 })
 
