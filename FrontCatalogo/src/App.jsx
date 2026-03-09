@@ -1,5 +1,7 @@
 import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Buscador from './components/buscador';
+import Admin from './components/Admin';
 import useLibros from './hooks/useLibros';
 import './App.css';
 
@@ -15,9 +17,12 @@ function App() {
   }
 
   return (
-    <>
-      <Buscador data={data} placeholder={"Buscar por título, autor o palabras claves"} />
-    </>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Buscador data={data} />} />
+        <Route path="/admin" element={<Admin />} />
+      </Routes>
+    </Router>
   );
 }
 

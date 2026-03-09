@@ -21,10 +21,14 @@ router.get('/:id', getLibro,(req,res) => {
 //Creating one
 router.post('/', async (req,res) => {
     const libro = new Libro({
-      titulo: req.body.titulo,
-      
+        titulo: req.body.titulo,
         autor: req.body.autor,
-        idioma: req.body.idioma
+        titulo_alternativo: req.body.titulo_alternativo,
+        subtitulo: req.body.subtitulo,
+        fechaPublicacion: req.body.fechaPublicacion,
+        palabrasClave: req.body.palabrasClave,
+        idioma: req.body.idioma,
+        signaturaTopografica: req.body.signaturaTopografica
     })
     try {
         const newLibro = await libro.save()
