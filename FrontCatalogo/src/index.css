@@ -25,10 +25,9 @@ a:hover {
 
 body {
   margin: 0;
-  display: flex;
-  place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background-color: #f3f4f6; /* gray-100 to match buscador background */
 }
 
 h1 {

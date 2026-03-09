@@ -76,20 +76,22 @@ const Buscador = ({ data }) => {
       </header>
 
       <main className="container mx-auto px-4 py-8">
-        <form onSubmit={handleBusqueda} className="flex justify-center mb-8">
-          <input
-            className="w-full max-w-lg px-4 py-2 border border-gray-300 rounded-l-md focus:outline-none focus:ring-2 focus:ring-blue-500"
-            value={busqueda}
-            type="text"
-            placeholder="Buscar en el catálogo 🔍"
-            onChange={handleLibros}
-          />
-          <button
-            type="submit"
-            className="px-4 py-2 bg-blue-500 text-white rounded-r-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
-          >
-            Buscar
-          </button>
+        <form onSubmit={handleBusqueda} className="flex justify-center mb-8 w-full">
+          <div className="flex w-full max-w-2xl">
+            <input
+              className="flex-grow px-4 py-2 border border-gray-300 rounded-l-md focus:outline-none focus:ring-2 focus:ring-blue-500 h-11"
+              value={busqueda}
+              type="text"
+              placeholder="Buscar en el catálogo 🔍"
+              onChange={handleLibros}
+            />
+            <button
+              type="submit"
+              className="px-6 py-2 bg-[#EFA600] text-white rounded-r-md hover:bg-[#d99700] transition-colors focus:outline-none focus:ring-2 focus:ring-[#EFA600] h-11 flex items-center justify-center font-semibold"
+            >
+              Buscar
+            </button>
+          </div>
         </form>
 
         <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
