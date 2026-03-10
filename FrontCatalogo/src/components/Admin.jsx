@@ -1,7 +1,11 @@
 import React, { useState } from 'react';
 import axios from 'axios';
+import BuscadorAdmin from './BuscadorAdmin';
+import useLibros from '../hooks/useLibros';
 
 const Admin = () => {
+  const { data, refreshData } = useLibros();
+  const [showSearch, setShowSearch] = useState(false);
   const [formData, setFormData] = useState({
     titulo: '',
     autor: '',
@@ -37,6 +41,7 @@ const Admin = () => {
       // Using /libros directly because of Vite proxy
       await axios.post('/libros', formData);
       setMessage('Libro creado con éxito.');
+      refreshData();
       setFormData({
         titulo: '',
         autor: '',
@@ -57,8 +62,23 @@ const Admin = () => {
 
   return (
     <div className="min-h-screen bg-gray-100 py-8">
-      <div className="container mx-auto px-4 max-w-2xl">
-        <div className="bg-white p-8 rounded-lg shadow-md">
+      <div className="container mx-auto px-4 max-w-4xl">
+        <div className="flex justify-center mb-6">
+          <button
+            onClick={() => setShowSearch(!showSearch)}
+            className="px-6 py-2 bg-white border-2 border-[#EFA600] text-[#EFA600] font-bold rounded-lg hover:bg-[#EFA600] hover:text-white transition-colors"
+          >
+            {showSearch ? 'Volver a Crear Nuevo' : 'Modificar una entrada existente'}
+          </button>
+        </div>
+
+        {showSearch ? (
+          <div className="bg-white p-8 rounded-lg shadow-md">
+            <h1 className="text-2xl font-bold mb-6 text-center">Administración: Modificar Entradas</h1>
+            <BuscadorAdmin data={data} onUpdate={refreshData} />
+          </div>
+        ) : (
+        <div className="bg-white p-8 rounded-lg shadow-md max-w-2xl mx-auto">
           <h1 className="text-2xl font-bold mb-6 text-center">Administración: Crear Nuevo Libro</h1>
 
           {message && (
@@ -169,6 +189,7 @@ const Admin = () => {
             </div>
           </form>
         </div>
+        )}
       </div>
     </div>
   );
