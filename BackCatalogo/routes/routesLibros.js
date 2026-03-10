@@ -21,10 +21,14 @@ router.get('/:id', getLibro,(req,res) => {
 //Creating one
 router.post('/', async (req,res) => {
     const libro = new Libro({
-      titulo: req.body.titulo,
-      
+        titulo: req.body.titulo,
         autor: req.body.autor,
-        idioma: req.body.idioma
+        titulo_alternativo: req.body.titulo_alternativo,
+        subtitulo: req.body.subtitulo,
+        fechaPublicacion: req.body.fechaPublicacion,
+        palabrasClave: req.body.palabrasClave,
+        idioma: req.body.idioma,
+        signaturaTopografica: req.body.signaturaTopografica
     })
     try {
         const newLibro = await libro.save()
@@ -35,13 +39,35 @@ router.post('/', async (req,res) => {
 })
 
 //Updating one
-router.patch('/:id',(req,res) => {
+router.patch('/:id', getLibro, async (req, res) => {
+    const fields = [
+        'titulo', 'autor', 'titulo_alternativo', 'subtitulo',
+        'fechaPublicacion', 'palabrasClave', 'idioma', 'signaturaTopografica'
+    ];
 
-})
+    fields.forEach(field => {
+        if (req.body[field] != null) {
+            res.libro[field] = req.body[field];
+        }
+    });
+
+    try {
+        const updatedLibro = await res.libro.save();
+        res.json(updatedLibro);
+    } catch (err) {
+        res.status(400).json({ message: err.message });
+    }
+});
+
 //Deleting one
-router.delete('/:id',(req,res) => {
-    res.libro
-})
+router.delete('/:id', getLibro, async (req, res) => {
+    try {
+        await res.libro.deleteOne();
+        res.json({ message: 'Libro eliminado' });
+    } catch (err) {
+        res.status(500).json({ message: err.message });
+    }
+});
 
 async function getLibro(req, res, next) {
     let libro
