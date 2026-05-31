@@ -5,6 +5,8 @@ const cors = require('cors');
 const mongoose = require('mongoose');
 const helmet = require('helmet');
 const http = require('http');
+const jwt = require('jsonwebtoken');
+const bcrypt = require('bcryptjs');
 
 const app = express();
 
@@ -28,6 +30,26 @@ db.once('open', () => console.log('Connected to Database'));
 app.use(express.json());
 
 // Routes
+app.post('/login', async (req, res) => {
+  const { password } = req.body;
+
+  if (!password) {
+    return res.status(400).json({ message: 'Contraseña requerida' });
+  }
+
+  try {
+    const match = await bcrypt.compare(password, process.env.ADMIN_PASSWORD_HASH);
+    if (match) {
+      const accessToken = jwt.sign({ admin: true }, process.env.JWT_SECRET, { expiresIn: '1h' });
+      res.json({ accessToken });
+    } else {
+      res.status(401).json({ message: 'Contraseña incorrecta' });
+    }
+  } catch (err) {
+    res.status(500).json({ message: err.message });
+  }
+});
+
 const librosRouter = require('./routes/routesLibros.js');
 app.use('/libros', librosRouter);
 

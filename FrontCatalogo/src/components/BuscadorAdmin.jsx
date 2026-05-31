@@ -65,7 +65,10 @@ const BuscadorAdmin = ({ data, onUpdate }) => {
   const eliminarLibro = async (id) => {
     if (!window.confirm('¿Estás seguro de que deseas eliminar este libro?')) return;
     try {
-      await axios.delete(`/libros/${id}`);
+      const token = localStorage.getItem('adminToken');
+      await axios.delete(`/libros/${id}`, {
+        headers: { Authorization: `Bearer ${token}` }
+      });
       alert('Libro eliminado');
       onUpdate(); // Refresh data
       setLibros(libros.filter(l => (l._id || l.id) !== id));
@@ -92,7 +95,10 @@ const BuscadorAdmin = ({ data, onUpdate }) => {
   const guardarEdicion = async (e) => {
     e.preventDefault();
     try {
-      await axios.patch(`/libros/${editando}`, formData);
+      const token = localStorage.getItem('adminToken');
+      await axios.patch(`/libros/${editando}`, formData, {
+        headers: { Authorization: `Bearer ${token}` }
+      });
       alert('Libro actualizado');
       setEditando(null);
       onUpdate();
