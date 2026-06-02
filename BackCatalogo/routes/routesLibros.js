@@ -1,6 +1,7 @@
 const express = require('express')
 const router = express.Router()
 const Libro = require('../models/modelsLibros')
+const authenticateToken = require('../middleware/auth')
 
 //Getting all
 router.get('/', async (req, res) => {
@@ -19,7 +20,7 @@ router.get('/:id', getLibro,(req,res) => {
 })
 
 //Creating one
-router.post('/', async (req,res) => {
+router.post('/', authenticateToken, async (req,res) => {
     const libro = new Libro({
         titulo: req.body.titulo,
         autor: req.body.autor,
@@ -39,7 +40,7 @@ router.post('/', async (req,res) => {
 })
 
 //Updating one
-router.patch('/:id', getLibro, async (req, res) => {
+router.patch('/:id', authenticateToken, getLibro, async (req, res) => {
     const fields = [
         'titulo', 'autor', 'titulo_alternativo', 'subtitulo',
         'fechaPublicacion', 'palabrasClave', 'idioma', 'signaturaTopografica'
@@ -60,7 +61,7 @@ router.patch('/:id', getLibro, async (req, res) => {
 });
 
 //Deleting one
-router.delete('/:id', getLibro, async (req, res) => {
+router.delete('/:id', authenticateToken, getLibro, async (req, res) => {
     try {
         await res.libro.deleteOne();
         res.json({ message: 'Libro eliminado' });
