@@ -127,12 +127,13 @@ const Admin = () => {
             Cerrar Sesión
           </button>
           <div className="flex justify-center flex-grow">
-          <button
-            onClick={() => setShowSearch(!showSearch)}
-            className="px-6 py-2 bg-white border-2 border-[#EFA600] text-[#EFA600] font-bold rounded-lg hover:bg-[#EFA600] hover:text-white transition-colors"
-          >
-            {showSearch ? 'Volver a Crear Nuevo' : 'Modificar una entrada existente'}
-          </button>
+            <button
+              onClick={() => setShowSearch(!showSearch)}
+              className="px-6 py-2 bg-white border-2 border-[#EFA600] text-[#EFA600] font-bold rounded-lg hover:bg-[#EFA600] hover:text-white transition-colors"
+            >
+              {showSearch ? 'Volver a Crear Nuevo' : 'Modificar una entrada existente'}
+            </button>
+          </div>
         </div>
 
         {showSearch ? (
